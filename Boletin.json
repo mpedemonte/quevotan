@@ -1,0 +1,31 @@
+Boletin({
+	Votaciones:[
+		{
+			Fecha:Date,
+			Tipo:"",
+			Resultado:"",
+			Quorum:"",
+			Sesion:[
+				{
+					Numero:"",
+					Fecha: Date,
+					FechaTermino: Date,
+					Tipo:"",
+					Estado:"",
+					Asistencia:[
+					{
+						Nombre:"",
+						ID_Diputado:""
+					}
+				}
+			],
+			Boletin:"",
+			TotalAfirmativos:"",
+			TotalNegativos:"",
+			TotalAbstenciones:"",
+			TotalDispensados:""	
+		}
+],
+	Tema:[],
+	Proyectos:[]
+})
