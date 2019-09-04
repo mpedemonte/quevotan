@@ -26,6 +26,23 @@ Boletin({
 			TotalDispensados:""	
 		}
 ],
-	Tema:[],
-	Proyectos:[]
+	Tema:[{Nombre:""}],
+	Proyectos:[{
+		Descripcion:"",
+		Materias:[{Descripcion:""}],
+		Votaciones:[{
+			Tema:"",
+			Fecha:Date,
+			Si:"",
+			No:"",
+			Abstencion:"",
+			Pareo:"",
+			Quorum:"",
+			Etapa:"",
+			DetalleVotacion:[{
+				Parlamentario:"",
+				Seleccion:""
+			}]
+		}]
+	}]
 })
