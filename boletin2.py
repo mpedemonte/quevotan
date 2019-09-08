@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 import re, string, unicodedata
 import nltk
-#import contractions
 import inflect
 from bs4 import BeautifulSoup
 from nltk import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import LancasterStemmer, WordNetLemmatizer
+
 #nltk.download('punkt')
 #nltk.download('stopwords')
 
@@ -64,8 +64,19 @@ def remove_stopwords(words):
     """Remove stop words from list of tokenized words"""
     new_words = []
     for word in words:
-        if word not in stopwords.words('english'):
-            new_words.append(word)
+        if word not in stopwords.words('spanish'):
+            number=False
+            if len(word)>2:
+                if word == "i" or word == "ii" or word == "iii" or word == "iv" or word == "v" or word == "vi" or word == "vii" or word == "viii":
+                    number = True
+                else:
+                    for i in word:
+                        if i == "0" or i == "1" or i == "2" or i == "3" or i == "4" or i == "5" or i == "6" or i == "7" or i == "8" or i == "9":
+                            number=True
+                        if i == " ":
+                            word = word.replace(" ", "'")
+                if number == False:
+                    new_words.append(word)
     return new_words
 
 def stem_words(words):
@@ -90,21 +101,18 @@ def normalize(words):
     words = remove_non_ascii(words)
     words = to_lowercase(words)
     words = remove_punctuation(words)
-    words = replace_numbers(words)
     words = remove_stopwords(words)
     return words
+
 
 datos = open("feed.xml","r")
 text = datos.read()
 sample = denoise_text(text)
-#print(sample.encode("utf-8"))
-
 
 words = nltk.word_tokenize(sample)
-#print(words)
 
 words = normalize(words)
-#1print(words)
+
 palabra = ""
 for i in words:
     palabra =palabra + i +"\n"
