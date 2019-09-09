@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from nltk import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import LancasterStemmer, WordNetLemmatizer
+import os.path
 
 #nltk.download('punkt')
 #nltk.download('stopwords')
@@ -105,18 +106,23 @@ def normalize(words):
     return words
 
 
-datos = open("feed.xml","r")
-text = datos.read()
-sample = denoise_text(text)
+x=800
+for i in range(x,3810):
+    if os.path.exists("Boletines/boletin_sesion_"+str(x)+".xml") == True:
+        datos = open("Boletines/boletin_sesion_"+str(x)+".xml","r")
+        text = datos.read()
+        sample = denoise_text(text)
 
-words = nltk.word_tokenize(sample)
+        words = nltk.word_tokenize(sample)
 
-words = normalize(words)
+        words = normalize(words)
 
-palabra = ""
-for i in words:
-    palabra =palabra + i +"\n"
+        palabra = ""
+        for i in words:
+            palabra =palabra + i +"\n"
 
-with open("boletin.txt","w") as file:
-    file.write(palabra)
+        with open("palabras/boletin_sesion_"+str(x)+".txt","w") as file:
+            file.write(palabra)
+    print (x)
+    x+=1
 

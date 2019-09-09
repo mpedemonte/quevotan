@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import requests
-
-URL = "http://opendata.congreso.cl/wscamaradiputados.asmx/getSesionBoletinXML?prmSesionID=3162"
-
-response = requests.get(URL)
-with open("feed.xml","w") as file:
-    file.write(response.content)
-
-
+x=1
+for i in range(1,5000):
+    URL="http://opendata.congreso.cl/wscamaradiputados.asmx/getSesionBoletinXML?prmSesionID="+str(x)
+    response = requests.get(URL)
+    nombre = "Boletines/boletin_sesion_"+str(x)+".xml"
+    if len(response.content)>38:
+        with open(nombre,"w") as file:
+            file.write(response.content)
+    print (x)
+    x+=1
