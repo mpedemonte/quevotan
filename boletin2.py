@@ -106,7 +106,8 @@ def normalize(words):
     return words
 
 
-x=800
+x=3110
+y=float(0)
 for i in range(x,3810):
     if os.path.exists("Boletines/boletin_sesion_"+str(x)+".xml") == True:
         datos = open("Boletines/boletin_sesion_"+str(x)+".xml","r")
@@ -124,5 +125,9 @@ for i in range(x,3810):
         with open("palabras/boletin_sesion_"+str(x)+".txt","w") as file:
             file.write(palabra)
     print (x)
+    y= y+ (float(1)/float(7))
+    print (str("{0:.2f}".format(y))+"%")
     x+=1
+
+
 
