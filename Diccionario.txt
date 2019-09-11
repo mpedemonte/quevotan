@@ -19,15 +19,15 @@ justicia y derechos humanos: {nacionalidad, derecho, derechos, humano, humanos,
 			      identificación, mortinatos, manifestaciones,
 			      migrantes, penas, carcel, libertad, humanitarias
 			      humanitarios, humanitaria, humanitario,privación,
-			      privativas,registro, revoca}
+			      privativas,registro, revoca,comunidades}
 trabajo y previsión social:{ beneficio, social,normas, laborales, laboral,
 			    beneficios, sociales, biodiversidad, sindicato, 
-			    sindicatos, estatuto, estatutos, código, trabajo, isapre, tutela,
-			    consejo, dia, nacional, feriado, procedimiento}
+			    sindicatos,sindicales, estatuto, estatutos, código, trabajo, isapre, tutela,
+			    consejo, dia, nacional, feriado, procedimiento, faenas, faena}
 obras publicas:{localidad,comuna,ruta,vía, pública,vías,peaje, sanitario,autopista, 
 		autopistas,comunas,localidades, rutas,peajes, país, obras, obra, concesiones,
 		infraestructura, planificación, relicitaciones, vial, hidráulica, región,
-	        regiones, rural, rurales, licitación, licitaciones }
+	        regiones, rural, rurales, licitación, licitaciones,calle, calles }
 
 salud:{ nacional, cáncer,enfermedad, enfermedades, desfibrilador, desfibriladores, hospital,
 	hospitales, clinica, clinicas, salud, infraestructura, isapres, precio, isapre, 
@@ -35,3 +35,36 @@ salud:{ nacional, cáncer,enfermedad, enfermedades, desfibrilador, desfibrilador
 	discapacidad, discapacidades,preferente, protección, órganos, embarazo, 
 	epidemiológicos, epidemiológico,dolor, dolores, oncológicos, clinico, clinicos,
 	sindrome, sindromes, médico, nutrientes, nutriente, GES, física, deporte  }
+vivienda y urbanismo:{integración, social, urbana, vivienda, viviendas,copropiedad,propiedad,
+			inmueble, propiedad,inmuebles,inmobiliaria,instalación, mantención,
+			funcionamiento,urbanismo,construcción, edificación,regularización,
+			autoconstrucción, obras, obra, villa, vecino, vecinos, comuna, 
+			comunas, familia, familias, familiar, juntas,comunitaria, 
+			comunitarias, comunitario, comunitarios, comunidad,dirigentes,
+			participación,ciudadana,publica, condominio, condominios,
+			poblaciones,villas, población, avalúo, fiscal}
+agricultura:{aguas, agua,forestal,forestales,sustentable,bosque,nativo,madera,plagas, 
+	    plaguicidas,suelo, suelos, tierra, extracción,agricultura, agricultor,
+	    agricultores,apícola,actividad, actividades,parque,nacional,parques,
+	    elaboración,comecialización,leche,lacteos,SAG,ganado, ganaderos,campo,frutícola,
+	    frutícolas, frutas,árboles, árbol, sequía, riego, riegos, poda, podas, 
+	    cosecha, cosechas,animales, animal}
+minería y energía:{servicios, eléctricos, eléctrico,distribución,cobre,glaciares,eficiencia, 
+	energética,división, mina, fundición, minería, minera,mineral,instalación,empalme, 
+	empalmes, eléctricidad,distribución,energético, energético,energía,lumínica,luz,
+	revisión,reparación, medidor, medidores, transmisión}
+transporte y telecomunicaciones:{sistema,automático, automatizado, roaming, carreras,
+	celulares,pantalla, celular,pantallas, conducción, vehículo, vehículos,motor,
+	motores,motorizados,motorizado, estacionar,telecomunicación, telecomunicaciones,
+	radio,radiodifusión,bus, buses, trolebuses, radioeléctrico,transporte, transportes,
+	interurbanos,circulación,medios,pasajeros, pasajero,aeronáutica,aviación, avión,
+	aeropuerto, barco, barcos, puerto, puertos, movilidad, red,comunicación, 
+	comunicaciones,portuario, tendido, cables, tarifas}
+bienes nacionales: {}
+medio ambiente: {}
+deporte:{}
+mujer y la equidad de género:{}
+cultura y las artes:{}
+Defensa:{}
+Hacienda:{}
+Relaciones exteriores:{}
