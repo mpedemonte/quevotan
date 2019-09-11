@@ -1,0 +1,37 @@
+Economia, fomento y turismo: { turismo, deudas,deuda, corredor de propiedades,
+				productividad, emprendimiento, crédito,
+				indemnización,inversión, I.P.C, precio,
+				isapres, isapre,economia, fomento, tarifas,
+				tarifa, banco}
+Desarrollo social: { Igualdad,inclusión,discapacidad,desarrollo, sostenible,
+		    capacitación}
+Educación: { educación, educacional,educacionales, básica, media, prebásica, parvularia,
+	    parvulo, escuela, escuelas, colegios, colegio, curricular, aprendizaje,
+	    cultura,culturales, establecimiento, establecimientos, docente,
+	    apoderado, apoderados,alumno, alumna, alumnos, alumnas, arancel,titulo,
+	    académico, estudiante, estudiantes,evaluación, evaluaciones, enseñanza,
+	    programa, programas, asignatura, asignaturas,docentes,subvención, 
+	    escolar, profesor, profesores, infantil,integración, integra}
+justicia y derechos humanos: {nacionalidad, derecho, derechos, humano, humanos,
+			      gracia, cuidadano, cuidadanía, sufragio,prisión,
+			      sentencia,protección,indigenas, etnia, etnias,
+			      indigena, migración, migraciones, extrangería, civil
+			      identificación, mortinatos, manifestaciones,
+			      migrantes, penas, carcel, libertad, humanitarias
+			      humanitarios, humanitaria, humanitario,privación,
+			      privativas,registro, revoca}
+trabajo y previsión social:{ beneficio, social,normas, laborales, laboral,
+			    beneficios, sociales, biodiversidad, sindicato, 
+			    sindicatos, estatuto, estatutos, código, trabajo, isapre, tutela,
+			    consejo, dia, nacional, feriado, procedimiento}
+obras publicas:{localidad,comuna,ruta,vía, pública,vías,peaje, sanitario,autopista, 
+		autopistas,comunas,localidades, rutas,peajes, país, obras, obra, concesiones,
+		infraestructura, planificación, relicitaciones, vial, hidráulica, región,
+	        regiones, rural, rurales, licitación, licitaciones }
+
+salud:{ nacional, cáncer,enfermedad, enfermedades, desfibrilador, desfibriladores, hospital,
+	hospitales, clinica, clinicas, salud, infraestructura, isapres, precio, isapre, 
+	fonasa, sanitario, medicinal, medicina, alimentos, saludable, saludables, atención, 
+	discapacidad, discapacidades,preferente, protección, órganos, embarazo, 
+	epidemiológicos, epidemiológico,dolor, dolores, oncológicos, clinico, clinicos,
+	sindrome, sindromes, médico, nutrientes, nutriente, GES, física, deporte  }
