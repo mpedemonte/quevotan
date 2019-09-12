@@ -1,0 +1,5 @@
+(1, 'proposicion')
+(1, 'mixta')
+(1, 'inmobiliaria')
+(1, 'copropiedad')
+(1, 'comision')

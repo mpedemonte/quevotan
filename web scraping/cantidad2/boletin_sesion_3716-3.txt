@@ -1,0 +1,6 @@
+(1, 'proyecto')
+(1, 'presidenta')
+(1, 'maya')
+(1, 'fernandez')
+(1, 'dona')
+(1, 'despachado')

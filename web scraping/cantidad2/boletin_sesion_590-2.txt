@@ -1,0 +1,5 @@
+(1, 'tramite')
+(1, 'tercer')
+(1, 'parvularia')
+(1, 'educacion')
+(1, 'constitucional')

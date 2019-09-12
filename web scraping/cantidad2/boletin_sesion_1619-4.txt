@@ -1,0 +1,5 @@
+(1, 'votacion')
+(1, 'veto')
+(1, 'suprema')
+(1, 'informar')
+(1, 'corte')

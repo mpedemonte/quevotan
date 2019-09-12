@@ -1,0 +1,8 @@
+(1, 'votacion')
+(1, 'tramite')
+(1, 'primer')
+(1, 'mutualidades')
+(1, 'fondo')
+(1, 'empleadores')
+(1, 'contingencia')
+(1, 'constitucional')

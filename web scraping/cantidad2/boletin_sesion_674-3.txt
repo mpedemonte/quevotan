@@ -1,0 +1,6 @@
+(1, 'votacion')
+(1, 'tramite')
+(1, 'responsabilidad')
+(1, 'primer')
+(1, 'fiscal')
+(1, 'constitucional')

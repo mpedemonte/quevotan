@@ -1,0 +1,8 @@
+(1, 'tramite')
+(1, 'segundo')
+(1, 'monumento')
+(1, 'homenaje')
+(1, 'henriquez')
+(1, 'fray')
+(1, 'constitucional')
+(1, 'camilo')

@@ -1,0 +1,7 @@
+(1, 'votacion')
+(1, 'tramite')
+(1, 'primer')
+(1, 'municipales')
+(1, 'jubilacion')
+(1, 'funcionarios')
+(1, 'constitucional')

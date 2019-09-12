@@ -1,0 +1,8 @@
+(1, 'tramite')
+(1, 'siesta')
+(1, 'primer')
+(1, 'laboral')
+(1, 'jornada')
+(1, 'derecho')
+(1, 'continuacion')
+(1, 'constitucional')

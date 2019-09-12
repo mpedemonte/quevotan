@@ -1,0 +1,6 @@
+(1, 'proposicion')
+(1, 'mixta')
+(1, 'labor')
+(1, 'comision')
+(1, 'chile')
+(1, 'bomberos')

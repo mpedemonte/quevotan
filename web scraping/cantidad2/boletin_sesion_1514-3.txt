@@ -1,0 +1,7 @@
+(1, 'tramite')
+(1, 'suprema')
+(1, 'segundo')
+(1, 'proyectos')
+(1, 'informar')
+(1, 'corte')
+(1, 'constitucional')

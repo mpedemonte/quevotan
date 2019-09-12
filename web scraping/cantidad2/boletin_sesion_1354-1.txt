@@ -1,0 +1,7 @@
+(1, 'tramite')
+(1, 'remuneraciones')
+(1, 'primer')
+(1, 'personal')
+(1, 'docente')
+(1, 'continuacion')
+(1, 'constitucional')

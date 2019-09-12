@@ -1,0 +1,8 @@
+(1, 'subvenciones')
+(1, 'rurales')
+(1, 'proposicion')
+(1, 'normas')
+(1, 'mixta')
+(1, 'educacionales')
+(1, 'comision')
+(1, 'areas')

@@ -1,0 +1,7 @@
+(1, 'profesionales')
+(1, 'medicas')
+(1, 'formacion')
+(1, 'diversas')
+(1, 'continuacion')
+(1, 'areas')
+(1, 'acreditacion')

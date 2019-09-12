@@ -1,0 +1,8 @@
+(1, 'tramite')
+(1, 'sistema')
+(1, 'segundo')
+(1, 'otorgamiento')
+(1, 'medicas')
+(1, 'licencias')
+(1, 'continuacion')
+(1, 'constitucional')

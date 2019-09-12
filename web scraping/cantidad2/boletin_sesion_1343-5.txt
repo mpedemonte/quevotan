@@ -1,0 +1,6 @@
+(1, 'viejo')
+(1, 'tramite')
+(1, 'tercer')
+(1, 'constitucional')
+(1, 'comuna')
+(1, 'chillan')
