@@ -6,6 +6,10 @@
 
 En otra terminal
 
-- curl http://127.0.0.1:5000/    <-- prueba la API
+- curl http://127.0.0.1:5000/           <-- prueba la API
+- curl http://127.0.0.1:5000/multi/10   <-- prueba funcion
+- curl -H "Content-Type: application/json" -X POST -d '{"name":"xyz","address":"address xyz"}' http://127.0.0.1:5000/
+
+
 
 
