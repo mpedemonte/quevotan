@@ -1,0 +1,11 @@
+- pip install flask
+- export FLASK_APP=flask_1.py       <-- asigna el scrip a flask
+- export FLASK_ENV=development      <-- determina flask como desarrollador
+- flask run                         <-- corre flask  
+
+
+En otra terminal
+
+- curl http://127.0.0.1:5000/    <-- prueba la API
+
+
