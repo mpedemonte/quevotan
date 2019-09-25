@@ -7,7 +7,7 @@ for k in range(1,3810):
         for z in range(1,17):
                 if os.path.exists("palabras/boletin_sesion_"+str(k)+"-"+str(z)+".txt") == True:        
                         archivo = open("palabras/boletin_sesion_"+str(k)+"-"+str(z)+".txt","r")
-                        texto = archivo.readline()
+                    
 
                         palabras = []
                         palabras2 = []

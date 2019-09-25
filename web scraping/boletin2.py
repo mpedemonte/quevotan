@@ -2,11 +2,9 @@
 # -*- coding: utf-8 -*-
 import re, string, unicodedata
 import nltk
-import inflect
 from bs4 import BeautifulSoup
 from nltk import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
-from nltk.stem import LancasterStemmer, WordNetLemmatizer
 import os.path
 
 #nltk.download('punkt')
@@ -49,18 +47,6 @@ def remove_punctuation(words):
             new_words.append(new_word)
     return new_words
 
-#REMPLAZA LOS NUMEROS POR LETRAS
-#def replace_numbers(words):
- #   """Replace all interger occurrences in list of tokenized words with textual representation"""
-  #  p = inflect.engine()
-   # new_words = []
-    #for word in words:
-     #   if word.isdigit():
-      #      new_word = p.number_to_words(word)
-       #     new_words.append(new_word)
-       # else:
-        #    new_words.append(word)
-    #return new_words
 
 def remove_stopwords(words):
     #Elimina palabras vacias
@@ -80,24 +66,6 @@ def remove_stopwords(words):
                 if number == False:
                     new_words.append(word)
     return new_words
-
-#def stem_words(words):
- #   """Stem words in list of tokenized words"""
-  #  stemmer = LancasterStemmer()
-   # stems = []
-    #for word in words:
-     #   stem = stemmer.stem(word)
-      #  stems.append(stem)
-    #return stems
-
-#def lemmatize_verbs(words):
- #   """Lemmatize verbs in list of tokenized words"""
-  #  lemmatizer = WordNetLemmatizer()
-   # lemmas = []
-    #for word in words:
-     #   lemma = lemmatizer.lemmatize(word, pos='v')
-      #  lemmas.append(lemma)
-    #return lemmas
 
 def normalize(words):
     words = remove_non_ascii(words)
