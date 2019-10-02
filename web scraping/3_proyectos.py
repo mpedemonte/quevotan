@@ -5,6 +5,7 @@ import os.path
 import xml.etree.ElementTree as ET
 
 #for que recorre todos los xml
+aBol=[]
 for arch in range(1,3810):
     #si existe el archivo busca los proyectos
     if os.path.exists("Boletines/boletin_sesion_"+str(arch)+".xml") == True:
@@ -33,6 +34,8 @@ for arch in range(1,3810):
         #ETIQUETA FACIL DESPACHO
         for i in raiz[0][c].findall("PROYECTO_LEY"):
             palabra=""
+            boletin=i.get("BOLETIN").encode("UTF-8")
+            aBol.append(boletin)
             if i.text != None:
                 palabra=palabra+i.text.encode("UTF-8")+"\n"
             for j in i:
@@ -45,6 +48,8 @@ for arch in range(1,3810):
         #ETIQUETA ORDEN DIA
         for i in raiz[0][k].findall("PROYECTO_LEY"):
             palabra=""
+            boletin=i.get("BOLETIN").encode("UTF-8")
+            aBol.append(boletin)
             if i.text != None:
                 palabra=palabra+i.text.encode("UTF-8")+"\n"
             for j in i:
@@ -57,6 +62,8 @@ for arch in range(1,3810):
         #ETIQUETA TABLA
         for i in raiz[0][n].findall("PROYECTO_LEY"):
             palabra=""
+            boletin=i.get("BOLETIN").encode("UTF-8")
+            aBol.append(boletin)
             if i.text != None:
                 palabra=palabra+i.text.encode("UTF-8")+"\n"
             for j in i:
@@ -66,5 +73,8 @@ for arch in range(1,3810):
             with open("proyectos/boletin_sesion_"+str(arch)+"-"+str(a)+".txt","w") as file:
                 file.write(palabra)
                 a+=1
-    
+
+with open("boletines.txt","w") as file:
+    for i in aBol:
+        file.write(i+"\n")
         

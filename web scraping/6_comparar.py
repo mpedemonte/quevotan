@@ -20,9 +20,9 @@ dict14 = [Sets.mujer_y_la_equidad_de_genero,"mujer_y_la_equidad_de_genero"]
 dict15 = [Sets.Defensa,"Defensa"]
 dict16 = [Sets.Hacienda_y_relaciones_exteriores,"Hacienda_y_relaciones_exteriores"]
 diccionarios=[dict1,dict2,dict3,dict4,dict5,dict6,dict7,dict8,dict9,dict10,dict11,dict12,dict13,dict14,dict15,dict16]
-
-
-for k in range(1,3810):
+cantidad = []
+contador = 0
+for k in range(1,24):
         for z in range(1,17):
                 if os.path.exists("palabras/boletin_sesion_"+str(k)+"-"+str(z)+".txt") == True:        
                         archivo = open("palabras/boletin_sesion_"+str(k)+"-"+str(z)+".txt","r")
@@ -36,13 +36,21 @@ for k in range(1,3810):
                         for j in diccionarios:
                             palabras1=[]
                             for i in palabras:
+                                cantidad=[]
                                 if i in j[0]:
                                     if i not in palabras1:
                                         palabras1.append(i)
+                                        contador =0
+                                        for x in palabras:
+                                            if i == x:
+                                                contador=contador+1
+                                cantidad.append(contador)
                             if len(palabras1) >= 3 :
                                 print k,z
                                 print j[1]
                                 print palabras1
+                                print cantidad
+                        
                         
                         
                        
