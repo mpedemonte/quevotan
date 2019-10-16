@@ -1,4 +1,5 @@
 Legislatura({
+	ID:"",
 	Numero:"",
 	Tipo:"",
 	FechaInicio:Date,
