@@ -1,0 +1,48 @@
+Boletin({
+	Votaciones:[
+		{
+			Fecha:Date,
+			Tipo:"",
+			Resultado:"",
+			Quorum:"",
+			Sesion:[
+				{
+					Numero:"",
+					Fecha: Date,
+					FechaTermino: Date,
+					Tipo:"",
+					Estado:"",
+					Asistencia:[
+					{
+						Nombre:"",
+						ID_Diputado:""
+					}
+				}
+			],
+			Boletin:"",
+			TotalAfirmativos:"",
+			TotalNegativos:"",
+			TotalAbstenciones:"",
+			TotalDispensados:""	
+		}
+],
+	Tema:[{Nombre:""}],
+	Proyectos:[{
+		Descripcion:"",
+		Materias:[{Descripcion:""}],
+		Votaciones:[{
+			Tema:"",
+			Fecha:Date,
+			Si:"",
+			No:"",
+			Abstencion:"",
+			Pareo:"",
+			Quorum:"",
+			Etapa:"",
+			DetalleVotacion:[{
+				Parlamentario:"",
+				Seleccion:""
+			}]
+		}]
+	}]
+})

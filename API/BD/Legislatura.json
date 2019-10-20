@@ -1,0 +1,22 @@
+Legislatura({
+	ID:"",
+	Numero:"",
+	Tipo:"",
+	FechaInicio:Date,
+	FechaTermino:Date,
+	Sesiones:[
+		{
+			Numero:"",
+			Fecha: Date,
+			FechaTermino: Date,
+			Tipo:"",
+			Estado:"",
+			Asistencia:[
+				{
+					Nombre:"",
+					ID_Diputado:""
+				}
+			]
+		}
+	]
+})
