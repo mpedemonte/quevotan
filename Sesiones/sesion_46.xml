@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sesiones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Sesion>
+    <ID>3055</ID>
+    <Numero>6</Numero>
+    <Fecha>2014-04-01T11:08:00</Fecha>
+    <FechaTermino>2014-04-01T14:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3061</ID>
+    <Numero>12</Numero>
+    <Fecha>2014-04-15T11:11:00</Fecha>
+    <FechaTermino>2014-04-15T14:07:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3066</ID>
+    <Numero>16</Numero>
+    <Fecha>2014-04-22T11:09:00</Fecha>
+    <FechaTermino>2014-04-22T14:37:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3067</ID>
+    <Numero>17</Numero>
+    <Fecha>2014-04-22T19:38:00</Fecha>
+    <FechaTermino>2014-04-22T21:39:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3077</ID>
+    <Numero>27</Numero>
+    <Fecha>2014-05-20T11:05:14</Fecha>
+    <FechaTermino>2014-05-20T14:29:17</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3083</ID>
+    <Numero>32</Numero>
+    <Fecha>2014-06-11T10:37:00</Fecha>
+    <FechaTermino>2014-06-11T13:49:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3084</ID>
+    <Numero>33</Numero>
+    <Fecha>2014-06-11T16:07:00</Fecha>
+    <FechaTermino>2014-06-11T18:23:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3085</ID>
+    <Numero>34</Numero>
+    <Fecha>2014-06-12T10:38:00</Fecha>
+    <FechaTermino>2014-06-12T13:33:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3099</ID>
+    <Numero>48</Numero>
+    <Fecha>2014-07-22T11:09:00</Fecha>
+    <FechaTermino>2014-07-22T14:20:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3101</ID>
+    <Numero>50</Numero>
+    <Fecha>2014-07-24T10:36:00</Fecha>
+    <FechaTermino>2014-07-24T13:15:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3121</ID>
+    <Numero>62</Numero>
+    <Fecha>2014-08-21T10:42:00</Fecha>
+    <FechaTermino>2014-08-21T13:15:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3128</ID>
+    <Numero>69</Numero>
+    <Fecha>2014-09-11T10:38:00</Fecha>
+    <FechaTermino>2014-09-11T12:17:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3130</ID>
+    <Numero>71</Numero>
+    <Fecha>2014-09-24T10:42:00</Fecha>
+    <FechaTermino>2014-09-24T14:02:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3141</ID>
+    <Numero>82</Numero>
+    <Fecha>2014-10-16T10:44:00</Fecha>
+    <FechaTermino>2014-10-16T13:36:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3142</ID>
+    <Numero>83</Numero>
+    <Fecha>2014-10-21T11:10:00</Fecha>
+    <FechaTermino>2014-10-21T16:55:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3165</ID>
+    <Numero>106</Numero>
+    <Fecha>2014-12-11T10:38:00</Fecha>
+    <FechaTermino>2014-12-11T13:02:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3170</ID>
+    <Numero>111</Numero>
+    <Fecha>2015-01-07T10:44:00</Fecha>
+    <FechaTermino>2015-01-07T13:52:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3171</ID>
+    <Numero>112</Numero>
+    <Fecha>2015-01-08T10:40:00</Fecha>
+    <FechaTermino>2015-01-08T13:13:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3179</ID>
+    <Numero>120</Numero>
+    <Fecha>2015-01-26T15:42:00</Fecha>
+    <FechaTermino>2015-01-26T20:17:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3052</ID>
+    <Numero>4</Numero>
+    <Fecha>2014-03-19T10:43:00</Fecha>
+    <FechaTermino>2014-03-19T13:23:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3053</ID>
+    <Numero>5</Numero>
+    <Fecha>2014-03-20T10:39:00</Fecha>
+    <FechaTermino>2014-03-20T13:17:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3058</ID>
+    <Numero>9</Numero>
+    <Fecha>2014-04-08T11:07:00</Fecha>
+    <FechaTermino>2014-04-08T15:01:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3063</ID>
+    <Numero>14</Numero>
+    <Fecha>2014-04-16T10:39:00</Fecha>
+    <FechaTermino>2014-04-16T14:08:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3076</ID>
+    <Numero>26</Numero>
+    <Fecha>2014-05-19T17:00:00</Fecha>
+    <FechaTermino>2014-05-19T19:41:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3086</ID>
+    <Numero>35</Numero>
+    <Fecha>2014-06-17T11:11:00</Fecha>
+    <FechaTermino>2014-06-17T14:27:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3097</ID>
+    <Numero>46</Numero>
+    <Fecha>2014-07-14T17:11:00</Fecha>
+    <FechaTermino>2014-07-14T19:56:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3102</ID>
+    <Numero>51</Numero>
+    <Fecha>2014-08-05T11:13:00</Fecha>
+    <FechaTermino>2014-08-05T14:23:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3120</ID>
+    <Numero>61</Numero>
+    <Fecha>2014-08-20T19:38:00</Fecha>
+    <FechaTermino>2014-08-20T22:05:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3126</ID>
+    <Numero>67</Numero>
+    <Fecha>2014-09-10T10:44:00</Fecha>
+    <FechaTermino>2014-09-10T14:27:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3136</ID>
+    <Numero>77</Numero>
+    <Fecha>2014-10-08T10:37:00</Fecha>
+    <FechaTermino>2014-10-08T15:23:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3137</ID>
+    <Numero>78</Numero>
+    <Fecha>2014-10-08T19:34:00</Fecha>
+    <FechaTermino>2014-10-08T21:56:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3139</ID>
+    <Numero>80</Numero>
+    <Fecha>2014-10-14T11:09:00</Fecha>
+    <FechaTermino>2014-10-14T14:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3146</ID>
+    <Numero>87</Numero>
+    <Fecha>2014-11-05T10:42:00</Fecha>
+    <FechaTermino>2014-11-05T13:59:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3150</ID>
+    <Numero>91</Numero>
+    <Fecha>2014-11-12T19:40:00</Fecha>
+    <FechaTermino>2014-11-12T21:57:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3151</ID>
+    <Numero>92</Numero>
+    <Fecha>2014-11-13T13:26:00</Fecha>
+    <FechaTermino>2014-11-13T13:27:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3169</ID>
+    <Numero>110</Numero>
+    <Fecha>2015-01-06T11:12:00</Fecha>
+    <FechaTermino>2015-01-06T14:21:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3175</ID>
+    <Numero>116</Numero>
+    <Fecha>2015-01-20T11:11:00</Fecha>
+    <FechaTermino>2015-01-20T15:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3176</ID>
+    <Numero>117</Numero>
+    <Fecha>2015-01-20T18:39:00</Fecha>
+    <FechaTermino>2015-01-20T23:12:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3183</ID>
+    <Numero>124</Numero>
+    <Fecha>2015-03-04T10:44:00</Fecha>
+    <FechaTermino>2015-03-04T13:44:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3049</ID>
+    <Numero>1</Numero>
+    <Fecha>2014-03-12T11:14:00</Fecha>
+    <FechaTermino>2014-03-12T11:45:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3059</ID>
+    <Numero>10</Numero>
+    <Fecha>2014-04-09T10:39:00</Fecha>
+    <FechaTermino>2014-04-09T14:44:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3065</ID>
+    <Numero>15</Numero>
+    <Fecha>2014-04-17T10:36:00</Fecha>
+    <FechaTermino>2014-04-17T13:53:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3071</ID>
+    <Numero>21</Numero>
+    <Fecha>2014-05-07T10:38:00</Fecha>
+    <FechaTermino>2014-05-07T14:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3072</ID>
+    <Numero>22</Numero>
+    <Fecha>2014-05-08T10:39:00</Fecha>
+    <FechaTermino>2014-05-08T13:44:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3075</ID>
+    <Numero>25</Numero>
+    <Fecha>2014-05-15T10:39:00</Fecha>
+    <FechaTermino>2014-05-15T14:05:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3078</ID>
+    <Numero>28</Numero>
+    <Fecha>2014-06-03T11:11:00</Fecha>
+    <FechaTermino>2014-06-03T14:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3081</ID>
+    <Numero>31</Numero>
+    <Fecha>2014-06-10T11:07:00</Fecha>
+    <FechaTermino>2014-06-10T13:44:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3090</ID>
+    <Numero>39</Numero>
+    <Fecha>2014-07-02T10:40:00</Fecha>
+    <FechaTermino>2014-07-02T14:08:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3091</ID>
+    <Numero>40</Numero>
+    <Fecha>2014-07-02T16:09:00</Fecha>
+    <FechaTermino>2014-07-02T18:08:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3094</ID>
+    <Numero>43</Numero>
+    <Fecha>2014-07-08T19:35:00</Fecha>
+    <FechaTermino>2014-07-08T21:47:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3113</ID>
+    <Numero>54</Numero>
+    <Fecha>2014-08-12T11:05:00</Fecha>
+    <FechaTermino>2014-08-12T14:07:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3116</ID>
+    <Numero>57</Numero>
+    <Fecha>2014-08-14T10:38:00</Fecha>
+    <FechaTermino>2014-08-14T13:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3119</ID>
+    <Numero>60</Numero>
+    <Fecha>2014-08-20T10:42:00</Fecha>
+    <FechaTermino>2014-08-20T13:50:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3122</ID>
+    <Numero>63</Numero>
+    <Fecha>2014-09-02T11:10:00</Fecha>
+    <FechaTermino>2014-09-02T13:57:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3124</ID>
+    <Numero>65</Numero>
+    <Fecha>2014-09-04T10:42:00</Fecha>
+    <FechaTermino>2014-09-04T13:12:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3125</ID>
+    <Numero>66</Numero>
+    <Fecha>2014-09-09T11:12:00</Fecha>
+    <FechaTermino>2014-09-09T18:26:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3127</ID>
+    <Numero>68</Numero>
+    <Fecha>2014-09-10T15:40:00</Fecha>
+    <FechaTermino>2014-09-10T20:57:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3131</ID>
+    <Numero>72</Numero>
+    <Fecha>2014-09-25T10:40:00</Fecha>
+    <FechaTermino>2014-09-25T13:08:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3148</ID>
+    <Numero>89</Numero>
+    <Fecha>2014-11-11T11:06:00</Fecha>
+    <FechaTermino>2014-11-11T14:02:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3180</ID>
+    <Numero>121</Numero>
+    <Fecha>2015-01-27T11:08:00</Fecha>
+    <FechaTermino>2015-01-27T13:47:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3182</ID>
+    <Numero>123</Numero>
+    <Fecha>2015-03-03T11:00:00</Fecha>
+    <FechaTermino>2015-03-03T14:24:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3184</ID>
+    <Numero>125</Numero>
+    <Fecha>2015-03-05T10:30:00</Fecha>
+    <FechaTermino>2015-03-05T13:32:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3050</ID>
+    <Numero>2</Numero>
+    <Fecha>2014-03-13T10:43:00</Fecha>
+    <FechaTermino>2014-03-13T14:11:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3060</ID>
+    <Numero>11</Numero>
+    <Fecha>2014-04-10T10:37:00</Fecha>
+    <FechaTermino>2014-04-10T13:32:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3062</ID>
+    <Numero>13</Numero>
+    <Fecha>2014-04-15T17:00:00</Fecha>
+    <FechaTermino>2014-04-15T19:48:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3069</ID>
+    <Numero>19</Numero>
+    <Fecha>2014-04-24T10:36:00</Fecha>
+    <FechaTermino>2014-04-24T13:26:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3079</ID>
+    <Numero>29</Numero>
+    <Fecha>2014-06-04T10:35:00</Fecha>
+    <FechaTermino>2014-06-04T14:11:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3088</ID>
+    <Numero>37</Numero>
+    <Fecha>2014-06-19T10:37:00</Fecha>
+    <FechaTermino>2014-06-19T13:17:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3098</ID>
+    <Numero>47</Numero>
+    <Fecha>2014-07-15T10:42:00</Fecha>
+    <FechaTermino>2014-07-15T14:16:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3111</ID>
+    <Numero>52</Numero>
+    <Fecha>2014-08-06T10:43:00</Fecha>
+    <FechaTermino>2014-08-06T14:05:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3117</ID>
+    <Numero>58</Numero>
+    <Fecha>2014-08-19T11:08:00</Fecha>
+    <FechaTermino>2014-08-19T13:55:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3140</ID>
+    <Numero>81</Numero>
+    <Fecha>2014-10-15T10:43:00</Fecha>
+    <FechaTermino>2014-10-15T14:06:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3144</ID>
+    <Numero>85</Numero>
+    <Fecha>2014-10-23T10:40:00</Fecha>
+    <FechaTermino>2014-10-23T13:45:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3145</ID>
+    <Numero>86</Numero>
+    <Fecha>2014-11-04T11:08:00</Fecha>
+    <FechaTermino>2014-11-04T14:10:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3149</ID>
+    <Numero>90</Numero>
+    <Fecha>2014-11-12T10:36:00</Fecha>
+    <FechaTermino>2014-11-12T13:54:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3152</ID>
+    <Numero>93</Numero>
+    <Fecha>2014-11-18T11:10:00</Fecha>
+    <FechaTermino>2014-11-18T18:13:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3154</ID>
+    <Numero>95</Numero>
+    <Fecha>2014-11-19T10:37:00</Fecha>
+    <FechaTermino>2014-11-19T13:15:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3157</ID>
+    <Numero>98</Numero>
+    <Fecha>2014-11-25T11:10:00</Fecha>
+    <FechaTermino>2014-11-25T14:09:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3161</ID>
+    <Numero>102</Numero>
+    <Fecha>2014-11-27T10:44:00</Fecha>
+    <FechaTermino>2014-11-27T13:17:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3162</ID>
+    <Numero>103</Numero>
+    <Fecha>2014-12-09T11:15:00</Fecha>
+    <FechaTermino>2014-12-09T14:04:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3163</ID>
+    <Numero>104</Numero>
+    <Fecha>2014-12-10T10:40:00</Fecha>
+    <FechaTermino>2014-12-10T13:53:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3164</ID>
+    <Numero>105</Numero>
+    <Fecha>2014-12-10T19:35:00</Fecha>
+    <FechaTermino>2014-12-10T21:12:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3167</ID>
+    <Numero>108</Numero>
+    <Fecha>2014-12-17T10:40:00</Fecha>
+    <FechaTermino>2014-12-17T14:06:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3168</ID>
+    <Numero>109</Numero>
+    <Fecha>2014-12-18T10:40:00</Fecha>
+    <FechaTermino>2014-12-18T13:41:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3177</ID>
+    <Numero>118</Numero>
+    <Fecha>2015-01-21T10:42:00</Fecha>
+    <FechaTermino>2015-01-21T13:56:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3185</ID>
+    <Numero>126</Numero>
+    <Fecha>2015-03-10T11:00:00</Fecha>
+    <FechaTermino>2015-03-10T14:45:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3186</ID>
+    <Numero>127</Numero>
+    <Fecha>2015-03-10T19:34:00</Fecha>
+    <FechaTermino>2015-03-10T21:31:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3057</ID>
+    <Numero>8</Numero>
+    <Fecha>2014-04-03T10:37:00</Fecha>
+    <FechaTermino>2014-04-03T12:43:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3070</ID>
+    <Numero>20</Numero>
+    <Fecha>2014-05-06T11:13:00</Fecha>
+    <FechaTermino>2014-05-06T14:13:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3073</ID>
+    <Numero>23</Numero>
+    <Fecha>2014-05-13T11:10:00</Fecha>
+    <FechaTermino>2014-05-14T01:27:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3074</ID>
+    <Numero>24</Numero>
+    <Fecha>2014-05-14T10:39:00</Fecha>
+    <FechaTermino>2014-05-14T22:28:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3118</ID>
+    <Numero>59</Numero>
+    <Fecha>2014-08-19T19:35:00</Fecha>
+    <FechaTermino>2014-08-19T22:14:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3129</ID>
+    <Numero>70</Numero>
+    <Fecha>2014-09-23T11:10:00</Fecha>
+    <FechaTermino>2014-09-23T14:26:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3135</ID>
+    <Numero>76</Numero>
+    <Fecha>2014-10-07T11:14:00</Fecha>
+    <FechaTermino>2014-10-07T14:31:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3147</ID>
+    <Numero>88</Numero>
+    <Fecha>2014-11-06T10:41:00</Fecha>
+    <FechaTermino>2014-11-06T13:04:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3153</ID>
+    <Numero>94</Numero>
+    <Fecha>2014-11-18T19:31:00</Fecha>
+    <FechaTermino>2014-11-18T21:46:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3158</ID>
+    <Numero>99</Numero>
+    <Fecha>2014-11-25T18:05:00</Fecha>
+    <FechaTermino>2014-11-25T21:21:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3159</ID>
+    <Numero>100</Numero>
+    <Fecha>2014-11-26T10:44:00</Fecha>
+    <FechaTermino>2014-11-26T14:19:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3160</ID>
+    <Numero>101</Numero>
+    <Fecha>2014-11-26T17:08:00</Fecha>
+    <FechaTermino>2014-11-26T20:09:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3166</ID>
+    <Numero>107</Numero>
+    <Fecha>2014-12-16T11:13:00</Fecha>
+    <FechaTermino>2014-12-16T13:51:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3172</ID>
+    <Numero>113</Numero>
+    <Fecha>2015-01-13T11:10:00</Fecha>
+    <FechaTermino>2015-01-13T14:29:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3109</ID>
+    <Numero>0</Numero>
+    <Fecha>2014-03-11T09:00:00</Fecha>
+    <FechaTermino>2014-03-11T12:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3068</ID>
+    <Numero>18</Numero>
+    <Fecha>2014-04-23T10:39:00</Fecha>
+    <FechaTermino>2014-04-23T13:34:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3093</ID>
+    <Numero>42</Numero>
+    <Fecha>2014-07-08T11:00:00</Fecha>
+    <FechaTermino>2014-07-08T14:04:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3095</ID>
+    <Numero>44</Numero>
+    <Fecha>2014-07-09T10:41:00</Fecha>
+    <FechaTermino>2014-07-09T13:28:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3096</ID>
+    <Numero>45</Numero>
+    <Fecha>2014-07-10T10:36:00</Fecha>
+    <FechaTermino>2014-07-10T13:10:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3114</ID>
+    <Numero>55</Numero>
+    <Fecha>2014-08-13T10:36:00</Fecha>
+    <FechaTermino>2014-08-13T13:38:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3115</ID>
+    <Numero>56</Numero>
+    <Fecha>2014-08-13T18:34:00</Fecha>
+    <FechaTermino>2014-08-13T22:44:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3133</ID>
+    <Numero>74</Numero>
+    <Fecha>2014-10-01T10:40:00</Fecha>
+    <FechaTermino>2014-10-01T14:02:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3138</ID>
+    <Numero>79</Numero>
+    <Fecha>2014-10-09T10:36:00</Fecha>
+    <FechaTermino>2014-10-09T13:55:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3173</ID>
+    <Numero>114</Numero>
+    <Fecha>2015-01-14T10:42:00</Fecha>
+    <FechaTermino>2015-01-14T14:23:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3174</ID>
+    <Numero>115</Numero>
+    <Fecha>2015-01-15T10:44:00</Fecha>
+    <FechaTermino>2015-01-15T13:50:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3181</ID>
+    <Numero>122</Numero>
+    <Fecha>2015-01-28T13:29:00</Fecha>
+    <FechaTermino>2015-01-28T13:29:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3051</ID>
+    <Numero>3</Numero>
+    <Fecha>2014-03-18T11:14:00</Fecha>
+    <FechaTermino>2014-03-18T14:40:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3056</ID>
+    <Numero>7</Numero>
+    <Fecha>2014-04-02T10:38:00</Fecha>
+    <FechaTermino>2014-04-02T13:29:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3080</ID>
+    <Numero>30</Numero>
+    <Fecha>2014-06-05T10:38:00</Fecha>
+    <FechaTermino>2014-06-05T13:35:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3087</ID>
+    <Numero>36</Numero>
+    <Fecha>2014-06-18T11:06:00</Fecha>
+    <FechaTermino>2014-06-18T14:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3089</ID>
+    <Numero>38</Numero>
+    <Fecha>2014-07-01T11:09:00</Fecha>
+    <FechaTermino>2014-07-01T14:22:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3092</ID>
+    <Numero>41</Numero>
+    <Fecha>2014-07-03T10:40:00</Fecha>
+    <FechaTermino>2014-07-03T13:22:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3100</ID>
+    <Numero>49</Numero>
+    <Fecha>2014-07-23T10:42:00</Fecha>
+    <FechaTermino>2014-07-23T14:15:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3112</ID>
+    <Numero>53</Numero>
+    <Fecha>2014-08-07T10:43:00</Fecha>
+    <FechaTermino>2014-08-07T13:29:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3123</ID>
+    <Numero>64</Numero>
+    <Fecha>2014-09-03T10:43:00</Fecha>
+    <FechaTermino>2014-09-03T14:15:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3132</ID>
+    <Numero>73</Numero>
+    <Fecha>2014-09-30T11:09:00</Fecha>
+    <FechaTermino>2014-09-30T14:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3134</ID>
+    <Numero>75</Numero>
+    <Fecha>2014-10-02T10:41:00</Fecha>
+    <FechaTermino>2014-10-02T12:44:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3143</ID>
+    <Numero>84</Numero>
+    <Fecha>2014-10-22T10:44:00</Fecha>
+    <FechaTermino>2014-10-22T13:54:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3155</ID>
+    <Numero>96</Numero>
+    <Fecha>2014-11-19T15:06:00</Fecha>
+    <FechaTermino>2014-11-20T01:51:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3156</ID>
+    <Numero>97</Numero>
+    <Fecha>2014-11-20T10:38:00</Fecha>
+    <FechaTermino>2014-11-20T13:29:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3178</ID>
+    <Numero>119</Numero>
+    <Fecha>2015-01-22T10:40:00</Fecha>
+    <FechaTermino>2015-01-22T13:39:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+</Sesiones>

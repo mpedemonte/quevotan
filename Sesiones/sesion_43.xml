@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sesiones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Sesion>
+    <ID>2494</ID>
+    <Numero>6</Numero>
+    <Fecha>2011-03-22T15:35:01</Fecha>
+    <FechaTermino>2011-03-22T18:08:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2500</ID>
+    <Numero>12</Numero>
+    <Fecha>2011-04-13T11:09:13</Fecha>
+    <FechaTermino>2011-04-13T14:08:13</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2513</ID>
+    <Numero>25</Numero>
+    <Fecha>2011-05-05T10:12:36</Fecha>
+    <FechaTermino>2011-05-05T13:06:06</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2518</ID>
+    <Numero>30</Numero>
+    <Fecha>2011-05-17T11:09:00</Fecha>
+    <FechaTermino>2011-05-17T14:34:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2490</ID>
+    <Numero>2</Numero>
+    <Fecha>2011-03-15T18:12:49</Fecha>
+    <FechaTermino>2011-03-15T20:52:49</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2496</ID>
+    <Numero>8</Numero>
+    <Fecha>2011-03-24T10:08:04</Fecha>
+    <FechaTermino>2011-03-24T13:06:34</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2517</ID>
+    <Numero>29</Numero>
+    <Fecha>2011-05-12T10:11:00</Fecha>
+    <FechaTermino>2011-05-12T13:19:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2521</ID>
+    <Numero>32</Numero>
+    <Fecha>2011-05-18T10:33:00</Fecha>
+    <FechaTermino>2011-05-18T13:36:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2514</ID>
+    <Numero>26</Numero>
+    <Fecha>2011-05-10T11:11:00</Fecha>
+    <FechaTermino>2011-05-10T14:04:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2523</ID>
+    <Numero>34</Numero>
+    <Fecha>2011-05-19T10:09:00</Fecha>
+    <FechaTermino>2011-05-19T12:52:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2520</ID>
+    <Numero>31</Numero>
+    <Fecha>2011-05-17T20:48:00</Fecha>
+    <FechaTermino>2011-05-17T20:48:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2502</ID>
+    <Numero>14</Numero>
+    <Fecha>2011-04-14T10:17:18</Fecha>
+    <FechaTermino>2011-04-14T13:04:48</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2505</ID>
+    <Numero>17</Numero>
+    <Fecha>2011-04-20T10:35:30</Fecha>
+    <FechaTermino>2011-04-20T14:02:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2503</ID>
+    <Numero>15</Numero>
+    <Fecha>2011-04-19T11:03:26</Fecha>
+    <FechaTermino>2011-04-19T14:17:26</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2507</ID>
+    <Numero>19</Numero>
+    <Fecha>2011-04-21T10:14:30</Fecha>
+    <FechaTermino>2011-04-21T12:19:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2492</ID>
+    <Numero>4</Numero>
+    <Fecha>2011-03-17T10:07:14</Fecha>
+    <FechaTermino>2011-03-17T13:01:14</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2493</ID>
+    <Numero>5</Numero>
+    <Fecha>2011-03-22T11:07:29</Fecha>
+    <FechaTermino>2011-03-22T14:07:29</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2497</ID>
+    <Numero>9</Numero>
+    <Fecha>2011-04-05T11:08:50</Fecha>
+    <FechaTermino>2011-04-05T14:06:20</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2510</ID>
+    <Numero>22</Numero>
+    <Fecha>2011-05-03T18:40:00</Fecha>
+    <FechaTermino>2011-05-03T21:06:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2512</ID>
+    <Numero>24</Numero>
+    <Fecha>2011-05-04T16:06:39</Fecha>
+    <FechaTermino>2011-05-04T18:20:09</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2495</ID>
+    <Numero>7</Numero>
+    <Fecha>2011-03-23T10:39:44</Fecha>
+    <FechaTermino>2011-03-23T14:50:14</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2499</ID>
+    <Numero>11</Numero>
+    <Fecha>2011-04-07T10:08:00</Fecha>
+    <FechaTermino>2011-04-07T12:07:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2509</ID>
+    <Numero>21</Numero>
+    <Fecha>2011-05-03T16:07:22</Fecha>
+    <FechaTermino>2011-05-03T18:32:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2515</ID>
+    <Numero>27</Numero>
+    <Fecha>2011-05-11T10:43:31</Fecha>
+    <FechaTermino>2011-05-11T15:10:01</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2559</ID>
+    <Numero>44</Numero>
+    <Fecha>2011-06-16T10:11:00</Fecha>
+    <FechaTermino>2011-06-16T12:53:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2613</ID>
+    <Numero>52</Numero>
+    <Fecha>2011-07-06T16:06:00</Fecha>
+    <FechaTermino>2011-07-06T18:28:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2674</ID>
+    <Numero>56</Numero>
+    <Fecha>2011-07-13T17:53:00</Fecha>
+    <FechaTermino>2011-07-13T17:45:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2678</ID>
+    <Numero>60</Numero>
+    <Fecha>2011-07-21T10:15:00</Fecha>
+    <FechaTermino>2011-07-21T13:07:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2681</ID>
+    <Numero>63</Numero>
+    <Fecha>2011-08-03T10:40:00</Fecha>
+    <FechaTermino>2011-08-03T14:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2682</ID>
+    <Numero>64</Numero>
+    <Fecha>2011-08-03T16:03:00</Fecha>
+    <FechaTermino>2011-08-03T18:20:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2692</ID>
+    <Numero>73</Numero>
+    <Fecha>2011-08-17T16:03:00</Fecha>
+    <FechaTermino>2011-08-17T18:15:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2704</ID>
+    <Numero>82</Numero>
+    <Fecha>2011-09-12T16:10:00</Fecha>
+    <FechaTermino>2011-09-12T18:17:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2705</ID>
+    <Numero>83</Numero>
+    <Fecha>2011-09-13T15:12:00</Fecha>
+    <FechaTermino>2011-09-13T17:10:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2712</ID>
+    <Numero>89</Numero>
+    <Fecha>2011-10-04T11:00:00</Fecha>
+    <FechaTermino>2011-10-04T14:30:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2504</ID>
+    <Numero>16</Numero>
+    <Fecha>2011-04-19T16:05:47</Fecha>
+    <FechaTermino>2011-04-19T18:42:17</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2501</ID>
+    <Numero>13</Numero>
+    <Fecha>2011-04-13T16:04:59</Fecha>
+    <FechaTermino>2011-04-13T17:59:29</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2516</ID>
+    <Numero>28</Numero>
+    <Fecha>2011-05-11T16:08:34</Fecha>
+    <FechaTermino>2011-05-11T18:18:04</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2508</ID>
+    <Numero>20</Numero>
+    <Fecha>2011-05-03T11:02:53</Fecha>
+    <FechaTermino>2011-05-03T14:08:23</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2498</ID>
+    <Numero>10</Numero>
+    <Fecha>2011-04-06T10:39:44</Fecha>
+    <FechaTermino>2011-04-06T15:01:44</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2489</ID>
+    <Numero>1</Numero>
+    <Fecha>2011-03-15T11:03:43</Fecha>
+    <FechaTermino>2011-03-15T13:38:13</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2506</ID>
+    <Numero>18</Numero>
+    <Fecha>2011-04-20T16:08:58</Fecha>
+    <FechaTermino>2011-04-20T18:10:58</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2491</ID>
+    <Numero>3</Numero>
+    <Fecha>2011-03-16T10:38:32</Fecha>
+    <FechaTermino>2011-03-16T13:29:32</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2511</ID>
+    <Numero>23</Numero>
+    <Fecha>2011-05-04T10:40:12</Fecha>
+    <FechaTermino>2011-05-04T13:59:02</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2528</ID>
+    <Numero>39</Numero>
+    <Fecha>2011-06-08T10:36:00</Fecha>
+    <FechaTermino>2011-06-08T13:51:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2551</ID>
+    <Numero>42</Numero>
+    <Fecha>2011-06-15T10:38:00</Fecha>
+    <FechaTermino>2011-06-15T14:41:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2575</ID>
+    <Numero>47</Numero>
+    <Fecha>2011-06-22T16:06:00</Fecha>
+    <FechaTermino>2011-06-22T18:46:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2525</ID>
+    <Numero>36</Numero>
+    <Fecha>2011-06-01T10:41:00</Fecha>
+    <FechaTermino>2011-06-01T14:52:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2526</ID>
+    <Numero>37</Numero>
+    <Fecha>2011-06-02T10:12:00</Fecha>
+    <FechaTermino>2011-06-02T13:11:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2580</ID>
+    <Numero>49</Numero>
+    <Fecha>2011-06-23T10:18:00</Fecha>
+    <FechaTermino>2011-06-23T13:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2589</ID>
+    <Numero>48</Numero>
+    <Fecha>2011-06-22T20:34:00</Fecha>
+    <FechaTermino>2011-06-22T21:38:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2522</ID>
+    <Numero>33</Numero>
+    <Fecha>2011-05-18T15:10:00</Fecha>
+    <FechaTermino>2011-05-18T17:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2612</ID>
+    <Numero>51</Numero>
+    <Fecha>2011-07-06T10:44:00</Fecha>
+    <FechaTermino>2011-07-06T12:55:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2615</ID>
+    <Numero>54</Numero>
+    <Fecha>2011-07-12T11:13:00</Fecha>
+    <FechaTermino>2011-07-12T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2673</ID>
+    <Numero>55</Numero>
+    <Fecha>2011-07-13T10:35:00</Fecha>
+    <FechaTermino>2011-07-13T13:59:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2675</ID>
+    <Numero>57</Numero>
+    <Fecha>2011-07-14T10:11:00</Fecha>
+    <FechaTermino>2011-07-14T12:42:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2676</ID>
+    <Numero>58</Numero>
+    <Fecha>2011-07-19T11:12:00</Fecha>
+    <FechaTermino>2011-07-19T14:18:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2679</ID>
+    <Numero>61</Numero>
+    <Fecha>2011-08-02T11:07:00</Fecha>
+    <FechaTermino>2011-08-02T14:32:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2680</ID>
+    <Numero>62</Numero>
+    <Fecha>2011-08-02T16:09:00</Fecha>
+    <FechaTermino>2011-08-02T18:45:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2683</ID>
+    <Numero>65</Numero>
+    <Fecha>2011-08-04T10:15:00</Fecha>
+    <FechaTermino>2011-08-04T13:40:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2684</ID>
+    <Numero>66</Numero>
+    <Fecha>2011-08-09T11:07:00</Fecha>
+    <FechaTermino>2011-08-09T13:28:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2686</ID>
+    <Numero>68</Numero>
+    <Fecha>2011-08-10T10:38:00</Fecha>
+    <FechaTermino>2011-08-10T14:20:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2688</ID>
+    <Numero>69</Numero>
+    <Fecha>2011-08-11T10:09:00</Fecha>
+    <FechaTermino>2011-08-11T13:23:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2689</ID>
+    <Numero>70</Numero>
+    <Fecha>2011-08-16T11:14:00</Fecha>
+    <FechaTermino>2011-08-16T14:19:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2690</ID>
+    <Numero>71</Numero>
+    <Fecha>2011-08-16T16:07:00</Fecha>
+    <FechaTermino>2011-08-16T18:13:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2694</ID>
+    <Numero>75</Numero>
+    <Fecha>2011-08-30T11:00:00</Fecha>
+    <FechaTermino>2011-08-30T14:01:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2697</ID>
+    <Numero>77</Numero>
+    <Fecha>2011-09-01T10:12:00</Fecha>
+    <FechaTermino>2011-09-01T13:12:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2698</ID>
+    <Numero>78</Numero>
+    <Fecha>2011-09-06T11:12:00</Fecha>
+    <FechaTermino>2011-09-06T14:18:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2699</ID>
+    <Numero>79</Numero>
+    <Fecha>2011-09-06T16:06:00</Fecha>
+    <FechaTermino>2011-09-06T18:34:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2700</ID>
+    <Numero>80</Numero>
+    <Fecha>2011-09-07T10:38:00</Fecha>
+    <FechaTermino>2011-09-07T13:51:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2701</ID>
+    <Numero>81</Numero>
+    <Fecha>2011-09-08T10:11:00</Fecha>
+    <FechaTermino>2011-09-08T12:47:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2706</ID>
+    <Numero>84</Numero>
+    <Fecha>2011-09-14T10:37:00</Fecha>
+    <FechaTermino>2011-09-14T14:29:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2707</ID>
+    <Numero>85</Numero>
+    <Fecha>2011-09-27T11:07:00</Fecha>
+    <FechaTermino>2011-09-27T14:48:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2524</ID>
+    <Numero>35</Numero>
+    <Fecha>2011-05-31T11:05:00</Fecha>
+    <FechaTermino>2011-05-31T14:12:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2527</ID>
+    <Numero>38</Numero>
+    <Fecha>2011-06-07T11:14:00</Fecha>
+    <FechaTermino>2011-06-07T14:03:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2529</ID>
+    <Numero>40</Numero>
+    <Fecha>2011-06-09T10:08:00</Fecha>
+    <FechaTermino>2011-06-09T13:04:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2567</ID>
+    <Numero>45</Numero>
+    <Fecha>2011-06-21T11:09:00</Fecha>
+    <FechaTermino>2011-06-21T14:24:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2611</ID>
+    <Numero>50</Numero>
+    <Fecha>2011-07-05T16:11:00</Fecha>
+    <FechaTermino>2011-07-05T18:59:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2685</ID>
+    <Numero>67</Numero>
+    <Fecha>2011-08-09T16:35:00</Fecha>
+    <FechaTermino>2011-08-09T18:28:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2711</ID>
+    <Numero>88</Numero>
+    <Fecha>2011-09-29T10:20:00</Fecha>
+    <FechaTermino>2011-09-29T14:24:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2530</ID>
+    <Numero>41</Numero>
+    <Fecha>2011-06-14T11:10:00</Fecha>
+    <FechaTermino>2011-06-14T14:12:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2558</ID>
+    <Numero>43</Numero>
+    <Fecha>2011-06-15T16:06:00</Fecha>
+    <FechaTermino>2011-06-15T18:58:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2574</ID>
+    <Numero>46</Numero>
+    <Fecha>2011-06-22T10:42:00</Fecha>
+    <FechaTermino>2011-06-22T13:49:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2614</ID>
+    <Numero>53</Numero>
+    <Fecha>2011-07-07T10:00:00</Fecha>
+    <FechaTermino>2011-07-07T12:31:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2677</ID>
+    <Numero>59</Numero>
+    <Fecha>2011-07-20T10:29:00</Fecha>
+    <FechaTermino>2011-07-20T14:20:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2691</ID>
+    <Numero>72</Numero>
+    <Fecha>2011-08-17T10:43:00</Fecha>
+    <FechaTermino>2011-08-17T13:36:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2693</ID>
+    <Numero>74</Numero>
+    <Fecha>2011-08-18T10:11:00</Fecha>
+    <FechaTermino>2011-08-18T12:33:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2695</ID>
+    <Numero>76</Numero>
+    <Fecha>2011-08-31T10:35:00</Fecha>
+    <FechaTermino>2011-08-31T13:40:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2709</ID>
+    <Numero>86</Numero>
+    <Fecha>2011-09-28T10:38:00</Fecha>
+    <FechaTermino>2011-09-28T14:24:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2710</ID>
+    <Numero>87</Numero>
+    <Fecha>2011-09-28T16:06:00</Fecha>
+    <FechaTermino>2011-09-28T18:01:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2713</ID>
+    <Numero>90</Numero>
+    <Fecha>2011-10-04T16:05:00</Fecha>
+    <FechaTermino>2011-10-04T18:05:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2715</ID>
+    <Numero>92</Numero>
+    <Fecha>2011-10-06T10:11:00</Fecha>
+    <FechaTermino>2011-10-06T13:29:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2716</ID>
+    <Numero>93</Numero>
+    <Fecha>2011-10-11T11:14:00</Fecha>
+    <FechaTermino>2011-10-11T14:37:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2717</ID>
+    <Numero>94</Numero>
+    <Fecha>2011-10-11T16:05:00</Fecha>
+    <FechaTermino>2011-10-11T18:03:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2720</ID>
+    <Numero>97</Numero>
+    <Fecha>2011-10-18T11:11:00</Fecha>
+    <FechaTermino>2011-10-18T13:50:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2721</ID>
+    <Numero>98</Numero>
+    <Fecha>2011-10-18T16:12:00</Fecha>
+    <FechaTermino>2011-10-18T18:17:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2722</ID>
+    <Numero>99</Numero>
+    <Fecha>2011-10-19T10:42:00</Fecha>
+    <FechaTermino>2011-10-19T14:19:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2729</ID>
+    <Numero>105</Numero>
+    <Fecha>2011-11-08T11:12:00</Fecha>
+    <FechaTermino>2011-11-08T14:12:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2730</ID>
+    <Numero>106</Numero>
+    <Fecha>2011-11-09T10:39:00</Fecha>
+    <FechaTermino>2011-11-09T14:40:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2731</ID>
+    <Numero>107</Numero>
+    <Fecha>2011-11-10T10:13:00</Fecha>
+    <FechaTermino>2011-11-10T12:31:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2732</ID>
+    <Numero>108</Numero>
+    <Fecha>2011-11-15T11:09:00</Fecha>
+    <FechaTermino>2011-11-15T14:21:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2733</ID>
+    <Numero>109</Numero>
+    <Fecha>2011-11-16T10:38:00</Fecha>
+    <FechaTermino>2011-11-16T13:38:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2734</ID>
+    <Numero>110</Numero>
+    <Fecha>2011-11-17T10:14:00</Fecha>
+    <FechaTermino>2011-11-17T12:56:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2735</ID>
+    <Numero>111</Numero>
+    <Fecha>2011-11-21T10:42:00</Fecha>
+    <FechaTermino>2011-11-21T13:58:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2738</ID>
+    <Numero>114</Numero>
+    <Fecha>2011-11-23T10:37:00</Fecha>
+    <FechaTermino>2011-11-23T14:20:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2740</ID>
+    <Numero>116</Numero>
+    <Fecha>2011-11-28T10:55:00</Fecha>
+    <FechaTermino>2011-11-28T17:15:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2742</ID>
+    <Numero>118</Numero>
+    <Fecha>2011-11-30T10:43:00</Fecha>
+    <FechaTermino>2011-11-30T14:42:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2743</ID>
+    <Numero>119</Numero>
+    <Fecha>2011-11-30T20:30:00</Fecha>
+    <FechaTermino>2011-12-01T01:44:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2745</ID>
+    <Numero>121</Numero>
+    <Fecha>2011-12-14T10:39:00</Fecha>
+    <FechaTermino>2011-12-14T14:51:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2746</ID>
+    <Numero>122</Numero>
+    <Fecha>2011-12-15T10:17:00</Fecha>
+    <FechaTermino>2011-12-15T13:08:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2747</ID>
+    <Numero>123</Numero>
+    <Fecha>2011-12-20T11:00:00</Fecha>
+    <FechaTermino>2011-12-20T13:56:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2752</ID>
+    <Numero>128</Numero>
+    <Fecha>2012-01-05T10:15:00</Fecha>
+    <FechaTermino>2012-01-05T12:46:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2753</ID>
+    <Numero>129</Numero>
+    <Fecha>2012-01-10T11:09:00</Fecha>
+    <FechaTermino>2012-01-10T14:29:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2755</ID>
+    <Numero>131</Numero>
+    <Fecha>2012-01-11T16:06:00</Fecha>
+    <FechaTermino>2012-01-11T18:21:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2757</ID>
+    <Numero>133</Numero>
+    <Fecha>2012-01-17T11:11:00</Fecha>
+    <FechaTermino>2012-01-17T14:51:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2760</ID>
+    <Numero>136</Numero>
+    <Fecha>2012-01-19T10:16:00</Fecha>
+    <FechaTermino>2012-01-19T13:06:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2761</ID>
+    <Numero>137</Numero>
+    <Fecha>2012-01-23T17:38:00</Fecha>
+    <FechaTermino>2012-01-23T21:35:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2762</ID>
+    <Numero>138</Numero>
+    <Fecha>2012-01-23T21:36:00</Fecha>
+    <FechaTermino>2012-01-24T01:03:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2764</ID>
+    <Numero>139</Numero>
+    <Fecha>2012-01-24T10:40:00</Fecha>
+    <FechaTermino>2012-01-24T13:04:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2765</ID>
+    <Numero>140</Numero>
+    <Fecha>2012-03-06T11:10:00</Fecha>
+    <FechaTermino>2012-03-06T14:19:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2767</ID>
+    <Numero>141</Numero>
+    <Fecha>2012-03-07T10:38:00</Fecha>
+    <FechaTermino>2012-03-07T13:43:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2714</ID>
+    <Numero>91</Numero>
+    <Fecha>2011-10-05T10:35:00</Fecha>
+    <FechaTermino>2011-10-05T14:01:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2718</ID>
+    <Numero>95</Numero>
+    <Fecha>2011-10-12T10:42:00</Fecha>
+    <FechaTermino>2011-10-12T14:45:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2719</ID>
+    <Numero>96</Numero>
+    <Fecha>2011-10-13T10:11:00</Fecha>
+    <FechaTermino>2011-10-13T13:09:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2723</ID>
+    <Numero>100</Numero>
+    <Fecha>2011-10-19T16:06:00</Fecha>
+    <FechaTermino>2011-10-19T19:58:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2724</ID>
+    <Numero>101</Numero>
+    <Fecha>2011-10-20T10:00:00</Fecha>
+    <FechaTermino>2011-10-20T13:09:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2726</ID>
+    <Numero>102</Numero>
+    <Fecha>2011-11-02T10:44:00</Fecha>
+    <FechaTermino>2011-11-02T14:38:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2727</ID>
+    <Numero>103</Numero>
+    <Fecha>2011-11-02T16:05:00</Fecha>
+    <FechaTermino>2011-11-02T17:52:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2728</ID>
+    <Numero>104</Numero>
+    <Fecha>2011-11-03T10:11:00</Fecha>
+    <FechaTermino>2011-11-03T13:08:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2736</ID>
+    <Numero>112</Numero>
+    <Fecha>2011-11-21T16:14:00</Fecha>
+    <FechaTermino>2011-11-22T05:05:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2737</ID>
+    <Numero>113</Numero>
+    <Fecha>2011-11-22T12:37:00</Fecha>
+    <FechaTermino>2011-11-22T14:43:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2739</ID>
+    <Numero>115</Numero>
+    <Fecha>2011-11-24T10:14:00</Fecha>
+    <FechaTermino>2011-11-24T13:24:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2741</ID>
+    <Numero>117</Numero>
+    <Fecha>2011-11-29T10:36:00</Fecha>
+    <FechaTermino>2011-11-29T17:43:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2744</ID>
+    <Numero>120</Numero>
+    <Fecha>2011-12-13T11:08:00</Fecha>
+    <FechaTermino>2011-12-13T14:09:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2748</ID>
+    <Numero>124</Numero>
+    <Fecha>2011-12-21T10:44:00</Fecha>
+    <FechaTermino>2011-12-21T14:06:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2749</ID>
+    <Numero>125</Numero>
+    <Fecha>2011-12-22T10:14:00</Fecha>
+    <FechaTermino>2011-12-22T12:46:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2750</ID>
+    <Numero>126</Numero>
+    <Fecha>2012-01-03T11:11:00</Fecha>
+    <FechaTermino>2012-01-03T15:10:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2751</ID>
+    <Numero>127</Numero>
+    <Fecha>2012-01-04T10:41:00</Fecha>
+    <FechaTermino>2012-01-04T13:37:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2754</ID>
+    <Numero>130</Numero>
+    <Fecha>2012-01-11T10:38:00</Fecha>
+    <FechaTermino>2012-01-11T14:09:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2756</ID>
+    <Numero>132</Numero>
+    <Fecha>2012-01-12T10:19:00</Fecha>
+    <FechaTermino>2012-01-12T12:57:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2758</ID>
+    <Numero>134</Numero>
+    <Fecha>2012-01-18T10:43:00</Fecha>
+    <FechaTermino>2012-01-18T14:30:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2759</ID>
+    <Numero>135</Numero>
+    <Fecha>2012-01-18T16:04:00</Fecha>
+    <FechaTermino>2012-01-18T18:19:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2768</ID>
+    <Numero>142</Numero>
+    <Fecha>2012-03-08T10:12:00</Fecha>
+    <FechaTermino>2012-03-08T13:32:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+</Sesiones>
