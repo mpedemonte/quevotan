@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sesiones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Sesion>
+    <ID>1749</ID>
+    <Numero>2</Numero>
+    <Fecha>2000-06-07T00:00:00</Fecha>
+    <FechaTermino>2000-06-07T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1750</ID>
+    <Numero>3</Numero>
+    <Fecha>2000-06-08T00:00:00</Fecha>
+    <FechaTermino>2000-06-08T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1751</ID>
+    <Numero>4</Numero>
+    <Fecha>2000-06-13T00:00:00</Fecha>
+    <FechaTermino>2000-06-13T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1753</ID>
+    <Numero>6</Numero>
+    <Fecha>2000-06-21T00:00:00</Fecha>
+    <FechaTermino>2000-06-21T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1754</ID>
+    <Numero>8</Numero>
+    <Fecha>2000-06-22T00:00:00</Fecha>
+    <FechaTermino>2000-06-22T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1755</ID>
+    <Numero>9</Numero>
+    <Fecha>2000-07-04T00:00:00</Fecha>
+    <FechaTermino>2000-07-04T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1757</ID>
+    <Numero>11</Numero>
+    <Fecha>2000-07-06T00:00:00</Fecha>
+    <FechaTermino>2000-07-06T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1758</ID>
+    <Numero>12</Numero>
+    <Fecha>2000-07-11T01:00:00</Fecha>
+    <FechaTermino>2000-07-11T01:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1759</ID>
+    <Numero>14</Numero>
+    <Fecha>2000-07-12T00:00:00</Fecha>
+    <FechaTermino>2000-07-12T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1761</ID>
+    <Numero>17</Numero>
+    <Fecha>2000-07-18T00:00:00</Fecha>
+    <FechaTermino>2000-07-18T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1762</ID>
+    <Numero>18</Numero>
+    <Fecha>2000-07-19T00:00:00</Fecha>
+    <FechaTermino>2000-07-19T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1763</ID>
+    <Numero>19</Numero>
+    <Fecha>2000-08-01T00:00:00</Fecha>
+    <FechaTermino>2000-08-01T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1765</ID>
+    <Numero>22</Numero>
+    <Fecha>2000-08-03T00:00:00</Fecha>
+    <FechaTermino>2000-08-03T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1766</ID>
+    <Numero>24</Numero>
+    <Fecha>2000-08-08T00:00:00</Fecha>
+    <FechaTermino>2000-08-08T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1767</ID>
+    <Numero>25</Numero>
+    <Fecha>2000-08-09T00:00:00</Fecha>
+    <FechaTermino>2000-08-09T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1769</ID>
+    <Numero>28</Numero>
+    <Fecha>2000-08-16T00:00:00</Fecha>
+    <FechaTermino>2000-08-16T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1770</ID>
+    <Numero>29</Numero>
+    <Fecha>2000-08-17T00:00:00</Fecha>
+    <FechaTermino>2000-08-17T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1771</ID>
+    <Numero>30</Numero>
+    <Fecha>2000-08-29T00:00:00</Fecha>
+    <FechaTermino>2000-08-29T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1773</ID>
+    <Numero>32</Numero>
+    <Fecha>2000-08-31T00:00:00</Fecha>
+    <FechaTermino>2000-08-31T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1774</ID>
+    <Numero>33</Numero>
+    <Fecha>2000-09-05T00:00:00</Fecha>
+    <FechaTermino>2000-09-05T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1775</ID>
+    <Numero>35</Numero>
+    <Fecha>2000-09-06T00:00:00</Fecha>
+    <FechaTermino>2000-09-06T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1777</ID>
+    <Numero>37</Numero>
+    <Fecha>2000-09-12T00:00:00</Fecha>
+    <FechaTermino>2000-09-12T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1778</ID>
+    <Numero>38</Numero>
+    <Fecha>2000-09-13T00:00:00</Fecha>
+    <FechaTermino>2000-09-13T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1748</ID>
+    <Numero>1</Numero>
+    <Fecha>2000-06-06T00:00:00</Fecha>
+    <FechaTermino>2000-06-06T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1752</ID>
+    <Numero>5</Numero>
+    <Fecha>2000-06-20T00:00:00</Fecha>
+    <FechaTermino>2000-06-20T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1756</ID>
+    <Numero>10</Numero>
+    <Fecha>2000-07-05T00:00:00</Fecha>
+    <FechaTermino>2000-07-05T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1760</ID>
+    <Numero>16</Numero>
+    <Fecha>2000-07-13T00:00:00</Fecha>
+    <FechaTermino>2000-07-13T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1764</ID>
+    <Numero>20</Numero>
+    <Fecha>2000-08-02T00:00:00</Fecha>
+    <FechaTermino>2000-08-02T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1768</ID>
+    <Numero>27</Numero>
+    <Fecha>2000-08-10T00:00:00</Fecha>
+    <FechaTermino>2000-08-10T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1772</ID>
+    <Numero>31</Numero>
+    <Fecha>2000-08-30T00:00:00</Fecha>
+    <FechaTermino>2000-08-30T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1776</ID>
+    <Numero>36</Numero>
+    <Fecha>2000-09-07T00:00:00</Fecha>
+    <FechaTermino>2000-09-07T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2696</ID>
+    <Numero>39</Numero>
+    <Fecha>2000-09-13T16:08:00</Fecha>
+    <FechaTermino>2000-09-13T21:06:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2666</ID>
+    <Numero>7</Numero>
+    <Fecha>2000-06-21T17:04:00</Fecha>
+    <FechaTermino>2000-06-21T21:41:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2667</ID>
+    <Numero>13</Numero>
+    <Fecha>2000-07-11T10:00:00</Fecha>
+    <FechaTermino>2000-07-11T14:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2668</ID>
+    <Numero>15</Numero>
+    <Fecha>2000-07-12T19:08:00</Fecha>
+    <FechaTermino>2000-07-12T22:32:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2669</ID>
+    <Numero>21</Numero>
+    <Fecha>2000-08-02T10:00:00</Fecha>
+    <FechaTermino>2011-07-08T14:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2670</ID>
+    <Numero>23</Numero>
+    <Fecha>2000-08-08T10:00:00</Fecha>
+    <FechaTermino>2000-08-08T14:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2671</ID>
+    <Numero>26</Numero>
+    <Fecha>2000-08-26T17:06:00</Fecha>
+    <FechaTermino>2000-08-26T21:03:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2672</ID>
+    <Numero>34</Numero>
+    <Fecha>2000-09-05T18:08:00</Fecha>
+    <FechaTermino>2000-09-05T21:04:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+</Sesiones>

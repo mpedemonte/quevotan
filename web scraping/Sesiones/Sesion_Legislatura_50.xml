@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sesiones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Sesion>
+    <ID>3597</ID>
+    <Numero>8</Numero>
+    <Fecha>2018-04-04T10:32:02</Fecha>
+    <FechaTermino>2018-04-04T13:44:02</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3598</ID>
+    <Numero>9</Numero>
+    <Fecha>2018-04-05T10:32:53</Fecha>
+    <FechaTermino>2018-04-05T12:54:10</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3600</ID>
+    <Numero>11</Numero>
+    <Fecha>2018-04-11T10:38:10</Fecha>
+    <FechaTermino>2018-04-11T14:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3603</ID>
+    <Numero>14</Numero>
+    <Fecha>2018-04-18T10:34:17</Fecha>
+    <FechaTermino>2018-04-18T13:58:32</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3610</ID>
+    <Numero>20</Numero>
+    <Fecha>2018-05-09T10:34:58</Fecha>
+    <FechaTermino>2018-05-09T14:29:37</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3620</ID>
+    <Numero>31</Numero>
+    <Fecha>2018-06-06T10:34:48</Fecha>
+    <FechaTermino>2018-06-06T14:53:03</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3621</ID>
+    <Numero>32</Numero>
+    <Fecha>2018-06-06T16:05:25</Fecha>
+    <FechaTermino>2018-06-06T17:55:33</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3622</ID>
+    <Numero>33</Numero>
+    <Fecha>2018-06-07T10:06:48</Fecha>
+    <FechaTermino>2018-06-07T12:49:18</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3623</ID>
+    <Numero>34</Numero>
+    <Fecha>2018-06-12T10:33:15</Fecha>
+    <FechaTermino>2018-06-12T14:12:45</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3624</ID>
+    <Numero>35</Numero>
+    <Fecha>2018-06-12T16:04:18</Fecha>
+    <FechaTermino>2018-06-12T17:12:18</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3625</ID>
+    <Numero>36</Numero>
+    <Fecha>2018-06-13T10:39:09</Fecha>
+    <FechaTermino>2018-06-13T15:15:05</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3590</ID>
+    <Numero>1</Numero>
+    <Fecha>2018-03-13T11:03:05</Fecha>
+    <FechaTermino>2018-03-13T11:42:05</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3592</ID>
+    <Numero>3</Numero>
+    <Fecha>2018-03-15T10:34:06</Fecha>
+    <FechaTermino>2018-03-15T13:00:22</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3593</ID>
+    <Numero>4</Numero>
+    <Fecha>2018-03-20T10:37:18</Fecha>
+    <FechaTermino>2018-03-20T14:01:25</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3594</ID>
+    <Numero>5</Numero>
+    <Fecha>2018-03-21T10:35:01</Fecha>
+    <FechaTermino>2018-03-21T13:51:01</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3596</ID>
+    <Numero>7</Numero>
+    <Fecha>2018-04-03T10:35:50</Fecha>
+    <FechaTermino>2018-04-03T13:40:03</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3589</ID>
+    <Numero>0</Numero>
+    <Fecha>2018-03-11T09:01:12</Fecha>
+    <FechaTermino>2018-03-11T10:27:51</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3591</ID>
+    <Numero>2</Numero>
+    <Fecha>2018-03-14T10:38:18</Fecha>
+    <FechaTermino>2018-03-14T13:44:18</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3595</ID>
+    <Numero>6</Numero>
+    <Fecha>2018-03-22T10:38:09</Fecha>
+    <FechaTermino>2018-03-22T13:01:40</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3599</ID>
+    <Numero>10</Numero>
+    <Fecha>2018-04-10T10:37:33</Fecha>
+    <FechaTermino>2018-04-10T14:09:33</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3601</ID>
+    <Numero>12</Numero>
+    <Fecha>2018-04-12T10:36:31</Fecha>
+    <FechaTermino>2018-04-12T13:01:28</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3602</ID>
+    <Numero>13</Numero>
+    <Fecha>2018-04-17T10:37:30</Fecha>
+    <FechaTermino>2018-04-17T14:13:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3604</ID>
+    <Numero>15</Numero>
+    <Fecha>2018-04-19T10:33:23</Fecha>
+    <FechaTermino>2018-04-19T13:04:43</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3605</ID>
+    <Numero>16</Numero>
+    <Fecha>2018-05-02T10:35:31</Fecha>
+    <FechaTermino>2018-05-02T14:16:23</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3606</ID>
+    <Numero>17</Numero>
+    <Fecha>2018-05-02T19:33:58</Fecha>
+    <FechaTermino>2018-05-02T21:18:48</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3607</ID>
+    <Numero>18</Numero>
+    <Fecha>2018-05-03T10:04:07</Fecha>
+    <FechaTermino>2018-05-03T13:08:37</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3608</ID>
+    <Numero>19</Numero>
+    <Fecha>2018-05-08T10:38:00</Fecha>
+    <FechaTermino>2018-05-08T14:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3609</ID>
+    <Numero>21</Numero>
+    <Fecha>2018-05-10T10:03:13</Fecha>
+    <FechaTermino>2018-05-10T13:02:13</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3611</ID>
+    <Numero>22</Numero>
+    <Fecha>2018-05-15T10:31:44</Fecha>
+    <FechaTermino>2018-05-15T14:07:15</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3612</ID>
+    <Numero>23</Numero>
+    <Fecha>2018-05-16T10:37:39</Fecha>
+    <FechaTermino>2018-05-16T14:14:39</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3613</ID>
+    <Numero>24</Numero>
+    <Fecha>2018-05-16T16:02:47</Fecha>
+    <FechaTermino>2018-05-16T17:55:39</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3614</ID>
+    <Numero>25</Numero>
+    <Fecha>2018-05-17T10:05:30</Fecha>
+    <FechaTermino>2018-05-17T13:01:30</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3615</ID>
+    <Numero>26</Numero>
+    <Fecha>2018-05-29T10:34:43</Fecha>
+    <FechaTermino>2018-05-29T13:52:13</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3616</ID>
+    <Numero>27</Numero>
+    <Fecha>2018-05-29T16:07:44</Fecha>
+    <FechaTermino>2018-05-29T18:02:14</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3617</ID>
+    <Numero>28</Numero>
+    <Fecha>2018-05-30T10:40:55</Fecha>
+    <FechaTermino>2018-05-30T14:16:13</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3618</ID>
+    <Numero>29</Numero>
+    <Fecha>2018-05-31T10:10:04</Fecha>
+    <FechaTermino>2018-05-31T12:59:41</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3619</ID>
+    <Numero>30</Numero>
+    <Fecha>2018-06-05T10:32:24</Fecha>
+    <FechaTermino>2018-06-05T14:20:24</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3631</ID>
+    <Numero>41</Numero>
+    <Fecha>2018-07-03T10:31:40</Fecha>
+    <FechaTermino>2018-07-03T14:21:10</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3648</ID>
+    <Numero>58</Numero>
+    <Fecha>2018-08-13T17:04:58</Fecha>
+    <FechaTermino>2018-08-13T20:22:58</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3669</ID>
+    <Numero>79</Numero>
+    <Fecha>2018-10-03T10:36:13</Fecha>
+    <FechaTermino>2018-10-03T14:10:13</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3696</ID>
+    <Numero>105</Numero>
+    <Fecha>2018-11-22T10:05:06</Fecha>
+    <FechaTermino>2018-11-22T12:59:36</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3697</ID>
+    <Numero>106</Numero>
+    <Fecha>2018-11-27T10:35:13</Fecha>
+    <FechaTermino>2018-11-27T14:26:50</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3701</ID>
+    <Numero>110</Numero>
+    <Fecha>2018-12-11T16:06:35</Fecha>
+    <FechaTermino>2018-12-11T19:26:10</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3715</ID>
+    <Numero>124</Numero>
+    <Fecha>2019-01-10T10:05:16</Fecha>
+    <FechaTermino>2019-01-10T12:57:06</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3626</ID>
+    <Numero>37</Numero>
+    <Fecha>2018-06-14T10:05:00</Fecha>
+    <FechaTermino>2018-06-14T13:14:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3663</ID>
+    <Numero>73</Numero>
+    <Fecha>2018-09-13T10:07:35</Fecha>
+    <FechaTermino>2018-09-13T13:31:05</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3666</ID>
+    <Numero>76</Numero>
+    <Fecha>2018-09-26T10:36:28</Fecha>
+    <FechaTermino>2018-09-26T14:36:28</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3670</ID>
+    <Numero>80</Numero>
+    <Fecha>2018-10-04T10:06:18</Fecha>
+    <FechaTermino>2018-10-04T10:06:18</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3671</ID>
+    <Numero>81</Numero>
+    <Fecha>2018-10-09T10:32:26</Fecha>
+    <FechaTermino>2018-10-09T13:33:26</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3700</ID>
+    <Numero>109</Numero>
+    <Fecha>2018-12-11T10:34:52</Fecha>
+    <FechaTermino>2018-12-11T14:17:22</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3721</ID>
+    <Numero>130</Numero>
+    <Fecha>2019-01-22T18:30:40</Fecha>
+    <FechaTermino>2019-01-22T20:44:54</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3722</ID>
+    <Numero>131</Numero>
+    <Fecha>2019-01-23T10:37:08</Fecha>
+    <FechaTermino>2019-01-23T14:21:12</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3725</ID>
+    <Numero>134</Numero>
+    <Fecha>2019-03-05T10:35:31</Fecha>
+    <FechaTermino>2019-03-05T14:16:31</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3632</ID>
+    <Numero>42</Numero>
+    <Fecha>2018-07-04T10:33:33</Fecha>
+    <FechaTermino>2018-07-04T14:13:33</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3633</ID>
+    <Numero>43</Numero>
+    <Fecha>2018-07-04T16:33:06</Fecha>
+    <FechaTermino>2018-07-04T18:40:36</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3634</ID>
+    <Numero>44</Numero>
+    <Fecha>2018-07-05T10:07:34</Fecha>
+    <FechaTermino>2018-07-05T13:00:34</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3650</ID>
+    <Numero>60</Numero>
+    <Fecha>2018-08-21T10:33:11</Fecha>
+    <FechaTermino>2018-08-21T14:31:41</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3651</ID>
+    <Numero>61</Numero>
+    <Fecha>2018-08-21T16:00:05</Fecha>
+    <FechaTermino>2018-08-21T17:38:35</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3659</ID>
+    <Numero>69</Numero>
+    <Fecha>2018-09-06T10:06:01</Fecha>
+    <FechaTermino>2018-09-06T13:04:31</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3675</ID>
+    <Numero>85</Numero>
+    <Fecha>2018-10-16T10:36:47</Fecha>
+    <FechaTermino>2018-10-16T13:27:51</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3676</ID>
+    <Numero>86</Numero>
+    <Fecha>2018-10-16T16:05:29</Fecha>
+    <FechaTermino>2018-10-16T17:47:29</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3677</ID>
+    <Numero>87</Numero>
+    <Fecha>2018-10-17T10:33:20</Fecha>
+    <FechaTermino>2018-10-17T14:26:50</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3678</ID>
+    <Numero>88</Numero>
+    <Fecha>2018-10-17T16:05:17</Fecha>
+    <FechaTermino>2018-10-17T17:25:47</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3680</ID>
+    <Numero>90</Numero>
+    <Fecha>2018-10-23T10:34:08</Fecha>
+    <FechaTermino>2018-10-23T13:48:08</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3681</ID>
+    <Numero>91</Numero>
+    <Fecha>2018-10-23T16:05:24</Fecha>
+    <FechaTermino>2018-10-23T17:55:24</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3682</ID>
+    <Numero>92</Numero>
+    <Fecha>2018-10-24T10:34:48</Fecha>
+    <FechaTermino>2018-10-24T14:46:18</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3723</ID>
+    <Numero>132</Numero>
+    <Fecha>2019-01-23T17:05:32</Fecha>
+    <FechaTermino>2019-01-23T18:32:32</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3724</ID>
+    <Numero>133</Numero>
+    <Fecha>2019-01-24T10:08:48</Fecha>
+    <FechaTermino>2019-01-24T13:19:18</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3727</ID>
+    <Numero>135</Numero>
+    <Fecha>2019-03-06T10:37:48</Fecha>
+    <FechaTermino>2019-03-06T14:43:18</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3728</ID>
+    <Numero>136</Numero>
+    <Fecha>2019-03-06T16:05:59</Fecha>
+    <FechaTermino>2019-03-06T17:36:29</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3627</ID>
+    <Numero>38</Numero>
+    <Fecha>2018-06-19T10:36:40</Fecha>
+    <FechaTermino>2018-06-19T14:19:42</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3628</ID>
+    <Numero>39</Numero>
+    <Fecha>2018-06-20T10:33:54</Fecha>
+    <FechaTermino>2018-06-20T13:24:24</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3637</ID>
+    <Numero>47</Numero>
+    <Fecha>2018-07-11T10:37:30</Fecha>
+    <FechaTermino>2018-07-11T14:25:03</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3638</ID>
+    <Numero>48</Numero>
+    <Fecha>2018-07-12T10:06:48</Fecha>
+    <FechaTermino>2018-07-12T14:02:48</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3643</ID>
+    <Numero>53</Numero>
+    <Fecha>2018-08-02T10:06:14</Fecha>
+    <FechaTermino>2018-08-02T13:09:44</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3644</ID>
+    <Numero>54</Numero>
+    <Fecha>2018-08-07T10:33:00</Fecha>
+    <FechaTermino>2018-08-07T14:10:02</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3652</ID>
+    <Numero>62</Numero>
+    <Fecha>2018-08-22T10:30:54</Fecha>
+    <FechaTermino>2018-08-22T14:57:24</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3664</ID>
+    <Numero>74</Numero>
+    <Fecha>2018-09-13T14:33:28</Fecha>
+    <FechaTermino>2018-09-13T23:53:28</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3665</ID>
+    <Numero>75</Numero>
+    <Fecha>2018-09-25T10:33:48</Fecha>
+    <FechaTermino>2018-09-25T13:58:18</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3679</ID>
+    <Numero>89</Numero>
+    <Fecha>2018-10-18T10:06:51</Fecha>
+    <FechaTermino>2018-10-18T12:57:21</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3683</ID>
+    <Numero>93</Numero>
+    <Fecha>2018-10-25T10:07:08</Fecha>
+    <FechaTermino>2018-10-25T12:58:38</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3684</ID>
+    <Numero>94</Numero>
+    <Fecha>2018-11-06T10:36:59</Fecha>
+    <FechaTermino>2018-11-06T15:30:29</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3706</ID>
+    <Numero>115</Numero>
+    <Fecha>2018-12-18T10:33:51</Fecha>
+    <FechaTermino>2018-12-18T14:10:51</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3707</ID>
+    <Numero>116</Numero>
+    <Fecha>2018-12-18T16:05:31</Fecha>
+    <FechaTermino>2018-12-18T17:50:10</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3709</ID>
+    <Numero>118</Numero>
+    <Fecha>2018-12-20T10:05:01</Fecha>
+    <FechaTermino>2018-12-20T12:28:31</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3710</ID>
+    <Numero>119</Numero>
+    <Fecha>2018-12-21T14:01:00</Fecha>
+    <FechaTermino>2018-12-21T15:32:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3713</ID>
+    <Numero>122</Numero>
+    <Fecha>2019-01-08T10:33:58</Fecha>
+    <FechaTermino>2019-01-08T14:24:14</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3714</ID>
+    <Numero>123</Numero>
+    <Fecha>2019-01-09T10:36:59</Fecha>
+    <FechaTermino>2019-01-09T14:27:59</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3654</ID>
+    <Numero>64</Numero>
+    <Fecha>2018-08-27T17:00:38</Fecha>
+    <FechaTermino>2018-08-27T19:13:38</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3660</ID>
+    <Numero>70</Numero>
+    <Fecha>2018-09-11T10:34:18</Fecha>
+    <FechaTermino>2018-09-11T14:35:48</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3661</ID>
+    <Numero>71</Numero>
+    <Fecha>2018-09-11T16:05:22</Fecha>
+    <FechaTermino>2018-09-11T17:33:22</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3662</ID>
+    <Numero>72</Numero>
+    <Fecha>2018-09-12T10:35:51</Fecha>
+    <FechaTermino>2018-09-12T14:20:51</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3668</ID>
+    <Numero>78</Numero>
+    <Fecha>2018-10-02T10:33:46</Fecha>
+    <FechaTermino>2018-10-02T14:27:16</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3729</ID>
+    <Numero>137</Numero>
+    <Fecha>2019-03-07T10:03:38</Fecha>
+    <FechaTermino>2019-03-07T13:00:01</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3635</ID>
+    <Numero>45</Numero>
+    <Fecha>2018-07-10T10:33:59</Fecha>
+    <FechaTermino>2018-07-10T14:08:29</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3630</ID>
+    <Numero>40</Numero>
+    <Fecha>2018-06-21T10:05:54</Fecha>
+    <FechaTermino>2018-06-21T13:11:24</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3636</ID>
+    <Numero>46</Numero>
+    <Fecha>2018-07-10T16:05:17</Fecha>
+    <FechaTermino>2018-07-10T17:46:47</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3639</ID>
+    <Numero>49</Numero>
+    <Fecha>2018-07-18T10:35:56</Fecha>
+    <FechaTermino>2018-07-18T14:40:56</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3645</ID>
+    <Numero>55</Numero>
+    <Fecha>2018-08-08T10:36:47</Fecha>
+    <FechaTermino>2018-08-08T14:07:17</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3646</ID>
+    <Numero>56</Numero>
+    <Fecha>2018-08-09T10:05:40</Fecha>
+    <FechaTermino>2018-08-09T13:14:40</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3647</ID>
+    <Numero>57</Numero>
+    <Fecha>2018-08-13T15:03:22</Fecha>
+    <FechaTermino>2018-08-13T16:41:52</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3686</ID>
+    <Numero>95</Numero>
+    <Fecha>2018-11-07T10:36:19</Fecha>
+    <FechaTermino>2018-11-07T13:54:19</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3687</ID>
+    <Numero>96</Numero>
+    <Fecha>2018-11-07T16:08:12</Fecha>
+    <FechaTermino>2018-11-07T17:43:12</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3688</ID>
+    <Numero>97</Numero>
+    <Fecha>2018-11-08T10:08:58</Fecha>
+    <FechaTermino>2018-11-08T12:52:58</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3698</ID>
+    <Numero>107</Numero>
+    <Fecha>2018-11-28T10:36:02</Fecha>
+    <FechaTermino>2018-11-28T14:59:02</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3705</ID>
+    <Numero>114</Numero>
+    <Fecha>2018-12-13T10:03:52</Fecha>
+    <FechaTermino>2018-12-13T12:54:52</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3712</ID>
+    <Numero>121</Numero>
+    <Fecha>2019-01-03T10:03:48</Fecha>
+    <FechaTermino>2019-01-03T12:35:07</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3641</ID>
+    <Numero>51</Numero>
+    <Fecha>2018-07-31T10:34:01</Fecha>
+    <FechaTermino>2018-07-31T14:58:31</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3642</ID>
+    <Numero>52</Numero>
+    <Fecha>2018-08-01T10:35:09</Fecha>
+    <FechaTermino>2018-08-01T14:15:39</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3649</ID>
+    <Numero>59</Numero>
+    <Fecha>2018-08-14T10:37:38</Fecha>
+    <FechaTermino>2018-08-14T14:18:09</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3655</ID>
+    <Numero>65</Numero>
+    <Fecha>2018-08-28T10:12:43</Fecha>
+    <FechaTermino>2018-08-28T14:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3672</ID>
+    <Numero>82</Numero>
+    <Fecha>2018-10-10T10:31:35</Fecha>
+    <FechaTermino>2018-10-10T13:38:35</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3673</ID>
+    <Numero>83</Numero>
+    <Fecha>2018-10-10T16:06:57</Fecha>
+    <FechaTermino>2018-10-10T18:47:27</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3695</ID>
+    <Numero>104</Numero>
+    <Fecha>2018-11-21T10:36:01</Fecha>
+    <FechaTermino>2018-11-21T15:12:01</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3702</ID>
+    <Numero>111</Numero>
+    <Fecha>2018-12-11T20:09:33</Fecha>
+    <FechaTermino>2018-12-11T22:44:10</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3703</ID>
+    <Numero>112</Numero>
+    <Fecha>2018-12-12T10:36:19</Fecha>
+    <FechaTermino>2018-12-12T14:10:17</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3704</ID>
+    <Numero>113</Numero>
+    <Fecha>2018-12-12T16:06:36</Fecha>
+    <FechaTermino>2018-12-12T17:45:20</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3708</ID>
+    <Numero>117</Numero>
+    <Fecha>2018-12-19T10:36:01</Fecha>
+    <FechaTermino>2018-12-19T14:56:01</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3711</ID>
+    <Numero>120</Numero>
+    <Fecha>2019-01-02T10:32:41</Fecha>
+    <FechaTermino>2019-01-02T14:21:24</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3716</ID>
+    <Numero>125</Numero>
+    <Fecha>2019-01-15T10:35:20</Fecha>
+    <FechaTermino>2019-01-15T14:17:19</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3640</ID>
+    <Numero>50</Numero>
+    <Fecha>2018-07-19T10:08:12</Fecha>
+    <FechaTermino>2018-07-19T13:30:12</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3653</ID>
+    <Numero>63</Numero>
+    <Fecha>2018-08-23T10:05:38</Fecha>
+    <FechaTermino>2018-08-23T13:19:08</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3656</ID>
+    <Numero>66</Numero>
+    <Fecha>2018-09-04T10:36:13</Fecha>
+    <FechaTermino>2018-09-04T14:06:13</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3657</ID>
+    <Numero>67</Numero>
+    <Fecha>2018-09-05T10:37:14</Fecha>
+    <FechaTermino>2018-09-05T14:21:14</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3658</ID>
+    <Numero>68</Numero>
+    <Fecha>2018-09-05T16:05:16</Fecha>
+    <FechaTermino>2018-09-05T17:57:46</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3667</ID>
+    <Numero>77</Numero>
+    <Fecha>2018-09-27T10:07:51</Fecha>
+    <FechaTermino>2018-09-27T13:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3674</ID>
+    <Numero>84</Numero>
+    <Fecha>2018-10-11T10:08:21</Fecha>
+    <FechaTermino>2018-10-11T12:20:21</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3689</ID>
+    <Numero>98</Numero>
+    <Fecha>2018-11-12T17:02:17</Fecha>
+    <FechaTermino>2018-11-12T19:13:07</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3690</ID>
+    <Numero>99</Numero>
+    <Fecha>2018-11-13T10:34:21</Fecha>
+    <FechaTermino>2018-11-13T14:55:18</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3691</ID>
+    <Numero>100</Numero>
+    <Fecha>2018-11-14T10:37:48</Fecha>
+    <FechaTermino>2018-11-14T13:29:58</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3692</ID>
+    <Numero>101</Numero>
+    <Fecha>2018-11-14T14:40:16</Fecha>
+    <FechaTermino>2018-11-14T21:56:55</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3693</ID>
+    <Numero>102</Numero>
+    <Fecha>2018-11-15T10:06:02</Fecha>
+    <FechaTermino>2018-11-16T02:24:36</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3694</ID>
+    <Numero>103</Numero>
+    <Fecha>2018-11-20T10:32:35</Fecha>
+    <FechaTermino>2018-11-20T14:34:51</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3699</ID>
+    <Numero>108</Numero>
+    <Fecha>2018-11-29T10:36:48</Fecha>
+    <FechaTermino>2018-11-29T13:15:32</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3717</ID>
+    <Numero>126</Numero>
+    <Fecha>2019-01-16T10:40:57</Fecha>
+    <FechaTermino>2019-01-16T15:14:27</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3718</ID>
+    <Numero>127</Numero>
+    <Fecha>2019-01-16T18:05:38</Fecha>
+    <FechaTermino>2019-01-16T20:15:08</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3719</ID>
+    <Numero>128</Numero>
+    <Fecha>2019-01-17T10:07:48</Fecha>
+    <FechaTermino>2019-01-17T13:15:48</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>3720</ID>
+    <Numero>129</Numero>
+    <Fecha>2019-01-22T10:35:25</Fecha>
+    <FechaTermino>2019-01-22T14:47:04</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+</Sesiones>

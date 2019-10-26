@@ -76,7 +76,7 @@ def normalize(words):
 
 
 x=1
-for k in range(341,3810):
+for k in range(1,3816):
     print k
     for j in range(1,17):
         if os.path.exists("proyectos/boletin_sesion_"+str(k)+"-"+str(j)+".txt") == True:
