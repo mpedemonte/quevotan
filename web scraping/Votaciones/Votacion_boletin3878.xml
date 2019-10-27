@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>10617</ID>
+    <Fecha>2009-10-27T13:23:03</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2273</ID>
+      <Numero>92</Numero>
+      <Fecha>2009-10-27T11:08:32</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo />
+    <Tramite Codigo="5">OBSERVACIONES P. DE LA R.</Tramite>
+    <Informe Codigo="4">INFORME OBSERVACIONES</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10267</ID>
+    <Fecha>2009-07-29T12:24:45</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2237</ID>
+      <Numero>56</Numero>
+      <Fecha>2009-07-29T10:40:09</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>57</TotalAfirmativos>
+    <TotalNegativos>11</TotalNegativos>
+    <TotalAbstenciones>31</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>7268</ID>
+    <Fecha>2007-10-03T13:26:50</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>1955</ID>
+      <Numero>81</Numero>
+      <Fecha>2007-10-03T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo>Totalidad de las modificaciones introducidas por el Senado.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>48</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5411</ID>
+    <Fecha>2006-08-01T13:20:42</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>746</ID>
+      <Numero>53</Numero>
+      <Fecha>2006-08-01T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo>3° transitorio.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>9</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5410</ID>
+    <Fecha>2006-08-01T13:19:46</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>746</ID>
+      <Numero>53</Numero>
+      <Fecha>2006-08-01T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo>Numero 4 del artículo 16, sobre el que se pidió votación separada.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>65</TotalAfirmativos>
+    <TotalNegativos>38</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5409</ID>
+    <Fecha>2006-08-01T13:18:01</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>746</ID>
+      <Numero>53</Numero>
+      <Fecha>2006-08-01T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo>Indicación de la Comisión de Hacienda que agrega en la letra a) del inciso primero del artículo 8°, a continuación de la expresión "República", la frase "quienes deberán ser de distintas regiones del país".
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>102</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5408</ID>
+    <Fecha>2006-08-01T13:17:03</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>746</ID>
+      <Numero>53</Numero>
+      <Fecha>2006-08-01T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo>Número 8 del artículo 4°, sobre el que se pidió votación separada.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5407</ID>
+    <Fecha>2006-08-01T13:15:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>746</ID>
+      <Numero>53</Numero>
+      <Fecha>2006-08-01T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo>Número 7 del artículo 4° propuesto por la Comisión.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>101</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5406</ID>
+    <Fecha>2006-08-01T13:15:15</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>746</ID>
+      <Numero>53</Numero>
+      <Fecha>2006-08-01T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo>Indicación renovada al número 7 del artículo 4°, que agrega a continuación del punto seguido lo siguiente: "cometidos a partir de la fecha de promulgación de la presente ley".
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>46</TotalAfirmativos>
+    <TotalNegativos>64</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5405</ID>
+    <Fecha>2006-08-01T13:14:21</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>746</ID>
+      <Numero>53</Numero>
+      <Fecha>2006-08-01T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo>Texto contenido en el segundo informe de la Comisión de Derechos Humanos, con excepción del número 7 del artículo 4°, que tiene una indicación renovada; del número 8 del artículo 4°, sobre el que se ha pedido votación separada; del artículo 8°, inciso primero, letra a), que fue objeto de una indicación de la Comisión de Hacienda; del número 4 del artículo 16, y del artículo 3° transitorio, respecto de los cuales se ha pedido votación separada.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>107</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4960</ID>
+    <Fecha>2006-01-18T13:30:00</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>685</ID>
+      <Numero>70</Numero>
+      <Fecha>2006-01-18T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3878-17</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>63</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

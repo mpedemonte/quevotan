@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>14876</ID>
+    <Fecha>2012-03-07T12:59:42</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2767</ID>
+      <Numero>141</Numero>
+      <Fecha>2012-03-07T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7795-18</Boletin>
+    <Articulo>Votación separada artículo único, frase despues del punto aparte.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>47</TotalAfirmativos>
+    <TotalNegativos>42</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>14875</ID>
+    <Fecha>2012-03-07T12:58:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2767</ID>
+      <Numero>141</Numero>
+      <Fecha>2012-03-07T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7795-18</Boletin>
+    <Articulo>Artículo único, con indicación y votación separada.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>51</TotalAfirmativos>
+    <TotalNegativos>47</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>14542</ID>
+    <Fecha>2011-11-29T14:06:42</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2741</ID>
+      <Numero>117</Numero>
+      <Fecha>2011-11-29T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7795-18</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>103</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

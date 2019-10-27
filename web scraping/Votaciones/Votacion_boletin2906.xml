@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>2874</ID>
+    <Fecha>2003-11-18T13:14:47</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>343</ID>
+      <Numero>21</Numero>
+      <Fecha>2003-11-18T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2906-07</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>2817</ID>
+    <Fecha>2003-11-05T13:29:58</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>339</ID>
+      <Numero>15</Numero>
+      <Fecha>2003-11-05T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2906-07</Boletin>
+    <Articulo>Normas referidas a la edad, solo en lo que dice relación a la expresión "catorce años" y los artículos 363, 369 ter y 372.</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>3</TotalAfirmativos>
+    <TotalNegativos>88</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>1673</ID>
+    <Fecha>2002-09-11T13:36:50</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>550</ID>
+      <Numero>41</Numero>
+      <Fecha>2002-09-11T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2906-07</Boletin>
+    <Articulo>4º, letra b)</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>1672</ID>
+    <Fecha>2002-09-11T13:36:04</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>550</ID>
+      <Numero>41</Numero>
+      <Fecha>2002-09-11T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2906-07</Boletin>
+    <Articulo>Indicación Sr. Burgos</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>103</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>1671</ID>
+    <Fecha>2002-09-11T13:34:35</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>550</ID>
+      <Numero>41</Numero>
+      <Fecha>2002-09-11T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2906-07</Boletin>
+    <Articulo>Con excepción de la letra b) del artículo 4º</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>106</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

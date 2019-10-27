@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>4465</ID>
+    <Fecha>2005-06-15T13:02:34</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>610</ID>
+      <Numero>5</Numero>
+      <Fecha>2005-06-15T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2903-11</Boletin>
+    <Articulo />
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>77</TotalAfirmativos>
+    <TotalNegativos>10</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>2846</ID>
+    <Fecha>2003-11-12T12:30:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>341</ID>
+      <Numero>19</Numero>
+      <Fecha>2003-11-12T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2903-11</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>64</TotalAfirmativos>
+    <TotalNegativos>7</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>2845</ID>
+    <Fecha>2003-11-12T12:29:49</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>341</ID>
+      <Numero>19</Numero>
+      <Fecha>2003-11-12T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2903-11</Boletin>
+    <Articulo>Indicación señores Bayo, Rossi, Accorsi y Ojeda al inciso segundo
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>10</TotalAfirmativos>
+    <TotalNegativos>68</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>2844</ID>
+    <Fecha>2003-11-12T12:17:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>341</ID>
+      <Numero>19</Numero>
+      <Fecha>2003-11-12T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2903-11</Boletin>
+    <Articulo>Indicación señores Robles, Accorsi, Venegas y González, don Rodrigo al inciso segundo</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>18</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>2843</ID>
+    <Fecha>2003-11-12T12:14:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>341</ID>
+      <Numero>19</Numero>
+      <Fecha>2003-11-12T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2903-11</Boletin>
+    <Articulo>Indicación señor Robles, Accorsi, Venegas y González, don Rodrigo al inciso primero
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>14</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>2842</ID>
+    <Fecha>2003-11-12T12:08:19</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>341</ID>
+      <Numero>19</Numero>
+      <Fecha>2003-11-12T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2903-11</Boletin>
+    <Articulo>Omitir segundo informe
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>52</TotalAfirmativos>
+    <TotalNegativos>8</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>2841</ID>
+    <Fecha>2003-11-12T12:06:09</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>341</ID>
+      <Numero>19</Numero>
+      <Fecha>2003-11-12T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2903-11</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>48</TotalAfirmativos>
+    <TotalNegativos>9</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>2840</ID>
+    <Fecha>2003-11-12T12:04:30</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>341</ID>
+      <Numero>19</Numero>
+      <Fecha>2003-11-12T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2903-11</Boletin>
+    <Articulo>Cierre del debate</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>41</TotalAfirmativos>
+    <TotalNegativos>5</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

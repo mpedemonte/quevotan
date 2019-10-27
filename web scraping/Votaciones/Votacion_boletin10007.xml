@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>21753</ID>
+    <Fecha>2015-11-03T13:54:14</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>3275</ID>
+      <Numero>87</Numero>
+      <Fecha>2015-11-03T11:04:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>enmiendas introducidas por el Senado en el artículo segundo del proyecto</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>77</TotalAfirmativos>
+    <TotalNegativos>15</TotalNegativos>
+    <TotalAbstenciones>14</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21752</ID>
+    <Fecha>2015-11-03T13:53:34</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3275</ID>
+      <Numero>87</Numero>
+      <Fecha>2015-11-03T11:04:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>todas las modificaciones introducidas por el Senado, con la salvedad del artículo segundo por tratar materias propias de ley de quorum calificado</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>65</TotalAfirmativos>
+    <TotalNegativos>38</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21341</ID>
+    <Fecha>2015-07-22T13:47:36</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3237</ID>
+      <Numero>51</Numero>
+      <Fecha>2015-07-22T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>quinto, con las modificaciones propuestas por la Comisión de Hacienda
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>106</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21340</ID>
+    <Fecha>2015-07-22T13:47:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3237</ID>
+      <Numero>51</Numero>
+      <Fecha>2015-07-22T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>tercero, cuya votación separada ha sido solicitada
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>108</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21339</ID>
+    <Fecha>2015-07-22T13:46:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>3237</ID>
+      <Numero>51</Numero>
+      <Fecha>2015-07-22T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>segundo
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>68</TotalAfirmativos>
+    <TotalNegativos>40</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21338</ID>
+    <Fecha>2015-07-22T13:46:04</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3237</ID>
+      <Numero>51</Numero>
+      <Fecha>2015-07-22T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>letra c) del numeral 9) del artículo primero, incorporado por la Comisión de Hacienda, cuya votación separada ha sido solicitada
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>107</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21337</ID>
+    <Fecha>2015-07-22T13:45:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3237</ID>
+      <Numero>51</Numero>
+      <Fecha>2015-07-22T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>letras a) y b) del numeral 9) del artículo primero
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>106</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21336</ID>
+    <Fecha>2015-07-22T13:44:59</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3237</ID>
+      <Numero>51</Numero>
+      <Fecha>2015-07-22T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>numeral 1) del artículo primero, con las modificaciones propuestas por la Comisión de Hacienda
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>108</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21335</ID>
+    <Fecha>2015-07-22T13:42:37</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3237</ID>
+      <Numero>51</Numero>
+      <Fecha>2015-07-22T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>inciso quinto del artículo 3° duodecies contenido en el numeral 6) del artículo cuarto del proyecto
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>66</TotalAfirmativos>
+    <TotalNegativos>38</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21334</ID>
+    <Fecha>2015-07-22T13:42:01</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>3237</ID>
+      <Numero>51</Numero>
+      <Fecha>2015-07-22T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>segundo
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>67</TotalAfirmativos>
+    <TotalNegativos>38</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21333</ID>
+    <Fecha>2015-07-22T13:41:28</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3237</ID>
+      <Numero>51</Numero>
+      <Fecha>2015-07-22T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10007-15</Boletin>
+    <Articulo>con la salvedad del artículo segundo por tratar materias propias de ley de quorum calificado y del inciso quinto del artículo 3° duodecies contenido en el numeral 6) del artículo cuarto del proyecto, por tratar materias propias de ley orgánica constitucional
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>67</TotalAfirmativos>
+    <TotalNegativos>32</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+</Votaciones>

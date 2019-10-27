@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>5304</ID>
+    <Fecha>2006-06-15T13:07:29</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>730</ID>
+      <Numero>38</Numero>
+      <Fecha>2006-06-15T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4227-08</Boletin>
+    <Articulo>Indicación del Ejecutivo:
+AL ARTICULO 2º
+1) Para agregar el siguiente artículo 2° nuevo, pasando el actual a ser 3°:
+"Artículo 2°.- Introdúcense las siguientes modificaciones a la ley N° 19.764, modificada por la ley N° 19.935:
+a) Sustitúyese en el inciso cuarto del artículo 1°, la expresión "del 1 de julio de 2006" por "de la fecha de vencimiento establecida en el inciso primero del artículo 1° de la ley N°20.063".
+b) Reemplázase en el inciso cuarto del artículo 2°, la expresión "del 1 de julio de 2006" por "de la fecha de vencimiento establecida en el inciso primero del artículo 1° de la ley N°20.063".
+
+2) Para sustituir el actual artículo 2°, que ha pasado a ser 3°, por el siguiente:
+"Artículo 3°.- Las modificaciones a la ley N°20.063, entrarán en vigencia a partir del 1 de julio de 2006.".</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>95</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5303</ID>
+    <Fecha>2006-06-15T13:05:14</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>730</ID>
+      <Numero>38</Numero>
+      <Fecha>2006-06-15T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4227-08</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>52</TotalAfirmativos>
+    <TotalNegativos>5</TotalNegativos>
+    <TotalAbstenciones>38</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

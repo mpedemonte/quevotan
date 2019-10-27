@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>3335</ID>
+    <Fecha>2004-05-11T19:10:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>399</ID>
+      <Numero>83</Numero>
+      <Fecha>2004-05-11T16:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo>4° transitorio</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>46</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>3334</ID>
+    <Fecha>2004-05-11T19:09:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>399</ID>
+      <Numero>83</Numero>
+      <Fecha>2004-05-11T16:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo>3° transitorio
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>49</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>3333</ID>
+    <Fecha>2004-05-11T19:09:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>399</ID>
+      <Numero>83</Numero>
+      <Fecha>2004-05-11T16:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo>2° transitorio
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>50</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>3332</ID>
+    <Fecha>2004-05-11T19:08:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>399</ID>
+      <Numero>83</Numero>
+      <Fecha>2004-05-11T16:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo>1° transitorio</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>49</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>3330</ID>
+    <Fecha>2004-05-11T19:06:00</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>399</ID>
+      <Numero>83</Numero>
+      <Fecha>2004-05-11T16:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo>3°</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>49</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>45</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>3331</ID>
+    <Fecha>2004-05-11T19:06:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>399</ID>
+      <Numero>83</Numero>
+      <Fecha>2004-05-11T16:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo>6°</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>92</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>3326</ID>
+    <Fecha>2004-05-11T19:02:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>399</ID>
+      <Numero>83</Numero>
+      <Fecha>2004-05-11T16:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo>1°</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>48</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>40</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>3327</ID>
+    <Fecha>2004-05-11T19:02:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>399</ID>
+      <Numero>83</Numero>
+      <Fecha>2004-05-11T16:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo>2°
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>3261</ID>
+    <Fecha>2004-04-21T13:35:22</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>394</ID>
+      <Numero>77</Numero>
+      <Fecha>2004-04-21T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo>Transitorio</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>51</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>43</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>3260</ID>
+    <Fecha>2004-04-21T13:34:32</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="5">UNANIME</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>394</ID>
+      <Numero>77</Numero>
+      <Fecha>2004-04-21T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3391-17</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

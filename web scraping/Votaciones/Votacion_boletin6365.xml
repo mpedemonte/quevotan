@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>10959</ID>
+    <Fecha>2010-03-10T10:59:15</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2336</ID>
+      <Numero>125</Numero>
+      <Fecha>2010-03-10T11:21:34</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>51</TotalAfirmativos>
+    <TotalNegativos>21</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10919</ID>
+    <Fecha>2010-01-20T13:42:05</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2332</ID>
+      <Numero>121</Numero>
+      <Fecha>2010-01-20T10:38:43</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Enmienda introducida por el Senado al ´númwero 10) que ha pasado a ser 17) del artículo 1°.</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>43</TotalAfirmativos>
+    <TotalNegativos>46</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10918</ID>
+    <Fecha>2010-01-20T13:28:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2332</ID>
+      <Numero>121</Numero>
+      <Fecha>2010-01-20T10:38:43</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Enmienda del Senado al número 18), que ha pasado a ser 35) del artículo 1°.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>42</TotalAfirmativos>
+    <TotalNegativos>47</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10917</ID>
+    <Fecha>2010-01-20T13:27:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2332</ID>
+      <Numero>121</Numero>
+      <Fecha>2010-01-20T10:38:43</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Modificación introducida por el Senado al número 12), que ha pasado a ser 19) del artículo 1°.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>43</TotalAfirmativos>
+    <TotalNegativos>46</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10915</ID>
+    <Fecha>2010-01-20T13:26:14</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2332</ID>
+      <Numero>121</Numero>
+      <Fecha>2010-01-20T10:38:43</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Enmiendas del Senado, con excepción de los números 10), que ha pasado a ser 17; 12), que ha pasado a ser19 y 18), que ha pasado a ser 35) del artículo 1°.</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>78</TotalAfirmativos>
+    <TotalNegativos>15</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10020</ID>
+    <Fecha>2009-05-20T15:03:31</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2210</ID>
+      <Numero>32</Numero>
+      <Fecha>2009-05-20T10:36:15</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Art, 6° transitorio.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>65</TotalAfirmativos>
+    <TotalNegativos>9</TotalNegativos>
+    <TotalAbstenciones>15</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10017</ID>
+    <Fecha>2009-05-20T15:00:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2210</ID>
+      <Numero>32</Numero>
+      <Fecha>2009-05-20T10:36:15</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Oración final del artículo 5°.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>60</TotalAfirmativos>
+    <TotalNegativos>32</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10016</ID>
+    <Fecha>2009-05-20T14:58:39</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2210</ID>
+      <Numero>32</Numero>
+      <Fecha>2009-05-20T10:36:15</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Indicación de la Comisión de Hacienda para suprimir la letra k) del número 18 del artículo 1°.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>9</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>22</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10015</ID>
+    <Fecha>2009-05-20T14:57:50</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2210</ID>
+      <Numero>32</Numero>
+      <Fecha>2009-05-20T10:36:15</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Numerales 10 y 11 del artículo 1°.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>61</TotalAfirmativos>
+    <TotalNegativos>29</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10014</ID>
+    <Fecha>2009-05-20T14:56:55</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2210</ID>
+      <Numero>32</Numero>
+      <Fecha>2009-05-20T10:36:15</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Oración final del inciso cuarto del artículo 81 contenido en el numeral 9 del artículo 1°.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>25</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10013</ID>
+    <Fecha>2009-05-20T14:55:02</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2210</ID>
+      <Numero>32</Numero>
+      <Fecha>2009-05-20T10:36:15</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo>Frase final de la letra b) del numeral 7 del artículo 1°.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>60</TotalAfirmativos>
+    <TotalNegativos>34</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10012</ID>
+    <Fecha>2009-05-20T14:51:51</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2210</ID>
+      <Numero>32</Numero>
+      <Fecha>2009-05-20T10:36:15</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6365-21</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>92</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

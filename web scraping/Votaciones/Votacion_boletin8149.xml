@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>26386</ID>
+    <Fecha>2017-10-10T13:43:40</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3539</ID>
+      <Numero>76</Numero>
+      <Fecha>2017-10-10T10:42:27</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8149-09</Boletin>
+    <Articulo>inciso quinto del artículo 92 propuesto por el nuevo número 9 incorporado por el Senado; la letra a) del nuevo número 13 incorporado por el Senado, referido al artículo 129 bis 2; el nuevo número 16 introducido por el Senado, referido al artículo 137; la frase final del inciso final del artículo 172 sexies contenido en el nuevo número 21; el nuevo número 25 introducido por el Senado, referido al artículo 175 y la letra b) del nuevo número 35 incorporado por el Senado, referido al artículo 306, todos numerales del artículo 1º del proyecto.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>98</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26385</ID>
+    <Fecha>2017-10-10T13:41:48</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3539</ID>
+      <Numero>76</Numero>
+      <Fecha>2017-10-10T10:42:27</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8149-09</Boletin>
+    <Articulo>con la salvedad de las normas propias de ley orgánica constitucional, las que se votarán a continuación.
+
+
+
+
+
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>15383</ID>
+    <Fecha>2012-06-06T13:15:44</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2810</ID>
+      <Numero>38</Numero>
+      <Fecha>2012-06-06T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8149-09</Boletin>
+    <Articulo>Indicación renovada de la diputada señora Pascal, para agregar un artículo 4° nuevo, cuyo texto se encuentra a fojas 13 del informe de la Comisión de Agricultura
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>49</TotalAfirmativos>
+    <TotalNegativos>53</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>15382</ID>
+    <Fecha>2012-06-06T13:13:25</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2810</ID>
+      <Numero>38</Numero>
+      <Fecha>2012-06-06T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8149-09</Boletin>
+    <Articulo>Numeral 2) del artículo 2°, con las indicaciones de los diputados y diputadas Hasbún; Pascal, García, Latorre, Sepúlveda, Barros, Pérez, don José; Pérez, don Leopoldo, y Muñoz, la primera, y de las diputadas y diputados Chahín, Calderón, Pérez, don José, Latorre, Cardemil, Sepúlveda, Gutiérrez, don Hugo, Urrutia, Baltolu, Schilling, Muñoz, Barros y Lemus, la segunda
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>107</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>15381</ID>
+    <Fecha>2012-06-06T13:12:30</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2810</ID>
+      <Numero>38</Numero>
+      <Fecha>2012-06-06T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8149-09</Boletin>
+    <Articulo>Numeral 1) del artículo 2° con la indicación de las diputadas y de los diputados señores Chahín; Calderón; Pérez, don José; Latorre; Cardemil, Sepúlveda; Gutiérrez, don Hugo; Urrutia; Baltolu; Schilling; Muñoz; Barros y Lemus
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>105</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>15379</ID>
+    <Fecha>2012-06-06T13:11:04</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2810</ID>
+      <Numero>38</Numero>
+      <Fecha>2012-06-06T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8149-09</Boletin>
+    <Articulo>Indicación de los diputados y diputadas Hasbún; Pascal; García; Latorre; Sepúlveda; Barros; Pérez, don José; Pérez, don Leopoldo; y Muñoz que incorpora un nuevo numeral 1) al artículo 1°, pasando el actual a ser numeral 2
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>104</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>15378</ID>
+    <Fecha>2012-06-06T13:10:07</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2810</ID>
+      <Numero>38</Numero>
+      <Fecha>2012-06-06T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8149-09</Boletin>
+    <Articulo>Texto propuesto por la Comisión de Obras Públicas, Transportes y Telecomunicaciones más las adiciones o enmiendas introducidas por la Comisión de Agricultura, Silvicultura y Desarrollo Rural, que figuran en las páginas 20 y siguientes de su informe, con la salvedad del numeral 7) del artículo 1°, y de los numerales 1) y 2) del artículo 2°, por haber sido objeto de indicaciones
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>106</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>15377</ID>
+    <Fecha>2012-06-06T13:07:58</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2810</ID>
+      <Numero>38</Numero>
+      <Fecha>2012-06-06T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8149-09</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>104</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

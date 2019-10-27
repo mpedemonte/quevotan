@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>28949</ID>
+    <Fecha>2018-04-17T13:18:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3602</ID>
+      <Numero>13</Numero>
+      <Fecha>2018-04-17T10:37:30</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11565-07</Boletin>
+    <Articulo>Numeral 39, referido al artículo 292 del Reglamento que consta en la página 37 del comparado, cuya votación separada ha sido solicitada por el diputado señor Jackson.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>39</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>28948</ID>
+    <Fecha>2018-04-17T13:17:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3602</ID>
+      <Numero>13</Numero>
+      <Fecha>2018-04-17T10:37:30</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11565-07</Boletin>
+    <Articulo>Numeral 29 que pasaría a ser 24, referido al artículo 163 del Reglamento que consta en la página 30 del comparado, cuya votación separada ha sido solicitada por el diputado señor Jackson.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>88</TotalAfirmativos>
+    <TotalNegativos>45</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>28947</ID>
+    <Fecha>2018-04-17T13:15:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3602</ID>
+      <Numero>13</Numero>
+      <Fecha>2018-04-17T10:37:30</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11565-07</Boletin>
+    <Articulo>Numeral 24 que pasaría a ser 19, referido al artículo 145 del Reglamento que consta en las páginas 27 y 28 del comparado, cuya votación separada ha sido solicitada por el diputado señor Jackson.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>52</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>28946</ID>
+    <Fecha>2018-04-17T13:13:56</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3602</ID>
+      <Numero>13</Numero>
+      <Fecha>2018-04-17T10:37:30</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11565-07</Boletin>
+    <Articulo>Letra f) del numeral 16), referido al artículo 85 del Reglamento, que consta en la página 19 del comparado, cuya votación separada ha sido solicitada por el diputado señor Auth.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>27</TotalAfirmativos>
+    <TotalNegativos>111</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>28945</ID>
+    <Fecha>2018-04-17T13:12:17</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3602</ID>
+      <Numero>13</Numero>
+      <Fecha>2018-04-17T10:37:30</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11565-07</Boletin>
+    <Articulo>Letra a) del numeral 16), referido al artículo 85 del Reglamento, que consta en la página 17 del comparado, cuya votación separada ha sido solicitada por el diputado señor Auth.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>7</TotalAfirmativos>
+    <TotalNegativos>130</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>28944</ID>
+    <Fecha>2018-04-17T13:10:26</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3602</ID>
+      <Numero>13</Numero>
+      <Fecha>2018-04-17T10:37:30</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11565-07</Boletin>
+    <Articulo>Literal ii) de la letra b) del numeral 4), referido al artículo 18 del Reglamento, que consta en la página 3 del comparado, cuya votación separada ha sido solicitada por el diputado señor Auth.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>136</TotalAfirmativos>
+    <TotalNegativos>4</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>28943</ID>
+    <Fecha>2018-04-17T13:08:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3602</ID>
+      <Numero>13</Numero>
+      <Fecha>2018-04-17T10:37:30</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11565-07</Boletin>
+    <Articulo>Texto propuesto por la Comisión de Constitución en su nuevo segundo informe, con la salvedad del literal ii) de la letra b) del numeral 4), referido al artículo 18 del Reglamento; del numeral 7), referido al artículo 45 del Reglamento; de las letras a) y f) del numeral 16), referido al artículo 85 del Reglamento; del numeral 24), referido al artículo 145 del Reglamento; del numeral 29), referido al artículo 163 del Reglamento y del numeral 39), referido al artículo 262 del Reglamento, cuyas votaciones separadas han sido solicitadas.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>137</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26967</ID>
+    <Fecha>2018-01-18T12:28:34</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3578</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-01-18T10:36:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11565-07</Boletin>
+    <Articulo />
+    <Tramite Codigo="6">ÚNICO</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>66</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

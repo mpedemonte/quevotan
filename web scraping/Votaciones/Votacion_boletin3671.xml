@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>4686</ID>
+    <Fecha>2005-08-30T13:14:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>646</ID>
+      <Numero>34</Numero>
+      <Fecha>2005-08-30T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3671-03</Boletin>
+    <Articulo>180 a 185 del Título XII, contenidos en el número 12 del artículo único.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>77</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4685</ID>
+    <Fecha>2005-08-30T13:13:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>646</ID>
+      <Numero>34</Numero>
+      <Fecha>2005-08-30T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3671-03</Boletin>
+    <Articulo>177 ter y 214, con indicaciones de los señores Ortiz, Saffirio, Tuma y Uriarte, para reemplazar en el inciso octavo, letra c), del artículo 177 ter, la palabra "final" por el vocablo "penúltimo"; para agregar, en el inciso penúltimo del artículo 177 ter, después del guarismo 175, la expresión "inciso primero" antes de la coma, y para eliminar en el artículo 214, a continuación del punto seguido, la frase "Si dicha nulidad es pronunciada por un tribunal arbitral, éste remitirá los autos al juez de letras competente para declarar la quiebra."</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>81</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4684</ID>
+    <Fecha>2005-08-30T13:11:46</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>646</ID>
+      <Numero>34</Numero>
+      <Fecha>2005-08-30T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3671-03</Boletin>
+    <Articulo>180 a 185 del Título XII, contenidos en el número 12 del artículo único.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>78</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4683</ID>
+    <Fecha>2005-08-30T13:10:51</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>646</ID>
+      <Numero>34</Numero>
+      <Fecha>2005-08-30T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3671-03</Boletin>
+    <Articulo>con excepción de los artículos 180 a 185 del Título XII, contenidos en el número 12 del artículo único, por ser materias orgánicas constitucionales.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>31389</ID>
+    <Fecha>2019-08-14T15:39:21</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 9 del artículo 3 con la indicación renovada para incorporar en el artículo 184 bis del Decreto con Fuerza de ley Nº 458 de 1976, Ley General de Urbanismo y Construcciones un nuevo inciso quinto: 
+“Las viviendas referidas en el inciso 3° de este artículo serán inembargables.”.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>66</TotalAfirmativos>
+    <TotalNegativos>54</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31388</ID>
+    <Fecha>2019-08-14T15:38:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 8 del artículo 3 en los términos propuestos por la Comisión de Vivienda.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>90</TotalAfirmativos>
+    <TotalNegativos>32</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31387</ID>
+    <Fecha>2019-08-14T15:37:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 8 del artículo 3 con la indicación renovada para agregar un nuevo inciso segundo del artículo 184, pasando el segundo inciso a ser tercero: “Para los efectos de lo dispuesto en el inciso precedente, no se considerarán  los inmuebles y/o Zonas Típicas, Zonas de Conservación Histórica, ni los Monumentos Nacionales, así como tampoco otras zonas que los instrumentos de planificación territorial protejan por razones patrimoniales”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>57</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31386</ID>
+    <Fecha>2019-08-14T15:35:49</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 7 del artículo 3 en los términos propuestos por la Comisión de Vivienda.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>77</TotalAfirmativos>
+    <TotalNegativos>48</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31385</ID>
+    <Fecha>2019-08-14T15:35:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 7 del artículo 3 con la indicación renovada, para reemplazar el inciso segundo del artículo 183 bis propuesto, por el siguiente:
+“Con todo, el plan regulador intercomunal o comunal podrá establecer nuevas zonas de integración social que anulen las zonas de integración social definidas en conformidad a lo establecido en los artículos 83 y siguientes de la presente ley.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>54</TotalAfirmativos>
+    <TotalNegativos>70</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31384</ID>
+    <Fecha>2019-08-14T15:33:42</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 4 del artículo 3 en los términos propuestos por la Comisión de Vivienda.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>34</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31383</ID>
+    <Fecha>2019-08-14T15:32:41</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 4 del artículo 3 con la indicación renovada para: 
+1. Agregar un nuevo inciso segundo del artículo 83 que incorpora el proyecto de ley en el Decreto con Fuerza de Ley N° 458 de 1976, Ley General de Urbanismo y Construcciones, en el siguiente sentido: “Para los efectos de lo dispuesto en el inciso precedente, se considerarán los beneficios o incentivos urbanísticos de densidad, altura, y coeficiente de constructibilidad.”. 
+2. Agregar un nuevo inciso tercero del artículo 83° que incorpora el proyecto de ley en el Decreto con Fuerza de Ley N° 458 de 1976, Ley General de Urbanismo y Construcciones, en el siguiente sentido: “La aplicación de dichos beneficios no podrá superar el 30% de la capacidad máxima de edificación del predio establecida en el instrumento de planificación respectivo”. 
+3. Agrégar un nuevo inciso cuarto al artículo 83° que incorpora el proyecto de ley en el Decreto con Fuerza de Ley N° 458, de 1976, Ley General de Urbanismo y Construcciones, en el siguiente sentido: “Los beneficios e incentivos urbanísticos de normas urbanísticas señaladas en los incisos precedentes, no podrán incluir Inmuebles y/o Zonas Típicas, Zonas de Conservación Histórica, ni los Monumentos Nacionales, así como tampoco otras zonas que los instrumentos de planificación territorial protejan por razones patrimoniales.”.  
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>55</TotalAfirmativos>
+    <TotalNegativos>70</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31382</ID>
+    <Fecha>2019-08-14T15:30:11</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 4 del artículo 2, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>5</TotalAfirmativos>
+    <TotalNegativos>73</TotalNegativos>
+    <TotalAbstenciones>50</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31381</ID>
+    <Fecha>2019-08-14T15:28:33</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 3 del artículo 2 en los términos propuestos por la Comisión de Vivienda.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>14</TotalAfirmativos>
+    <TotalNegativos>65</TotalNegativos>
+    <TotalAbstenciones>49</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31380</ID>
+    <Fecha>2019-08-14T15:27:52</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 3 del artículo 2 con la indicación del diputado señor Teillier para sustituir el inciso cuarto del artículo 28 del decreto ley N° 1.305, del Ministerio de la Vivienda y Urbanismo, por el siguiente:
+“La referida concesión corresponde a un derecho real inmueble, mediante el cual el adjudicatario se obliga a construir, operar y mantener viviendas y eventualmente otras edificaciones, debiendo contemplar un porcentaje, de no menos al setenta por ciento de viviendas destinadas a beneficiarios del Programa de Subsidios de Arriendo reglamentado por el Ministerio de Ciudad y vivienda, o por el programa que lo modifique o reemplace, quienes deberán ser preferentemente de la comuna donde se emplaza el proyecto y de las comunas contiguas a ella según el sistema de calificación socioeconómica vigente.”
+
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>56</TotalAfirmativos>
+    <TotalNegativos>71</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31379</ID>
+    <Fecha>2019-08-14T15:26:02</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 4 del artículo 1, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>29</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31378</ID>
+    <Fecha>2019-08-14T15:25:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 3 con la indicación para incorporar al final del nuevo numeral 15), contenido en el numeral 3 del artículo 1 la frase “todo lo anterior incorporando, también, una perspectiva de género.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>36</TotalNegativos>
+    <TotalAbstenciones>20</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31377</ID>
+    <Fecha>2019-08-14T15:22:17</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 2 del artículo 1, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>35</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31376</ID>
+    <Fecha>2019-08-14T15:20:59</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo>Numeral 1 del artículo 1, cuya votación separada ha sido solicitada</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>22</TotalNegativos>
+    <TotalAbstenciones>12</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31375</ID>
+    <Fecha>2019-08-14T15:19:09</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3808</ID>
+      <Numero>63</Numero>
+      <Fecha>2019-08-14T10:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12288-14</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>55</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+</Votaciones>

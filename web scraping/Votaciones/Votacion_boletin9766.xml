@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>22770</ID>
+    <Fecha>2015-12-22T18:53:25</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3298</ID>
+      <Numero>110</Numero>
+      <Fecha>2015-12-22T17:07:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21791</ID>
+    <Fecha>2015-11-05T13:10:26</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3278</ID>
+      <Numero>90</Numero>
+      <Fecha>2015-11-05T10:33:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Enmiendas introducidas por el Senado en los incisos tercero que pasó a ser cuarto y cuarto que pasó a ser quinto y sexto del artículo cuarto transitorio que pasó a ser tercero transitorio</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>64</TotalAfirmativos>
+    <TotalNegativos>31</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21790</ID>
+    <Fecha>2015-11-05T13:09:40</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3278</ID>
+      <Numero>90</Numero>
+      <Fecha>2015-11-05T10:33:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Supresión propuesta por el Senado del artículo sexto transitorio, cuya votación separada ha sido solicitada por la diputada señora Provoste y el diputado señor Jackson</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>34</TotalAfirmativos>
+    <TotalNegativos>59</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21789</ID>
+    <Fecha>2015-11-05T13:09:11</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3278</ID>
+      <Numero>90</Numero>
+      <Fecha>2015-11-05T10:33:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Supresión propuesta por el Senado del artículo primero transitorio y las modificaciones introducidas por el Senado en el artículo segundo transitorio, que pasó a ser primero transitorio, cuya votación separada ha sido solicitada por el diputado señor Jackson</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>0</TotalAfirmativos>
+    <TotalNegativos>97</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21788</ID>
+    <Fecha>2015-11-05T13:08:35</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3278</ID>
+      <Numero>90</Numero>
+      <Fecha>2015-11-05T10:33:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Enmiendas introducidas por el Senado en el artículo 3° del proyecto, cuya votación separada ha sido solicitada por la diputada señora Provoste y el diputado señor Jackson </Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>9</TotalAfirmativos>
+    <TotalNegativos>87</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21787</ID>
+    <Fecha>2015-11-05T13:07:55</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3278</ID>
+      <Numero>90</Numero>
+      <Fecha>2015-11-05T10:33:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Modificaciones introducidas por el Senado, en los artículos 1°, 2°, 4°, 5°, 6° nuevo, 6° que pasó a ser 7°, 7° que pasó a ser 8°, 8° que pasó a ser 9°, 9° que pasó a ser 10, 10 que pasó a ser 11, 11 que pasó a ser 12, 12 que pasó a ser 13, 13 que pasó a ser 14, 14 que pasó a ser 15 y 15 que pasó a ser 16 permanentes, y los artículos tercero transitorio que pasó a ser segundo transitorio, y cuarto transitorio que pasó a ser tercero transitorio, con la salvedad de sus incisos tercero que pasó a ser cuarto y cuarto que pasó a ser quinto y sexto, por tratar materias propias de ley orgánica constitucional</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>2</TotalAfirmativos>
+    <TotalNegativos>96</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20986</ID>
+    <Fecha>2015-05-06T14:46:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Indicación de las diputadas señoras Provoste y Girardi y del diputado señor Morano, del siguiente tenor: para agregar un nuevo artículo sexto transitorio: “Artículo sexto: para armonizar la coexistencia de los nuevos Centros de Formación Técnica estatales con los Centros de Formación Técnica existentes que pertenecen a universidades estatales, estos últimos se deben transformar en personas jurídicas sin fines de lucro, en un plazo de 2 años desde la entrada en vigencia de esta ley.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>50</TotalAfirmativos>
+    <TotalNegativos>43</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20985</ID>
+    <Fecha>2015-05-06T14:45:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Artículo cuarto transitorio en los términos propuestos por la Comisión de Educación
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>5</TotalNegativos>
+    <TotalAbstenciones>35</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20984</ID>
+    <Fecha>2015-05-06T14:44:55</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Artículo cuarto transitorio, con la modificación propuesta por la Comisión de Hacienda
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>34</TotalAfirmativos>
+    <TotalNegativos>24</TotalNegativos>
+    <TotalAbstenciones>40</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20983</ID>
+    <Fecha>2015-05-06T14:44:21</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Artículo segundo transitorio en los términos propuestos por la Comisión de Educación
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>95</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20982</ID>
+    <Fecha>2015-05-06T14:43:33</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Artículo segundo transitorio, con la modificación propuesta por la Comisión de Hacienda
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>31</TotalAfirmativos>
+    <TotalNegativos>66</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20981</ID>
+    <Fecha>2015-05-06T14:43:04</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Artículo primero transitorio con la modificación propuesta por la Comisión de Hacienda
+
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>69</TotalAfirmativos>
+    <TotalNegativos>28</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20980</ID>
+    <Fecha>2015-05-06T14:42:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Artículo 15, con la modificación propuesta por la Comisión de Hacienda
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>76</TotalAfirmativos>
+    <TotalNegativos>21</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20979</ID>
+    <Fecha>2015-05-06T14:41:56</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Artículo 12, con la modificación propuesta por la Comisión de Hacienda
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>63</TotalAfirmativos>
+    <TotalNegativos>35</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20978</ID>
+    <Fecha>2015-05-06T14:41:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Articulado, con la salvedad de los artículos 12, 15, primero transitorio, segundo transitorio y cuarto transitorio, que fueron objeto de indicaciones de la Comisión de Hacienda y de la indicación parlamentaria de las diputadas señoras Provoste y Girardi y del diputado señor Morano, del siguiente tenor: para agregar un nuevo artículo sexto transitorio: “Artículo sexto: para armonizar la coexistencia de los nuevos Centros de Formación Técnica estatales con los Centros de Formación Técnica existentes que pertenecen a universidades estatales, estos últimos se deben transformar en personas jurídicas sin fines de lucro, en un plazo de 2 años desde la entrada en vigencia de esta ley.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>100</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20977</ID>
+    <Fecha>2015-05-06T14:38:15</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo>Declaración de inadmisibilidad de la indicación de las diputadas señoras Provoste y Girardi y del diputado señor Morano, del siguiente tenor: para agregar un nuevo artículo sexto transitorio: “Artículo sexto: para armonizar la coexistencia de los nuevos Centros de Formación Técnica estatales con los Centros de Formación Técnica existentes que pertenecen a universidades estatales, estos últimos se deben transformar en personas jurídicas sin fines de lucro, en un plazo de 2 años desde la entrada en vigencia de esta ley.”
+</Articulo>
+    <Tramite Codigo="6">ÚNICO</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>45</TotalAfirmativos>
+    <TotalNegativos>50</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20976</ID>
+    <Fecha>2015-05-06T14:31:37</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3206</ID>
+      <Numero>20</Numero>
+      <Fecha>2015-05-06T10:41:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9766-04</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

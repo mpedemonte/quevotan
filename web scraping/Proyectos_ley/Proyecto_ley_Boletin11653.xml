@@ -1,0 +1,49 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>11653-11</boletin>
+                    <titulo>Interpreta el Código Sanitario en materia de objeción de conciencia planteada por establecimientos de salud, ante el requerimiento de interrupción voluntaria del embarazo</titulo>
+                    <fecha_ingreso>03/04/2018</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Primer trámite constitucional (C.Diputados)</etapa>
+                    <subetapa>Discusión general </subetapa>
+                    <leynro></leynro>
+                    <diariooficial></diariooficial>
+                    <estado>En tramitación </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=12173&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores><autor><PARLAMENTARIO>Auth Stewart, Pepe</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Castillo Muñoz, Natalia</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Castro González, Juan Luis</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Celis Araya, Ricardo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Crispi Serrano, Miguel</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Díaz Díaz, Marcelo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Hernando Pérez, Marcela</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Mellado Pino, Cosme</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Mix Jiménez, Claudia</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Rosas Barrientos, Patricio</PARLAMENTARIO></autor>
+</autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>03/04/2018</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>8/366</SESION><FECHA>04/04/2018</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Salud</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>19/06/2018</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Salud.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>42/366</SESION><FECHA>04/07/2018</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>44/366</SESION><FECHA>05/07/2018</FECHA><DESCRIPCIONTRAMITE>Discusión general . Queda pendiente  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>10/07/2018</FECHA><DESCRIPCIONTRAMITE>Oficio N°14062. Se remite por acuerdo de los Comités el proyecto a la Comisión de Salud con indicaciones para nuevo primer informe (no fue votado en general en la Sala). </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias></urgencias>
+<informes><informe><FECHAINFORME>19/06/2018</FECHAINFORME><TRAMITE>Primer informe de comisión de Salud </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=20434&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios><oficio><NUMERO>14062</NUMERO><FECHA>10/07/2018</FECHA><TRAMITE>Discusión general</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Otros oficios</TIPO><CAMARA>C. Diputados</CAMARA><DESCRIPCION>Se remite por acuerdo de los Comités el proyecto a la Comisión de Salud con indicaciones para nuevo primer informe (no fue votado en general en la Sala). </DESCRIPCION><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=23594&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+</oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>ABORTO</DESCRIPCION></materia>
+<materia><DESCRIPCION>CÓDIGO SANITARIO</DESCRIPCION></materia>
+<materia><DESCRIPCION>INTERRUPCIÓN DEL EMBARAZO</DESCRIPCION></materia>
+<materia><DESCRIPCION>OBJECIÓN DE CONCIENCIA</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>

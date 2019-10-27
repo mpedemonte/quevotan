@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>26852</ID>
+    <Fecha>2018-01-02T19:25:15</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3570</ID>
+      <Numero>107</Numero>
+      <Fecha>2018-01-02T17:04:49</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10163-14</Boletin>
+    <Articulo>artículo 28 sexies contenido en el nuevo numeral 3) incorporado por el Senado; el nuevo literal c) incorporado por el Senado en el artículo 28 bis E que pasaría a ser 28 undecies contenido en el numeral 3) que pasaría a ser numeral 4); el nuevo número 8) incorporado por el Senado; el nuevo ordinal ii de la letra b) contenida en el número 8) que pasaría a ser número 10) y la letra b) del número 9) que pasaría a ser número 11), todos del artículo primero del proyecto.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26851</ID>
+    <Fecha>2018-01-02T19:23:57</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3570</ID>
+      <Numero>107</Numero>
+      <Fecha>2018-01-02T17:04:49</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10163-14</Boletin>
+    <Articulo>modificaciones introducidas por el Senado, con la salvedad de las normas que requieren quorum especial para su aprobación.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>93</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24508</ID>
+    <Fecha>2016-10-25T13:05:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3409</ID>
+      <Numero>86</Numero>
+      <Fecha>2016-10-25T10:45:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10163-14</Boletin>
+    <Articulo>transitorio en los términos propuestos  por la Comisión de Hacienda.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>60</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>43</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24507</ID>
+    <Fecha>2016-10-25T13:05:16</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3409</ID>
+      <Numero>86</Numero>
+      <Fecha>2016-10-25T10:45:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10163-14</Boletin>
+    <Articulo>cuarto con las modificaciones propuestas por la Comisión de Hacienda.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>61</TotalAfirmativos>
+    <TotalNegativos>38</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24506</ID>
+    <Fecha>2016-10-25T13:04:41</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3409</ID>
+      <Numero>86</Numero>
+      <Fecha>2016-10-25T10:45:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10163-14</Boletin>
+    <Articulo>tercero con las modificaciones propuestas por la Comisión de Hacienda.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>10</TotalNegativos>
+    <TotalAbstenciones>30</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24505</ID>
+    <Fecha>2016-10-25T13:03:41</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3409</ID>
+      <Numero>86</Numero>
+      <Fecha>2016-10-25T10:45:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10163-14</Boletin>
+    <Articulo>inciso tercero del artículo 28 bis A, el artículo 28 bis B, el artículo 28 bis C y la letra b del artículo 28 bis E, todos contenidos en el numeral 3) del artículo primero; el inciso primero del artículo 36 contenido en el numeral 5) del artículo primero; el inciso primero del artículo 37 contenido en el numeral 6) del artículo primero; el inciso primero de la letra a) y las letras b), c) y g) del numeral 8) del artículo primero y la letra b) del numeral 9) del artículo primero</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24504</ID>
+    <Fecha>2016-10-25T13:02:14</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3409</ID>
+      <Numero>86</Numero>
+      <Fecha>2016-10-25T10:45:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10163-14</Boletin>
+    <Articulo>con excepción de las normas que requieren quorum especial para su aprobación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+</Votaciones>

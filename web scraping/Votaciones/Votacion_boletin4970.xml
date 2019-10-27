@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>9804</ID>
+    <Fecha>2009-04-01T15:04:54</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2183</ID>
+      <Numero>7</Numero>
+      <Fecha>2009-04-01T10:42:40</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>70</TotalAfirmativos>
+    <TotalNegativos>26</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>9768</ID>
+    <Fecha>2009-03-19T13:15:58</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2181</ID>
+      <Numero>5</Numero>
+      <Fecha>2009-03-19T10:37:50</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Art. 46 letra "G"
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>35</TotalAfirmativos>
+    <TotalNegativos>44</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>9767</ID>
+    <Fecha>2009-03-19T13:15:12</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2181</ID>
+      <Numero>5</Numero>
+      <Fecha>2009-03-19T10:37:50</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Modificaciones con excepción del art46 letra "G"</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>70</TotalAfirmativos>
+    <TotalNegativos>12</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>9746</ID>
+    <Fecha>2009-03-18T10:41:11</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2179</ID>
+      <Numero>4</Numero>
+      <Fecha>2009-03-18T10:32:24</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Envío de Proyecto a Comisión de Educación por un día.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>49</TotalAfirmativos>
+    <TotalNegativos>41</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8393</ID>
+    <Fecha>2008-06-30T15:04:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicaciones N°56 y 56-A, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso segundo de la letra g) del artículo 46, una para eliminar la frase “o esté en posesión de un título profesional o licenciatura de al menos 8 semestres en un área afín a la especialidad que imparta”, y la otra para intercalar, entre las expresiones “vigentes, o esté” y “en posesión de un título”, la palabra “habilitado”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>20</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8387</ID>
+    <Fecha>2008-06-19T15:26:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>5° transitorio, en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>80</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8386</ID>
+    <Fecha>2008-06-19T15:26:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°67, de los diputados Robles, Espinosa, don Marcos y Sule, al artículo 5° transitorio, para sustituir la expresión “cuatro años” por “un año”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>16</TotalAfirmativos>
+    <TotalNegativos>55</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8385</ID>
+    <Fecha>2008-06-19T15:25:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>1° transitorio, con indicación N°65, de la Comisión de Hacienda, para:
+a) incorporar, a continuación de la expresión “deberán”, la frase “acreditar ante el Ministerio de Educación, el inicio de trámites para”.
+b) sustituir la expresión “cuatro años” por “un año”.
+c) agregar a continuación de la palabra “referida” la frase, debiendo concluir este proceso de adecuación en el plazo máximo de dos años desde la publicación de esta ley”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>93</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8384</ID>
+    <Fecha>2008-06-19T15:24:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>71 en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>77</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8383</ID>
+    <Fecha>2008-06-19T15:24:05</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°64, de los diputados Robles, Espinosa, don Marcos y Sule, para eliminar en el artículo 71 lo siguiente: “con las normas no derogadas del decreto con fuerza de ley Nº 1, de 2005, a que se refiere el artículo anterior”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>14</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8382</ID>
+    <Fecha>2008-06-19T15:23:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>70, en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>71</TotalAfirmativos>
+    <TotalNegativos>5</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8381</ID>
+    <Fecha>2008-06-19T15:23:03</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°63, de los diputados Robles, Espinosa, don Marcos y Sule, al artículo 70, para eliminar la frase “con excepción de los dispuesto en el título III, salvo su párrafo 2º, y en el título IV”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>12</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8380</ID>
+    <Fecha>2008-06-19T15:22:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>61, en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>74</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8379</ID>
+    <Fecha>2008-06-19T15:21:59</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°62, de los diputados Robles, Espinosa, don Marcos y Sule, para agregar en el encabezado del inciso segundo del artículo 61, antes de las plabras “en los siguientes casos”, la expresión “a lo menos”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>15</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8378</ID>
+    <Fecha>2008-06-19T15:21:21</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>56 en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>78</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8377</ID>
+    <Fecha>2008-06-19T15:20:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°61, de los diputados Robles, Espinosa, don Marcos y Sule, que agrega la siguiente letra j) en el artículo 56:
+“j) Un representante estudiantil perteneciente a una institución de educación superior autónoma y acreditada.  Dicho estudiante deberá tener aprobados al menos tres años o seis semestres, en su caso, de la carrera en que esté inscrito y encontrarse dentro del 5% de los alumnos de mejor rendimiento de su generación.  El representante de los estudiantes será elegido por los Presidente de las Federaciones de Estudiantes formalmente constituidas en reunión convocada por el Jefe de la División de Educación Superior del Ministerio de Educación.”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>16</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8376</ID>
+    <Fecha>2008-06-19T15:20:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°60, de los diputados Robles, Espinosa, don Marcos y Sule, a la letra d) del artículo 56, para reemplazar las palabras “Dos acedémicos” por “Un académico”, y para agregar después de “Consejo de Rectores”, la palabra “otro”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>12</TotalAfirmativos>
+    <TotalNegativos>59</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8374</ID>
+    <Fecha>2008-06-19T15:19:45</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°59, de los diputados Robles, Espinosa, don Marcos y Sule, a la letra b) del artículo 56, para reemplazar la palabra “municipal” por el vocablo “público”, y para eliminar la expresión “en el caso de al menos uno de ellos”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>16</TotalAfirmativos>
+    <TotalNegativos>55</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8373</ID>
+    <Fecha>2008-06-19T15:19:12</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>55 en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>80</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8371</ID>
+    <Fecha>2008-06-19T15:18:40</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°58, de los diputados Robles, Espinosa, don Marcos y Sule, que reemplaza el guarismo “10” por “11” en el artículo 55.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>19</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8369</ID>
+    <Fecha>2008-06-19T15:17:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Resto del artículo 46.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>79</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8368</ID>
+    <Fecha>2008-06-19T15:17:24</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°57, de los Diputados Araya, Díaz don Eduardo, Escobar y Valenzuela que reemplaza la tabla que figura en la letra h) del artículo 46.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>9</TotalAfirmativos>
+    <TotalNegativos>68</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8367</ID>
+    <Fecha>2008-06-19T15:16:05</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°55, de los diputados Robles, Espinosa, don Marcos y Sule, a la letra e) del artículo 46, para eliminar las palabras “comprometerse a”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>12</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8366</ID>
+    <Fecha>2008-06-19T15:14:56</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°51, de S.E. la Presidenta de la República, recaída en el artículo 46, para agregar, en el inciso segundo de la letra a), a continuación del punto aparte, que pasa a ser punto seguido, la siguiente oración:
+“Es deber del Estado que los establecimientos educacionales pertenecientes o dirigidos por sus órganos, se organicen y funcionen conforme al carácter público de tales instituciones y tengan la obligación de proveer una educación pública de calidad, pluralista y que promueva la integración social, dando, además, cumplimiento a los otros principios contemplados en la Constitución, los tratados internacionales ratificados por Chile y las leyes.”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>9</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8365</ID>
+    <Fecha>2008-06-19T15:13:11</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>38 en los términos propuestos por la Comisión de Educación.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8364</ID>
+    <Fecha>2008-06-19T15:12:42</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°50, de los diputados Robles, Espinosa, don Marcos y Sule, para eliminar en el inciso primero del artículo 38 la frase “En ningún caso el incumplimiento de estos estándares indicativos de desempeño ni de las recomendaciones que se desprendan de estas evaluaciones dará origen a sanciones”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>11</TotalAfirmativos>
+    <TotalNegativos>66</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8363</ID>
+    <Fecha>2008-06-19T15:12:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>31 en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>80</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8362</ID>
+    <Fecha>2008-06-19T15:11:44</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°49, de los diputados Robles, Espinosa, don Marcos y Sule, para agregar en el inciso quinto del artículo 31, antes del punto final, la expresión “previa aprobación del Ministerio de Educación”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>14</TotalAfirmativos>
+    <TotalNegativos>65</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8361</ID>
+    <Fecha>2008-06-19T15:11:04</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>25 en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8360</ID>
+    <Fecha>2008-06-19T15:10:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°48, de los diputados Accorsi, Ascencio, Ceroni, Araya, Quintana, Lorenzini, Montes y Pérez, para incorporar en el artículo 25 el siguiente inciso segundo, nuevo:
+“Cualquiera sea el nivel, el máximo de alumnos por cada curso será treinta y cinco”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>41</TotalAfirmativos>
+    <TotalNegativos>52</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8359</ID>
+    <Fecha>2008-06-19T15:07:58</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>23 en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8358</ID>
+    <Fecha>2008-06-19T15:07:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°47, de los diputados Robles, Espinosa, don Marcos y Sule, para reemplazar, en el inciso tercero del artículo 23, la frase “aquellas que deseen desarrollar proyectos de integración”, por “como aquellas que desarrollen proyectos de integración”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>20</TotalAfirmativos>
+    <TotalNegativos>64</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8357</ID>
+    <Fecha>2008-06-19T15:06:46</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>22 en la forma aprobada por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8356</ID>
+    <Fecha>2008-06-19T15:06:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°46, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, para reemplazar en el inciso primero del artículo 22 la palabra “procuran” por el vocablo “deberán”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>9</TotalAfirmativos>
+    <TotalNegativos>68</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8355</ID>
+    <Fecha>2008-06-19T15:05:34</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>15, en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8354</ID>
+    <Fecha>2008-06-19T15:05:06</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°45, de los diputados Robles, Espinosa, don Marcos y Sule, para reemplazar el artículo 15 por el siguiente:
+“En cada establecimiento de educación general que imparte enseñanza básica y/o media, existirán un Centro de Alumnos, un Centro de Padres y Apoderados, un Consejo de Profesores y un Consejo Escolar.”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>17</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8353</ID>
+    <Fecha>2008-06-19T15:04:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°44, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, para reemplazar el artículo 15 por el siguiente:
+“El establecimiento educacional deberá garantizar la participación de todos los miembros de la comunidad, en especial a través de la formación de centros de alumnos y consejos escolares, así como toda organización que contribuya al proceso de enseñanza en el establecimiento educacional.”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>19</TotalAfirmativos>
+    <TotalNegativos>64</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8352</ID>
+    <Fecha>2008-06-19T15:03:56</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>14, en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8351</ID>
+    <Fecha>2008-06-19T15:03:29</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°43, de los diputados Robles, Espinosa, don Marcos y Sule, para eliminar en el artículo 14 las palabras “cuando lo soliciten”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>20</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8350</ID>
+    <Fecha>2008-06-19T15:02:46</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>12 en la forma contenida en el informe de la Comisión de Hacienda.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8349</ID>
+    <Fecha>2008-06-19T15:02:16</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°42, de los diputados Robles, Espinosa, don Marcos y Sule, para agregar en el artículo 12 los siguientes incisos segundo tercero y cuarto, nuevos:
+“En el evento que haya una cantidad de postulantes superior a los cupos disponibles, conforme a la capacidad autorizada del establecimiento educacional, la incorporación de los alumnos se ceñirá estrictamente a un proceso de selección público y transparente, en el marco del proyecto educativo institucional, el que en ningún caso podrá considerar la situación económica o social del postulante, su rendimiento escolar pasado o potencial, el estado civil, escolaridad o religión de los padres, origen étnico del postulante, ni otro criterio que permita la discriminación arbitraria de éste.  En ese caso, las vacantes sólo podrán asignarse por prioridad familiar o, en última instancia, por sorteo, sin perjuicio de las discriminaciones positivas establecidas por la ley.
+Para los efectos de lo dispuesto en el inciso anterior, sen entenderá por prioridad familiar que el alumno postulante tenga hermanos matriculados o sea hijo de un docente o asistente de la educación del establecimiento educacional.
+Asimismo, al concretarse la postulación del alumno al establecimiento existirá una aceptación de los padres y apoderados del proyecto educativo y del reglamento del establecimiento.”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>17</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8348</ID>
+    <Fecha>2008-06-19T15:01:38</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°41, de los diputados Robles y Espinosa, don Marcos, que reemplaza en el artículo 12 la frase “entre el primer nivel de transición y sexto año de la educación general básica”, por la siguiente “desde el primer nivel de transición”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>13</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8347</ID>
+    <Fecha>2008-06-19T15:01:07</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°40, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, para agregar en el artículo 12, a continuación del término “postulante” la siguiente expresión: “o ningún tipo de discriminación arbitraria”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>4</TotalAfirmativos>
+    <TotalNegativos>73</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8346</ID>
+    <Fecha>2008-06-19T15:00:30</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>11 en los términos propuestos en el informe de la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8345</ID>
+    <Fecha>2008-06-19T15:00:02</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°39, de los diputados Robles, Espinosa, don Marcos y Sule, al artículo 11, para reemplazar en su inciso cuarto la expresión “En todos los establecimientos subvencionados” por “En todo caso”, y para eliminar en el inciso quinto la expresión “en los establecimientos subvencionados”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>18</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8344</ID>
+    <Fecha>2008-06-19T14:59:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°38, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, al inciso primero del artículo 11, para reemplazarlo por el siguiente:
+“El embarazo, la paternidad y la maternidad no constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos últimos otorgar las facilidades del caso.”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>7</TotalAfirmativos>
+    <TotalNegativos>78</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8343</ID>
+    <Fecha>2008-06-19T14:58:52</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>10, en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8342</ID>
+    <Fecha>2008-06-19T14:58:13</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°37, de los diputados Pacheco, señora Clemira, Allende, señora Isabel, González, Montes, Robles, González, De Urresti y Tuma que incorpora la siguiente letra g), nueva, en el artículo 10:
+“G) Los funcionarios de los Departamentos de educación Municipal, de las Corporaciones Municipales de Educación y cualquier otro organismo destinado a la administración de los establecimientos educacionales del sector públicos tendrán derecho a desempeñase en un ambiente respetuoso y digno, a la estabilidad en su empleo, a la capacitación y perfeccionamiento profesional y, en general, a proponer las iniciativas que estimaren útiles para el mejoramiento de la calidad y equidad de los servicios prestados por los establecimientos dependientes de la entidad a que pertenecen.
+Por su parte, son deberes de estos funcionarios desempeñarse en forma idónea y responsable; respetar las leyes y las normas de la entidad en que se desempeñen y brindar un trato respetuoso a todos los miembros de las comunidades educativas con que se vinculan.”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>32</TotalAfirmativos>
+    <TotalNegativos>59</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8341</ID>
+    <Fecha>2008-06-19T14:57:32</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°36, de los diputados Saffirio, Espinoza don Fidel, León, Montes, señora Pascal, señora Saa, Sule, Robles y Monsalve, al inciso segundo de la letra f) del artículo 10, para agregar, a continuación de la expresión “resultados académicos de sus alumnos”, la siguiente frase “y, cuando reciban subvención o aportes del Estado, rendir cuenta pública anual de todos los recursos que gestionen ante la Superintendencia de Educación.”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>35</TotalAfirmativos>
+    <TotalNegativos>54</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8340</ID>
+    <Fecha>2008-06-19T14:56:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°35, de los diputados Robles, Espinosa, don Marcos y Sule, a la letra f) del artículo 10, para:
+- reemplazar la expresión “que dieron origen al” por la preposición “de”.
+- agregar la frase “anual, con un balance contable completo” entre las expresiones “rendir cuenta” y “del estado financiero”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>23</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8339</ID>
+    <Fecha>2008-06-19T14:56:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°34, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso primero de la letra d) del artículo 10, para agregar después del punto aparte, que pasa a ser punto seguido, lo siguiente: “De igual modo, tienen derecho a asociarse entre ellos”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>22</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8338</ID>
+    <Fecha>2008-06-19T14:55:55</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°33, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso primero de la letra C) artículo 10, para agregar después del punto aparte, que pasa a ser punto seguido, lo siguiente: “De igual modo tienen derecho a asociarse entre ellos, como a recibir capacitación para el logro de los objetivos de calidad de enseñanza”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>18</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8337</ID>
+    <Fecha>2008-06-19T14:55:21</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°32, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso segundo de la letra a) del artículo 10, para agregar la expresión “cuidar la infraestructura educacional” entre las frases “convivencia escolar” y “y respetar el proyecto educativo”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>19</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8336</ID>
+    <Fecha>2008-06-19T14:54:44</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°31, de los diputados Díaz, don Marcelo, Allende, señora Isabel, Pascal, señora Denise, Pacheco, señora Clemira, Farías, Leal, Lorenzini, Montes y De Urresti, que suprime en el segundo inciso de la letra a) la frase “conforme al reglamento interno del establecimiento”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>39</TotalAfirmativos>
+    <TotalNegativos>59</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8335</ID>
+    <Fecha>2008-06-19T14:53:47</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°30, de los diputados Robles, Espinosa, don Marcos y Sule, para agregar en el inciso primero del artículo 10, la siguiente oración:
+“De igual modo, tienen derecho a ser informados de las pautas evaluativas; a ser evaluados y promovidos de acuerdo a un sistema objetivo y transparente; a participar en la vida cultural y recreativa del establecimiento y asociarse entre ellos.  Tienen derecho a que la infraestructura en donde se eduque, cuente con los requerimientos mínimos de espacio y condiciones sanitarias, para desarrollar sus actividades habituales, sin perjuicio que actividades ocasionales o especiales se puedan realizar en otros establecimientos ad-hoc, por ejemplo: campos deportivos, laboratorios, etc.”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>21</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8334</ID>
+    <Fecha>2008-06-19T14:52:58</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>9° en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>86</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8333</ID>
+    <Fecha>2008-06-19T14:52:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°29, de los diputados Saffirio, Espinoza don Fidel, León, Montes, señora Pascal, señora Saa, Sule, Robles y Monsalve, que agrega el siguiente nuevo inciso en el artículo 9°:
+“En los establecimientos educacionales subvencionados o que reciban aportes del Estado, el proyecto educativo deberá asegurar la participación de los miembros de la comunidad educativa en la elaboración y actualización del mismo.”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>38</TotalAfirmativos>
+    <TotalNegativos>54</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8332</ID>
+    <Fecha>2008-06-19T14:51:47</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°28, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, para agregar en el artículo 9º, a continuación de la expresión “profesionales de la educación,” la siguiente frase: “técnicos, asistentes, auxiliares  de la educación, psicopedagogos, y demás personas e instituciones vinculadas al desarrollo de la comunidad y sostenedores educacionales”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>11</TotalAfirmativos>
+    <TotalNegativos>66</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8331</ID>
+    <Fecha>2008-06-19T14:51:07</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>8° en los términos aprobados por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8330</ID>
+    <Fecha>2008-06-19T14:50:33</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°27, de los diputados Robles, Espinosa, don Marcos y Sule, y de los señores Araya, Díaz, don Eduardo, Escobar y Valenzuela para eliminar el inciso tercero del artículo 8°.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>6</TotalAfirmativos>
+    <TotalNegativos>76</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8329</ID>
+    <Fecha>2008-06-19T14:49:47</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°26, de los diputados Robles, Espinosa, don Marcos y Sule, para reemplazar el inciso segundo del artículo 8° por el siguiente:
+“La equidad a través de la justa distribución de los servicios educacionales a fin de lograr la mejor calidad posible y resultados equivalentes a partir de la heterogeneidad de la población; la concreción de una efectiva igualdad de oportunidades y posibilidad para todos los habitantes y el rechazo a todo tipo de discriminaciones; y la libertad de enseñar y aprender”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>23</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8328</ID>
+    <Fecha>2008-06-19T14:49:14</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°25, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso primero del artículo 8°, para agregar, después de “la libertad” la frase “y la equidad de la educación”, y para eliminar la palabra “enseñanza”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>16</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8327</ID>
+    <Fecha>2008-06-19T14:48:44</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°24, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, para reemplazar el inciso primero del artículo 8º por el siguiente:
+“El Estado tiene el deber de resguardar la libertad, equidad y calidad de la enseñanza pública y privada.”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>12</TotalAfirmativos>
+    <TotalNegativos>78</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8326</ID>
+    <Fecha>2008-06-19T14:48:03</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>7° en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>86</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8324</ID>
+    <Fecha>2008-06-19T14:47:01</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°22, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso tercero del artículo 7°, para agregar la siguiente frase “y de los profesionales de la educación” entre “de los alumnos” y “deberá incluir”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>14</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>14</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8323</ID>
+    <Fecha>2008-06-19T14:46:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>6° en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8322</ID>
+    <Fecha>2008-06-19T14:45:54</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°21, de los diputados Saffirio, Espinoza don Fidel, León, Montes, señora Pascal, señora Saa, Sule, Robles y Monsalve, que agrega el siguiente inciso segundo en el artículo 6°:
+“El sistema de educación pública deberá ser gratuito, de calidad, y estará fundado en un proyecto educativo nacional, pluralista, que promueva la equidad e integración social, velando en el cumplimiento de su misión por la eficiente gestión de sus recursos.”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>41</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8321</ID>
+    <Fecha>2008-06-19T14:45:01</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>5°, en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8320</ID>
+    <Fecha>2008-06-19T14:43:40</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°20, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, para sustituir en el artículo 5º la expresión “fomentar una cultura de la paz” por las palabras “promover una cultura de la paz y la no violencia”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>8</TotalAfirmativos>
+    <TotalNegativos>78</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8319</ID>
+    <Fecha>2008-06-19T14:42:59</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°19, de los diputados Robles, Espinosa, don Marcos y Sule, para reemplazar el artículo 5° por el siguiente:
+“Artículo 5º.- Corresponderá al Estado, asimismo:
+a) Extender la educación a todos los habitantes del país, mediante la escolaridad total y el desarrollo de la educación permanente.
+b) Asegurar una efectiva igualdad de oportunidades para todos los educandos, iniciando desde la educación parvularia una acción pedagógica y social que posibilite su acceso por igual a todas las fuentes de educación.
+c) Atender especialmente a la formación del carácter moral y cívico de los educandos; defender los valores morales y los principios de libertad, justicia, bienestar social, los derechos de la persona humana y la forma democrática republicana de gobierno.
+d) Promover el respeto a las convicciones y creencias de los demás; fomentar en el educando una capacidad y aptitud adecuadas a su responsabilidad cívica y social y erradicar toda forma de intolerancia.
+e) Tutelar y difundir los derechos de los menores, proteger y desarrollar la personalidad del educando en todos sus aspectos.
+f) Estimular la auto educación, valorizar las expresiones propias del educando y su aptitud para analizar y evaluar situaciones y datos, así como su espíritu creativo y vocación de trabajo.
+g) Estimular la investigación científica y tecnológica.
+h) Estimular la creación artística, la educación física y la práctica del deporte.
+i) Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>27</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8318</ID>
+    <Fecha>2008-06-19T14:41:51</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>4°, en los términos propuestos por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>81</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8317</ID>
+    <Fecha>2008-06-19T14:41:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°18, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso octavo del artículo 4°, para suprimirlo y reemplazarlo por el siguiente:
+“Es deber del Estado velar por la igualdad de oportunidades y la inclusión educativa, para lo cual deberá establecer políticas que contemplen medidas compensatorias o de discriminación positiva que reduzcan las desigualdades derivadas de circunstancias económicas, sociales, étnicas o territoriales, entre otras”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>22</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8316</ID>
+    <Fecha>2008-06-19T14:40:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°17, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso séptimo del artículo 4°, para agregar la palabra “cobertura” entre las expresiones “sobre la” y “calidad y”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>17</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8315</ID>
+    <Fecha>2008-06-19T14:39:29</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°16, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso sexto del artículo 4°, para reemplazar la palabra “facilitar” por “dar”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>19</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8314</ID>
+    <Fecha>2008-06-19T14:38:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°15, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso quinto del artículo 4°, para agregar, después del punto final, que pasa a ser seguido, la siguiente frase: “Es derecho de los padres y alumnos recurrir de protección si sus derechos son vulnerados”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>29</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8313</ID>
+    <Fecha>2008-06-19T14:38:07</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°14, de los diputados Robles, Espinosa, don Marcos y Sule, al inciso tercero del artículo 4°, para agregar después del punto final, que pasa a ser una coma, la siguiente frase: “y fiscalizar que se cumpla esta obligación”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>21</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8312</ID>
+    <Fecha>2008-06-19T14:37:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°13, de los Diputados Lorenzini y Montes que incorpora el siguiente inciso tercero en el artículo 4°:
+“Es deber del Estado resguardar tanto la educación pública como la privada y mantener una especial preocupación por la primera, en el entendido que esta se constituye en base a un proyecto educativo de deliberación pública y democrática, que vela por la inclusión y la integración de la sociedad y las distintas visiones que la conforman.”
+Y para agregar la siguiente oración en el inciso final, a continuación de “discriminación positiva”:
+“A favor de las alumnas y alumnos más vulnerables de nuestro país y las escuelas que los atienden.  La vulnerabilidad se asocia a aquella situación o condición familiar, social, económica, étnica, territorial u otra, que afecte negativamente las posibilidades de desarrollo personal social de los estudiantes o los ponga en desventaja con respecto a otros alumnos que enfrenten una situación o condiciones más favorables.”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>24</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>15</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8311</ID>
+    <Fecha>2008-06-19T14:31:02</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°12, de los diputados Robles, Espinosa, don Marcos y Sule, al artículo 4°, para reemplazar en su inciso primero la frase “corresponde preferentemente a los padres el derecho y el deber de educar a sus hijos; al Estado, el deber de otorgar especial protección al ejercicio de este derecho” por la siguiente: “El Estado tiene la responsabilidad principal e indelegable de educar a todos los ciudadanos y ciudadanas del país; corresponde a la familia hacer cumplir el derecho de educar a sus hijos”.
+Y para intercalar en su inciso séptimo, entre los vocablos “proveer” e “información”, las palabras “publicitar la”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>28</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8310</ID>
+    <Fecha>2008-06-19T14:29:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°11, de los diputados Lorenzini, Montes, Encina, Díaz, don Marcelo, Pascal, señora Denise, Espinoza, don Fidel, Jaramillo, Muñoz, señora Adriana, Accorsi, Farías, Allende, señora Isabel y Pacheco, señora Clemira, que tiene por objeto agregar, a continuación del artículo 3°, un nuevo párrafo 2°, Sobre Sistema Nacional de Educación, con el siguiente texto:
+“Párrafo 2º
+Sistema Nacional de Educación
+Artículo 3º bis.- El Sistema Nacional de Educación está constituido por los establecimientos públicos, dependientes de los organismos de la administración del Estado y por aquellos pertenecientes  a personas naturales o jurídicas privadas que, en el ejercicio de la libertad de enseñanza, desarrollen actividades educativas.
+Artículo 3º ter.- Es deber del Estado resguardar y favorecer el desarrollo y perfeccionamiento del conjunto del sistema.
+Con este objeto deberá mantener una preocupación preferente por la educación pública y otorgará a los privados subvenciones y aportes en la forma y condiciones que establezca la ley.
+Artículo 3º Quater.- Los establecimientos públicos serán gratuitos, no pudiendo exigir por sus servicios contraprestaciones materiales de ninguna especie y tendrán presencia nacional, debiendo contarse con escuelas y liceos a lo largo de todo el territorio, cuya matricula deberá representar, a lo menos, el 50% de los estudiantes de cada región.
+Su organización y administración tendrá carácter público y responderá a principios democráticos.  Por ellos, su proyecto educativo será el resultado de la deliberación abierta y participativa de todos los integrantes de la comunidad educativa.
+Tendrán carácter laico y propenderán a la inclusión, la integración y cohesión de la sociedad chilena, constituyendo, por tanto, un espacio para la convivencia y la expresión y valoración de la diversidad de sus miembros.
+Artículo 3º quinquies.-  La apertura, organización y mantención de establecimientos de educación se ajustará a los dispuesto  en la presente ley y las disposiciones legales y administrativas que le complementan.
+El cierre de establecimiento educacionales deberá ser autorizado por el Ministerio de Educación, tomando en consideración la disponibilidad de matriculas en el territorio especifico.  Este nunca podrá tener lugar durante un año académico.
+Los sostenedores que quisieren cesar las actividades de sus establecimientos deberán solicitar la autorización a la Secretaría Regional Ministerial respectiva, a más tardar en el mes de Agosto.”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>32</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8309</ID>
+    <Fecha>2008-06-19T14:27:40</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>3° en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>90</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8308</ID>
+    <Fecha>2008-06-19T14:26:52</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°10, de los diputados Saffirio, Espinoza don Fidel, León, Montes, señora Pascal, señora Saa, Sule, Robles y Monsalve, que incide en la letras c), e) y g) del artículo 3°.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8307</ID>
+    <Fecha>2008-06-19T14:25:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°9, al artículo 3°, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, con los siguientes propósitos:
+
+a) Reemplácese el literal (b) por el siguiente:
+El Estado deberá garantizar a todos los alumnos, independiente de sus condiciones y circunstancias, en forma especial a la educación pública, el cumplimiento óptimo de los estándares de aprendizaje establecidos en la ley.
+
+b) Reemplácese el literal (c) por el siguiente:
+El Estado deberá garantizar que todos los estudiantes tengan la misma oportunidad de recibir una educación de calidad, en especial la educación pública y aquellas personas o colectivos que requieran apoyos especiales.
+
+c) Agréganse a continuación del literal “ h)”, los siguientes literales:
+i) Pertenencia: El sistema educativo debe fomentar la pertenencia de las unidades educativas a la comunidad en la cual esta inserta.
+j) Cooperación del sistema educativo: El sistema educativo promoverá la cooperación, reciprocidad y  solidaridad entre todos sus miembros y unidades educativas.
+k) La participación de la comunidad educativa en la organización, gobierno y funcionamiento de los centros  de enseñanza.
+m) La educación para la prevención de conflictos y para la resolución pacífica de los mismos, así como la no violencia en todos los ámbitos de la vida personal, familiar y social.
+n) El desarrollo de la igualdad de derechos y oportunidades y el fomento de la igualdad efectiva entre hombres y mujeres.
+ñ) El fomento y la promoción de la investigación, la experimentación y la innovación educativa.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>2</TotalAfirmativos>
+    <TotalNegativos>83</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8306</ID>
+    <Fecha>2008-06-19T14:23:55</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°8, de los diputados Robles, Espinosa, don Marcos y Sule, a la letra F del artículo 3°, para
+a) agregar entre las frases “cumplir sus deberes” y “y rendir cuenta” la frase “ser evaluados”
+b) suprimir las expresiones “cuando corresponda”
+c) agregar después del punto final, que pasa a ser una coma y colocar la siguiente frase: “anualmente respecto de sus logros educativos y un Balance General Financiero si este recibe recursos del Estado”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>30</TotalAfirmativos>
+    <TotalNegativos>59</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8305</ID>
+    <Fecha>2008-06-19T14:22:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°7, de los diputados Robles, Espinosa, don Marcos y Sule, a la letra D del artículo 3°, para:
+a) eliminar la palabra “y fomento”
+b) agregar después del punto final, que pasa a ser una coma y colocar la siguiente frase: “y las normas impartidas por el Ministerio de Educación”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>12</TotalAfirmativos>
+    <TotalNegativos>64</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8304</ID>
+    <Fecha>2008-06-19T14:21:33</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°6, de los diputados Robles, Espinosa, don Marcos y Sule, a la letra C del artículo 3°, para agregar la siguiente frase:
+“para lo cual estabecerá medidas de discriminación positiva a estos grupos vulnerables.”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>11</TotalAfirmativos>
+    <TotalNegativos>65</TotalNegativos>
+    <TotalAbstenciones>14</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8303</ID>
+    <Fecha>2008-06-19T14:20:51</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°5, de los diputados Robles, Espinosa, don Marcos y Sule, para sustituir el artículo 3° por el siguiente:
+“Artículo 3º.- La Educación Chilena tiene a la persona como centro y agente fundamental del proceso educativo.  Se sustenta en los siguientes principios:
+a) Universalidad y educación permanente.  La educación debe estar al alcance de todas las personas a lo largo de toda la vida.
+b) La ética y laicidad, que inspira una educación promotora de los valores de paz, solidaridad, justicia, libertad, honestidad, tolerancia, responsabilidad, trabajo, verdad y pleno respeto a las normas de convivencia, ajena a cualquier doctrina religiosa.
+c) La equidad, que garantiza a todos iguales oportunidades de acceso, permanencia y trato en un sistema educativo de calidad.
+d) La inclusión, que incorpora a las personas con discapacidad, grupos sociales excluidos, marginados y vulnerables, sin distinción de etnia, sexo u otra causa de discriminación, contribuyendo así a la eliminación de la pobreza, la exclusión y las desigualdades.
+e) La calidad, que asegura condiciones adecuadas para una educación integral, abierta, flexible y permanente para todas las personas,, independiente de sus condiciones y circunstancias.
+f) La democracia, que promueve el respecto irrestricto a los Derechos Humanos la libertad de conciencia, pensamiento y opinión, el ejercicio pleno de la ciudadanía y el reconocimiento  de la voluntad popular; y que contribuye a la tolerancia mutua en las relaciones entre las personas y entre mayorías y minorías.
+g) La interculturidad, que asume como riqueza la diversidad cultural, étnica y lingüística del país, y encuentra en el reconocimiento y respecto a las diferencias, así como en el mutuo conocimiento y actitud de aprendizaje del otro, para la convivencia armónica y el intercambio entre las diversas culturas del mundo.
+h) Participación, los miembros de la comunidad educativa tienen derecho a ser informados, considerados en el proceso educativo y en la toma de decisiones.
+i) Responsabilidad.  Todos los actores del proceso educativo deben cumplir sus deberes, ser evaluados y rendir cuenta pública cuando corresponda.
+j) La conciencia ambiental, que motiva el respeto, cuidado y conservación del entorno natural como garantía para el desenvolvimiento de la vida.
+k) La creatividad. Y la innovación, que promueven la producción de nuevos conocimientos en todos los campos del saber, el arte y la cultura.
+l) Flexibilidad y autonomía.  El sistema debe permitir la adecuación del proceso a la diversidad de realidades y proyectos educativos de los establecimientos educacionales.
+m) Transparencia.  La información del conjunto del sistema educativo, incluyendo la de los resultados académicos, debe estar a disposición de los ciudadanos.
+n) Educación pública y gratuita, se debe fortalecer y estar al alcance de todos los chilenos por igual”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>8</TotalAfirmativos>
+    <TotalNegativos>65</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8302</ID>
+    <Fecha>2008-06-19T14:19:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>2°, en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>91</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8301</ID>
+    <Fecha>2008-06-19T14:19:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación de los Diputados Monsalve, De Urresti, Espinoza, don Fidel, Enriquez-Ominami y Rossi, al inciso primero del artículo 2°, para reemplazar la expresión “multicultural” por “pluricultural”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>30</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8300</ID>
+    <Fecha>2008-06-19T14:18:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°3, de los diputados Robles, Espinosa, don Marcos y Sule, para sustituir el inciso primero del artículo 2° por el siguiente:
+“La educación es un proceso de aprendizaje permanente que abarca las distintas etapas de la vida de las personas y que tiene como finalidad la formación del ciudadano, la formación de hombres y mujeres virtuosas, mediante el desarrollo espiritual, ético, moral, intelectual, artístico y físico, y la preparación para un oficio, por medio de la transmisión y el cultivo de valores, conocimientos y destrezas.  Se enmarca en el respeto y valoración de los derechos humanos y de las libertades fundamentales, de la diversidad multicultural y de la paz, y de nuestra identidad nacional y latinoamericana capacitando a las personas para conducir su vida en forma plena, para convivir y participar en forma responsable, tolerante, solidaria, democrática y activa en la comunidad y para trabajar y contribuir al desarrollo del país”.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>13</TotalAfirmativos>
+    <TotalNegativos>66</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8297</ID>
+    <Fecha>2008-06-19T14:15:36</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°2, al artículo 2°, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, para reemplazarlo por el siguiente:
+“Artículo 2º.- La educación es el proceso de enseñanza-aprendizaje permanente que comprende las distintas etapas de la vida de las personas, basado en raíces éticas de reciprocidad y solidaridad de primera responsabilidad de la familia, la comunidad y la nación, y que tiene como finalidad fortalecer la comunidad humana por medio del desarrollo de cada persona en su aspecto espiritual, ético, moral, cooperativo, solidario, afectivo, intelectual, artístico y físico, mediante la transmisión y el cultivo de la imaginación, valores, conocimientos, habilidades y destrezas, respetando su individualidad y enmarcados en el respeto a los derechos humanos y las libertades fundamentales, en nuestra identidad nacional y regional latinoamericana, en el ejercicio de la tolerancia, la no violencia y del respeto a la diversidad, a su entorno natural, facultándolas para convivir e integrarse en forma responsable, democrática y activa en la sociedad.
+La educación se manifiesta a través de la enseñanza formal o regular, de la enseñanza no formal y de la enseñanza informal.
+La enseñanza formal o regular es aquella que está estructurada y se entrega de manera sistemática y secuencial. Está constituida por niveles y modalidades que aseguran la unidad del proceso educativo y facilitan la continuidad del mismo a lo largo de la vida de las personas.
+La enseñanza no formal es todo proceso formativo realizado a través de un programa sistemático, principalmente de índole laboral, que no siempre es evaluado, y que no equivale a un nivel educativo ni conduce a un título.
+La enseñanza informal es todo proceso vinculado con el desarrollo de las personas en la sociedad, facilitado por la interacción de unos con otros y sin la tuición del establecimiento educacional como agencia institucional educativa.”
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>6</TotalAfirmativos>
+    <TotalNegativos>78</TotalNegativos>
+    <TotalAbstenciones>17</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8296</ID>
+    <Fecha>2008-06-19T14:13:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>1° en la forma propuesta por la Comisión de Educación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>90</TotalAfirmativos>
+    <TotalNegativos>5</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8295</ID>
+    <Fecha>2008-06-19T14:12:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>Indicación N°1, al artículo 1°, de los diputados Araya, Díaz, don Eduardo, Escobar y Valenzuela, para reemplazarlo por el siguiente:
+“Artículo 1º.- La presente ley fija las necesidades básicas que deberá exigirse el Estado y la comunidad en cada uno de los niveles de enseñanza parvularia, básica y media; regula la obligación del Estado de proteger su cumplimiento y establece los requisitos y el proceso para el reconocimiento oficial de los establecimientos e instituciones educacionales de todo nivel, con el objeto de tener un sistema educativo de calidad.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>14</TotalAfirmativos>
+    <TotalNegativos>74</TotalNegativos>
+    <TotalAbstenciones>17</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8292</ID>
+    <Fecha>2008-06-19T14:09:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo>13, 16, 17, 18, 19, 20, 21, 24, 25 salvo su inciso segundo, 26, 27, 28, 29, 30, 32, 33, 34, 35, 37, 39, 40, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 53, 54, 57, 58, 59 salvo su inciso segundo, 60, 62, 63, 64, 65, 66, 67 y 68 permanentes y los artículos 2°, 3°, 4°, 7°, 8°, 9° y 10° transitorios, que no fueron objeto de indicaciones.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>16</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8290</ID>
+    <Fecha>2008-06-19T13:50:21</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2070</ID>
+      <Numero>44</Numero>
+      <Fecha>2008-06-19T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4970-04</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>12</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>12071</ID>
+    <Fecha>2010-09-14T14:00:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2420</ID>
+      <Numero>75</Numero>
+      <Fecha>2010-09-14T11:07:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6949-04</Boletin>
+    <Articulo>artículo único propuesto por la Comisión Especial de Deportes, que figura en la página 27 de su informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>12070</ID>
+    <Fecha>2010-09-14T13:59:17</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2420</ID>
+      <Numero>75</Numero>
+      <Fecha>2010-09-14T11:07:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6949-04</Boletin>
+    <Articulo>Indicación de los señores Melero, Cardemil, Recondo y Bertolino, para sustituir el artículo único del proyecto por el siguiente:
+“Artículo único.- Sustitúyese el inciso segundo del artículo 5° de la ley N°19.712, ley del Deporte, por el siguiente:
+"Los planes y programas de estudio de la educación parvularia, básica y media en todas sus modalidades deberán considerar los objetivos y contenidos destinados a la formación para el deporte, para lo cual podrán incorporar las horas de educación física y deportes necesarias para motivar e incentivar su práctica y enseñar su valor e importancia.".</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>12</TotalAfirmativos>
+    <TotalNegativos>83</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>12069</ID>
+    <Fecha>2010-09-14T13:57:48</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="10">2/3 PRESENTES</Quorum>
+    <Sesion>
+      <ID>2420</ID>
+      <Numero>75</Numero>
+      <Fecha>2010-09-14T11:07:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6949-04</Boletin>
+    <Articulo>Solicitud para omitir el segundo informe y entrar de inmediato a la discusión particular.</Articulo>
+    <Tramite Codigo="6">ÚNICO</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>100</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>12068</ID>
+    <Fecha>2010-09-14T13:56:50</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2420</ID>
+      <Numero>75</Numero>
+      <Fecha>2010-09-14T11:07:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6949-04</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>93</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

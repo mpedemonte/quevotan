@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>31491</ID>
+    <Fecha>2019-08-22T12:09:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo cuadragésimo segundo transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 857 y 858 del comparado. (Deducción autorizada a contribuyentes sujetos a las letras A) o B) del artículo 14 de la Ley sobre Impuesto a la Renta, que hubieren pagado voluntariamente a título de impuesto de primera categoría un determinado monto).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>93</TotalAfirmativos>
+    <TotalNegativos>53</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31494</ID>
+    <Fecha>2019-08-22T12:08:12</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>artículo cuadragésimo primero transitorio, cuya votación separada ha sido solicitada, que se encuentra en la página 857 del comparado. (Normas para calcular el promedio a que se refiere la letra b) del número 1.- de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta que establece el Régimen Pro Pyme).</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>146</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31489</ID>
+    <Fecha>2019-08-22T12:07:13</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo cuadragésimo transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 855 a 857 del comparado. (Reglas aplicables a las empresas obligadas a determinar su renta efectiva según contabilidad completa, acogidas al artículo 14 letra B) de la ley sobre impuesto a la renta vigente al 31 de diciembre de 2019 que se traspasan al Régimen Pro Pyme).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>144</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31488</ID>
+    <Fecha>2019-08-22T11:54:14</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo trigésimo octavo transitorio, cuya votación separada ha sido solicitada, que se encuentra en la página 853 del comparado. (Reglas para la contribución que se aplicará a los nuevos proyectos de inversión, cuyo proceso de evaluación de impacto ambiental se inicie a contar de la fecha de publicación de la presente ley).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>142</TotalAfirmativos>
+    <TotalNegativos>4</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31487</ID>
+    <Fecha>2019-08-22T11:53:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo trigésimo primero transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 837 a 838 del comparado. (Vigencia para lo establecido en los incisos primero, segundo y tercero del artículo 8° de la ley N° 20.780).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>91</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31486</ID>
+    <Fecha>2019-08-22T11:52:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo vigésimo séptimo transitorio, cuya votación separada ha sido solicitada, que se encuentra en la página 836 del comparado. (Reglas para el registro del saldo acumulado de créditos al que se refiere la letra c) del artículo 81 de la ley N° 20.712).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31485</ID>
+    <Fecha>2019-08-22T11:51:30</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo noveno transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 819 a 823 del comparado. (Disposiciones para contribuyentes que declaren sobre la base de su renta efectiva según contabilidad completa, que se encuentren la situación tributaria que se indica).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>91</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31484</ID>
+    <Fecha>2019-08-22T11:50:34</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo octavo transitorio, cuya votación separada ha sido solicitada, que se encuentra en la página 819 del comparado. (Recálculo del impuesto de primera categoría con la tasa de impuesto que rija en el año calendario 2020, para contribuyentes que señala).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>90</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31483</ID>
+    <Fecha>2019-08-22T11:49:39</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo séptimo transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 815 a 819 del comparado. (Mantiene las normas vigentes para contribuyentes sujetos a las disposiciones de la letras A) o B), del artículo 14 de la ley sobre impuesto a la renta que mantengan un control de retiros en exceso a la fecha que indica).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>91</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31482</ID>
+    <Fecha>2019-08-22T11:48:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo sexto transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 812 a 815 del comparado. (Mantiene las reglas vigentes aplicables a reinversiones de utilidades efectuadas a través de aportes de capital a una sociedad de personas).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>91</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31481</ID>
+    <Fecha>2019-08-22T11:47:36</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo quinto transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 808 a 812 del comparado. (Normas para entregar a los contribuyentes que se acogieron al 14 ter la posibilidad de pagar en 5 años la tributación generada por acceder a dicho régimen, producto de no ejercer las opciones de tributación que se indica).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>147</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31480</ID>
+    <Fecha>2019-08-22T11:46:30</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo cuarto transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 805 a 808 del comparado. (Traspaso automático de empresas acogidas al artículo 14 ter letra A) de la Ley Impuesto a la Renta al nuevo régimen Pro Pyme sin contabilidad del número 8 de la letra D) del artículo 14).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>147</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31479</ID>
+    <Fecha>2019-08-22T11:45:17</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo tercero transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 803 a 805 del comparado. (Rebajas al impuesto por enajenación de acciones por utilidades que ya pagaron impuestos de empresas en sistema atribuido).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>81</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31478</ID>
+    <Fecha>2019-08-22T11:44:25</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo duodécimo transitorio, cuya votación separada ha sido solicitada, que se encuentra en la página 803 del comparado. (Adecuación de referencias legales por modificaciones a Ley Impuesto a la Renta).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31477</ID>
+    <Fecha>2019-08-22T11:42:56</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo undécimo transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 796 a 803 del comparado. (Normas sobre registro y control de las cantidades anotadas en registros tributarios para conformar los saldos de contribuyentes letra B) artículo 14 Ley Impuesto a la Renta).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31476</ID>
+    <Fecha>2019-08-22T11:42:03</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo transitorio, cuya votación separada ha sido solicitada, que se encuentra en las páginas 792 a 796 del comparado. (Normas sobre registro y control de las cantidades anotadas en registros tributarios para conformar los saldos de contribuyentes letra A) artículo 14 Ley Impuesto a la Renta).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31475</ID>
+    <Fecha>2019-08-22T11:39:29</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo noveno transitorio, cuya votación separada ha sido solicitada, que se encuentra en la página 792 del comparado. (Norma transitoria para traspaso por régimen de tributación y régimen Pro Pyme).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>59</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31474</ID>
+    <Fecha>2019-08-22T11:38:24</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo trigésimo tercero, cuya votación separada ha sido solicitada, que se encuentra en las páginas 777 a 786 del comparado. (Establece contribución al Fondo de Desarrollo Regional).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>145</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31473</ID>
+    <Fecha>2019-08-22T11:37:25</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo trigésimo primero, cuya votación separada ha sido solicitada, que se encuentra en las páginas 771 y 772 del comparado. (Enmiendas a ley de incentivos de la actividad forestal).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>143</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31472</ID>
+    <Fecha>2019-08-22T11:36:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo octavo, numerales 2, 3 y 4, cuya votación separada ha sido solicitada, que se encuentra en las páginas 676 a 699 del comparado. (Ajustes por modificación del sistema tributario a fondos de inversiones y fondos mutuos).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>55</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31471</ID>
+    <Fecha>2019-08-22T11:35:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>El resto del artículo décimo sexto, cuya votación separada ha sido solicitada, que se encuentra en las páginas 659 a 672 del comparado. (Impuesto a las emisiones de contaminantes).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>145</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31470</ID>
+    <Fecha>2019-08-22T11:33:51</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Letra t) del artículo décimo sexto, cuya votación separada ha sido solicitada, que se encuentra en las páginas 670 a 672 del comparado. (Compensaciones por impuesto a emisiones).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31469</ID>
+    <Fecha>2019-08-22T11:32:52</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo sexto, letra e), literales ii. y iii; letra f) y letra h), cuya votación separada ha sido solicitada, que se encuentra en las páginas 662 y 663 del comparado. (Modificaciones a impuesto por emisiones al aire de material particulado (MP), óxidos de nitrógeno (NOx), dióxido de azufre (SO2) y dióxido de carbono (CO2)).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>49</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31468</ID>
+    <Fecha>2019-08-22T11:31:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo cuarto, letra b), cuya votación separada ha sido solicitada, que se encuentra en las páginas 652 a 653 del comparado. (Enmienda al impuesto global complementario o adicional aplicable a zona franca industrial de Tocopilla).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>95</TotalAfirmativos>
+    <TotalNegativos>49</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31467</ID>
+    <Fecha>2019-08-22T11:30:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo tercero, letra a), cuya votación separada ha sido solicitada, que se encuentra en la página 647 del comparado. (Enmienda al impuesto global complementario o adicional aplicable a sociedades administradores y usuarios de zona franca).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31466</ID>
+    <Fecha>2019-08-22T11:29:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo duodécimo, letra a), cuya votación separada ha sido solicitada, que se encuentra en la página 646 del comparado. (Adecuación a régimen de empresas afectas a ley N° 18.392, por eliminación de renta atribuida).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31465</ID>
+    <Fecha>2019-08-22T11:28:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo undécimo, letra a), cuya votación separada ha sido solicitada, que se encuentra en la página 645 del comparado. (Adecuación a régimen de empresas de Porvenir y Primavera, en Magallanes, por eliminación de renta atribuida).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31464</ID>
+    <Fecha>2019-08-22T11:27:24</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo décimo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 643 y 644 del comparado. (Adecuación en reglas por eliminación de renta atribuida).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31463</ID>
+    <Fecha>2019-08-22T11:26:32</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo séptimo, cuya votación separada ha sido solicitada, que se encuentra en la página 635 del comparado. (Derogación del artículo duodécimo transitorio de la ley N° 20.780 que se refiere al IVA a la construcción de viviendas).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31462</ID>
+    <Fecha>2019-08-22T11:25:41</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Artículo sexto, cuya votación separada ha sido solicitada, que se encuentra en las páginas 628 a 634 del comparado. (Beneficio de IVA para la construcción de viviendas).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31461</ID>
+    <Fecha>2019-08-22T11:23:54</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 7, letra a), cuya votación separada ha sido solicitada, que se encuentra en la página 620 del comparado. (Regla de valoración en base a valor corriente en plaza para impuesto a las donaciones)
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31460</ID>
+    <Fecha>2019-08-22T11:23:06</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 4, letra a), cuya votación separada ha sido solicitada, que se encuentra en las páginas 617 y 618 del comparado. (Agrega excepción a impuesto a las donaciones)
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>64</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31459</ID>
+    <Fecha>2019-08-22T11:22:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>El resto del numeral 1 del artículo cuarto, cuya votación separada ha sido solicitada. (Hecho gravado por impuesto a las donaciones y reglas para evitar doble tributación de impuesto a las donaciones)
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>81</TotalAfirmativos>
+    <TotalNegativos>64</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31458</ID>
+    <Fecha>2019-08-22T11:21:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Inciso sexto del numeral 1 del artículo cuarto, cuya votación separada ha sido solicitada, que se encuentra en las páginas 609 y 610 del comparado. (Hecho gravado por impuesto a las donaciones)
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>82</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31457</ID>
+    <Fecha>2019-08-22T11:20:17</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 5 del artículo tercero, cuya votación separada ha sido solicitada, que se encuentra en la página 535 del comparado. (Considera sujeto de impuesto a beneficiarios de servicios prestados por personas residentes en el extranjero).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>129</TotalAfirmativos>
+    <TotalNegativos>14</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31456</ID>
+    <Fecha>2019-08-22T11:19:16</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 4, letra g), del artículo tercero, cuya votación separada ha sido solicitada, que se encuentra en las páginas 533 y 534 del comparado. (Agrega como hecho gravado con IVA los servicios digitales prestados por personas residentes o domiciliadas en el extranjero).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>123</TotalAfirmativos>
+    <TotalNegativos>20</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31455</ID>
+    <Fecha>2019-08-22T11:18:13</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 3 del artículo tercero, cuya votación separada ha sido solicitada, que se encuentra en la página 528 del comparado. (Casos en que se presume territorialidad en prestación de servicios digitales).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>127</TotalAfirmativos>
+    <TotalNegativos>17</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31454</ID>
+    <Fecha>2019-08-22T11:17:13</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 1,  letra c),  literal i. y  literal iii. del artículo tercero, cuya votación separada ha sido solicitada, que se encuentra en las páginas 523 y 524 del comparado. (Facultad al SII para calificar habitualidad en ventas de bienes corporales muebles e inmuebles).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>71</TotalAfirmativos>
+    <TotalNegativos>75</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31453</ID>
+    <Fecha>2019-08-22T11:15:34</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 49 del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 488 a 499 del comparado. (Enmiendas al régimen de retención en relación al impuesto adicional).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31452</ID>
+    <Fecha>2019-08-22T11:14:32</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 47 del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 485 y 486 del comparado. (Modificaciones a la declaración de renta anual para suprimir referencias a renta atribuida).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31451</ID>
+    <Fecha>2019-08-22T11:13:41</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 45 del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 480 a 482 del comparado. (Modificaciones a la declaración de renta anual para suprimir referencias a renta atribuida).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31450</ID>
+    <Fecha>2019-08-22T11:12:54</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 43 del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 472 a 474 del comparado. (Crédito a contribuyentes del impuesto adicional).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31449</ID>
+    <Fecha>2019-08-22T11:12:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 38 del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 450 a 455 del comparado. (Modificaciones al impuesto adicional).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31448</ID>
+    <Fecha>2019-08-22T11:11:12</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 37 del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 447 y 448 del comparado. (Modificación al crédito contra impuesto global complementario).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31447</ID>
+    <Fecha>2019-08-22T11:10:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 29 del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 426 a 428 del comparado. (Determinación de casos en que un territorio o jurisdicción tiene un régimen fiscal preferencial).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>71</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31446</ID>
+    <Fecha>2019-08-22T11:09:17</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 18 del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra entre las páginas 331 y 337 del comparado. (Modifica reglas aplicables al término de giro de empresas acogidas a primera categoría).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>72</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31445</ID>
+    <Fecha>2019-08-22T11:08:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 15, letra b), del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en la página 315 del comparado. (Ajuste a reglas aplicables si contribuyente sobrepasa límite para acogerse a renta presunta en relación con el sistema 100% integrado y Régimen Pro Pyme).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31444</ID>
+    <Fecha>2019-08-22T11:07:06</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 13, letra f), en lo referido al inciso segundo del nuevo numeral 13 que se agrega en el artículo 31, que se modifica en virtud del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 300 y 301 del comparado. (Agrega como deducción para cálculo renta líquida, los gastos o desembolsos incurridos con motivo de exigencias, medidas o condiciones medioambientales).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>72</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31443</ID>
+    <Fecha>2019-08-22T11:05:56</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 10, letra a), del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en la página 262 del comparado. (Establece impuesto de tasa 27% para grandes empresas y de 25% para para contribuyentes que se acojan al Régimen Pro Pyme).</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>105</TotalAfirmativos>
+    <TotalNegativos>40</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31442</ID>
+    <Fecha>2019-08-22T11:04:55</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 7, letras A), B), C), E), F), G) y H) del artículo 14, que se reemplaza en virtud del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra entre las páginas 146 y 200 del comparado. (Sistema único y 100% integrado)
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>80</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31441</ID>
+    <Fecha>2019-08-22T11:03:05</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 1 del artículo segundo, cuya votación separada ha sido solicitada, que se encuentra en las páginas 133 y 134 del comparado. (Se ajusta concepto de renta atribuida, capital propio tributario y establecimiento permanente).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>63</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31440</ID>
+    <Fecha>2019-08-22T11:00:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 40, letra a), del artículo primero, cuya votación separada ha sido solicitada, que se encuentra en la página 104 del comparado. (Modifica el recurso de reposición administrativa)
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>70</TotalAfirmativos>
+    <TotalNegativos>74</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31439</ID>
+    <Fecha>2019-08-22T10:58:46</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 38 del artículo primero, cuya votación separada ha sido solicitada, que se encuentra en las páginas 102 y 103 del comparado. (Agrega como circunstancia agravante de los delitos tributarios actuar concertados para evadir impuestos sin que constituya la figura de asociación ilícita)
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>74</TotalAfirmativos>
+    <TotalNegativos>70</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31438</ID>
+    <Fecha>2019-08-22T10:57:50</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 34 del artículo primero, cuya votación separada ha sido solicitada, que se encuentra en la página 99 del comparado. (Agrega delito tributario por la disminución maliciosa de activos para incumplir obligaciones tributarias).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>71</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31437</ID>
+    <Fecha>2019-08-22T10:56:59</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 33 del artículo primero, cuya votación separada ha sido solicitada, que se encuentra en la página 86 del comparado. (Nueva norma en materia penal tributaria que establece la concurrencia de una agravante por el monto del impuesto en caso de conductas que constituyen evasión).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>74</TotalAfirmativos>
+    <TotalNegativos>71</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31436</ID>
+    <Fecha>2019-08-22T10:55:45</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 32 del artículo primero, cuya votación separada ha sido solicitada, que se encuentra en la página 85 del comparado. (Nueva norma en materia penal tributaria que establece la concurrencia de una agravante por el monto del impuesto en caso de conductas que constituyen evasión).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>74</TotalAfirmativos>
+    <TotalNegativos>71</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31435</ID>
+    <Fecha>2019-08-22T10:54:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 25 del artículo primero, cuya votación separada ha sido solicitada, que se encuentra entre las páginas 65 y 67 del comparado. (Mantención de la facultad del SII para examinar documentación en caso de entrega de antecedentes no fidedignos por el contribuyente y se coordina la solicitud de antecedentes por cualquier medio expedito).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>73</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31434</ID>
+    <Fecha>2019-08-22T10:52:42</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numeral 1 del artículo primero, cuya votación separada ha sido solicitada, que se encuentra en las páginas 1 y 2 del comparado. (Parte de la Norma General Antielusión: Definición de “abuso” en materia tributaria).
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>72</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31433</ID>
+    <Fecha>2019-08-22T10:48:36</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo>Numerales 46, 47, 48, 49, 50, 51 y 52 del artículo primero (relativos a a materias procesales, medidas prejudiciales precautorias para los tribunales tributarios y aduaneros, el recurso de casación en la forma, ajustes al reclamo tributario y deber de mantener publicadas las sentencias), y el artículo vigésimo séptimo </Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31432</ID>
+    <Fecha>2019-08-22T10:47:15</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3812</ID>
+      <Numero>67</Numero>
+      <Fecha>2019-08-22T10:33:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>12043-05</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

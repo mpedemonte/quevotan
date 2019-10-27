@@ -1,0 +1,49 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>8012-32</boletin>
+                    <titulo>Certifica calidad de los centros de larga estadía de adultos mayores para su funcionamiento.</titulo>
+                    <fecha_ingreso>02/11/2011</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Segundo trámite constitucional (Senado)</etapa>
+                    <subetapa>Primer informe de comisión de Gobierno, Descentralización y Regionalización</subetapa>
+                    <leynro></leynro>
+                    <diariooficial></diariooficial>
+                    <estado>En tramitación </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=8410&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores><autor><PARLAMENTARIO>Barros Montero, Ramón</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Letelier Aguilar, Cristian</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Macaya Danús, Javier</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Melero Abaroa, Patricio</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Molina Oliva, Andrea</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Recondo Lavanderos, Carlos</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Sandoval Plaza, David</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Silva Méndez, Ernesto</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Von Mühlenbrock Zamora, Gastón</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Zalaquett Said, Mónica</PARLAMENTARIO></autor>
+</autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>02/11/2011</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>103/359</SESION><FECHA>02/11/2011</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión Especial del Adulto Mayor</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>16/01/2013</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión Especial del Adulto Mayor.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>130/360</SESION><FECHA>22/01/2013</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>136/360</SESION><FECHA>07/03/2013</FECHA><DESCRIPCIONTRAMITE>Discusión general . Aprobado en general y particular a la vez </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>07/03/2013</FECHA><DESCRIPCIONTRAMITE>Oficio de ley a Cámara Revisora .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>1/361</SESION><FECHA>12/03/2013</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Gobierno, Descentralización y Regionalización</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+<tramite><SESION>88/366</SESION><FECHA>15/01/2019</FECHA><DESCRIPCIONTRAMITE>La Sala acuerda que el proyecto sea informado por la Comisión Especial del Adulto Mayor en lugar de la de Gobierno, Descentralización y Regionalización.</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias></urgencias>
+<informes><informe><FECHAINFORME>16/01/2013</FECHAINFORME><TRAMITE>Primer informe de comisión Especial del Adulto Mayor </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=15717&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios><oficio><NUMERO>10.604</NUMERO><FECHA>07/03/2013</FECHA><TRAMITE>Oficio de ley a Cámara Revisora</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Ley</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=17916&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+</oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>ADULTO MAYOR</DESCRIPCION></materia>
+<materia><DESCRIPCION>CENTROS DE ESTADÍA DEL ADULTO MAYOR</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>

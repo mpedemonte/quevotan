@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>20994</ID>
+    <Fecha>2015-05-07T13:23:37</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3207</ID>
+      <Numero>21</Numero>
+      <Fecha>2015-05-07T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9898-05</Boletin>
+    <Articulo>Artículo 1°, inciso segundo del artículo 2°, artículo 3° y nuevo artículo segundo transitorio incorporado por el Senado
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>79</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20993</ID>
+    <Fecha>2015-05-07T13:22:27</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3207</ID>
+      <Numero>21</Numero>
+      <Fecha>2015-05-07T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9898-05</Boletin>
+    <Articulo>Modificaciones introducidas por el Senado, con la salvedad del artículo 1°, del inciso segundo del artículo 2°, del artículo 3° y del nuevo artículo segundo transitorio incorporado por el Senado, por tratar materias propias de ley orgánica constitucional
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>79</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20816</ID>
+    <Fecha>2015-03-18T13:14:05</Fecha>
+    <Tipo Codigo="3">GENERAL Y PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3190</ID>
+      <Numero>4</Numero>
+      <Fecha>2015-03-18T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9898-05</Boletin>
+    <Articulo>Votación general y particular de los artículos 1°, inciso segundo del artículo 2° y 3°
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>8</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20815</ID>
+    <Fecha>2015-03-18T13:13:27</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3190</ID>
+      <Numero>4</Numero>
+      <Fecha>2015-03-18T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9898-05</Boletin>
+    <Articulo>Votación general, con la salvedad de los artículos 1°, inciso segundo del artículo 2° y 3°, por tratar materias propias de ley orgánica constitucional
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20812</ID>
+    <Fecha>2015-03-18T13:07:04</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3190</ID>
+      <Numero>4</Numero>
+      <Fecha>2015-03-18T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9898-05</Boletin>
+    <Articulo>Petición de clausura del debate
+</Articulo>
+    <Tramite Codigo="6">ÚNICO</Tramite>
+    <Informe Codigo="7">SIN INFORME</Informe>
+    <TotalAfirmativos>78</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

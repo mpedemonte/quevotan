@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>30305</ID>
+    <Fecha>2018-12-18T13:20:48</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>artículo segundo del proyecto, con las modificaciones propuestas por la Comisión de Economía.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>100</TotalAfirmativos>
+    <TotalNegativos>39</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30304</ID>
+    <Fecha>2018-12-18T13:19:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>letra b) del artículo 7 contenido en el numeral 8) del artículo primero del proyecto, en los términos propuestos por el Senado.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>123</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>16</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30303</ID>
+    <Fecha>2018-12-18T13:19:12</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>artículo 5 contenido en el numeral 4) del artículo primero con las modificaciones propuestas por la Comisión de Economía.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>52</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30302</ID>
+    <Fecha>2018-12-18T13:18:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>artículo 4 contenido en el numeral 4) del artículo primero con las modificaciones propuestas por la Comisión de Economía.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>55</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30301</ID>
+    <Fecha>2018-12-18T13:17:14</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>Indicación de la diputada Alejandra Sepúlveda y de los diputados Ricardo Celis, Andrés Molina, Leopoldo Pérez y René Saffirio al artículo 4 contenido en el numeral 4) del artículo primero: para agregar los siguientes incisos finales:
+“Lo establecido en el inciso cuarto de este artículo no se aplicará a las escrituras públicas.
+Los actos a que se refiere este artículo también podrían ser suscritos ante notario” 
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>117</TotalAfirmativos>
+    <TotalNegativos>18</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30300</ID>
+    <Fecha>2018-12-18T13:15:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>artículo 3 contenido en el numeral 4) del artículo primero con las modificaciones propuestas por la Comisión de Economía.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>91</TotalAfirmativos>
+    <TotalNegativos>49</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30299</ID>
+    <Fecha>2018-12-18T13:14:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>letra a) del numeral 2) del artículo primero con la modificación propuesta por la Comisión de Economía.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>92</TotalAfirmativos>
+    <TotalNegativos>49</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30298</ID>
+    <Fecha>2018-12-18T13:13:39</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>texto del Senado con las modificaciones incorporadas por la Comisión de Economía, con la salvedad de la letra b) del artículo 7 contenido en el numeral 8) del artículo primero del proyecto, por tratar una materia propia de ley orgánica constitucional y de la letra a) del numeral 2) del artículo primero, del numeral 4) del artículo primero y del artículo segundo del proyecto, cuyas votaciones separadas han sido solicitadas.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>141</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30297</ID>
+    <Fecha>2018-12-18T13:12:42</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>letra b) del artículo 7 contenido en el numeral 8) del artículo primero.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>141</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30296</ID>
+    <Fecha>2018-12-18T13:11:58</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3706</ID>
+      <Numero>115</Numero>
+      <Fecha>2018-12-18T10:33:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8466-07</Boletin>
+    <Articulo>con la salvedad de la letra b) del artículo 7 contenido en el numeral 8) del artículo primero del proyecto, por tratar una materia propia de ley orgánica constitucional.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>141</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+</Votaciones>

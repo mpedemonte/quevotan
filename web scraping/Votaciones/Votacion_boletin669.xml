@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>7663</ID>
+    <Fecha>2007-12-18T20:59:11</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>1994</ID>
+      <Numero>118</Numero>
+      <Fecha>2007-12-18T18:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>669-01</Boletin>
+    <Articulo>Proposición de la Comisión Mixta de Diputados y Senadores para resolver las divergencias entre ambas ramas del Congreso.
+</Articulo>
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>79</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>7391</ID>
+    <Fecha>2007-10-30T14:29:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>1967</ID>
+      <Numero>93</Numero>
+      <Fecha>2007-10-30T11:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>669-01</Boletin>
+    <Articulo>modificación del Senado recaída en el artículo 23.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>45</TotalAfirmativos>
+    <TotalNegativos>47</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>7390</ID>
+    <Fecha>2007-10-30T14:28:15</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>1967</ID>
+      <Numero>93</Numero>
+      <Fecha>2007-10-30T11:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>669-01</Boletin>
+    <Articulo>artículo 2° números 14 y 17, artículo 7°, supresión del artículo 14 del proyecto aprobado por la Cámara, y artículos 11, 17 y 18 nuevos introducidos por el Senado.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>0</TotalAfirmativos>
+    <TotalNegativos>92</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>7389</ID>
+    <Fecha>2007-10-30T14:26:02</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>1967</ID>
+      <Numero>93</Numero>
+      <Fecha>2007-10-30T11:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>669-01</Boletin>
+    <Articulo>4°, 5°, 8°, 9°, 10, 12, 13, 20, 21, 28, 32, 34, 35, 38, 39, 42, 45, 46, 47, 48, 50, 51, 52, 53, 58, 59, 60, 61, 65 permanentes, y 4° transitorio.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>7388</ID>
+    <Fecha>2007-10-30T14:24:52</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>1967</ID>
+      <Numero>93</Numero>
+      <Fecha>2007-10-30T11:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>669-01</Boletin>
+    <Articulo>modificaciones del Senado al proyecto de ley, originado en mensaje, sobre recuperación del bosque nativo y fomento forestal, con excepción de los artículos 4°, 5°, 8°, 9°, 10, 11, 12, 13, 17, 20, 21, 23, 28, 32, 34, 35, 38, 39, 42, 45, 46, 47, 48, 50, 51, 52, 53, 58, 59, 60, 61, 65 y 4° transitorio que tienen el carácter de normas orgánicas constitucionales, y de aquellos artículos que las Comisiones Unidas de Agricultura, Silvicultura y Desarrollo Rural y de Recursos Naturales, Medio Ambiente y Bienes Nacionales proponen rechazar.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+</Votaciones>

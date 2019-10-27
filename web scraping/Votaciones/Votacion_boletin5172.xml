@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>10631</ID>
+    <Fecha>2009-10-28T12:46:41</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2275</ID>
+      <Numero>94</Numero>
+      <Fecha>2009-10-28T10:42:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5172-09</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10264</ID>
+    <Fecha>2009-07-28T15:55:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2236</ID>
+      <Numero>55</Numero>
+      <Fecha>2009-07-28T11:08:21</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5172-09</Boletin>
+    <Articulo>Se da por aprobado en particular,dejándose constancia de haber alcanzado los quórum constitucionales requeridos, con excepción de los Nos. 1, 4 y 5 del articulo 1°, cuya votación separada ha sido requerida.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>0</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10260</ID>
+    <Fecha>2009-07-28T13:43:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2236</ID>
+      <Numero>55</Numero>
+      <Fecha>2009-07-28T11:08:21</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5172-09</Boletin>
+    <Articulo>Artículo 1°, N° 5.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>38</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10259</ID>
+    <Fecha>2009-07-28T13:42:54</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2236</ID>
+      <Numero>55</Numero>
+      <Fecha>2009-07-28T11:08:21</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5172-09</Boletin>
+    <Articulo>Artículo 1°, N°4</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>26</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10258</ID>
+    <Fecha>2009-07-28T13:42:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2236</ID>
+      <Numero>55</Numero>
+      <Fecha>2009-07-28T11:08:21</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5172-09</Boletin>
+    <Articulo>Artículo 1° N°1.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>65</TotalAfirmativos>
+    <TotalNegativos>36</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10257</ID>
+    <Fecha>2009-07-28T13:41:04</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>2236</ID>
+      <Numero>55</Numero>
+      <Fecha>2009-07-28T11:08:21</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5172-09</Boletin>
+    <Articulo>Inciso tercero del artículo 36, de los incisos primero y segundo del artículo 36 bis, del inciso primero del artículo 36 ter, de los incisos primero, segundo, tercero, cuarto y quinto del art´ciulo 42, todos del artículo 1°; del artículo 3° números 4) y 5); del artículo 4° y del artículo 5°, que contienen normas propias de ley orgánica constitucional.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>101</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>10256</ID>
+    <Fecha>2009-07-28T13:40:03</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2236</ID>
+      <Numero>55</Numero>
+      <Fecha>2009-07-28T11:08:21</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5172-09</Boletin>
+    <Articulo>En general con excepción de del inciso tercero del artículo 36, de los incisos primero y segundo del artículo 36 bis, del inciso primero del artículo 36 ter, de los incisos primero, segundo, tercero, cuarto y quinto del art´ciulo 42, todos del artículo 1°; del artículo 3° números 4) y 5); del artículo 4° y del artículo 5°, que contienen normas propias de ley orgánica constitucional.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>105</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

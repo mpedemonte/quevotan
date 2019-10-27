@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>29440</ID>
+    <Fecha>2018-08-13T19:51:07</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3648</ID>
+      <Numero>58</Numero>
+      <Fecha>2018-08-13T17:04:58</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10802-12</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>127</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26185</ID>
+    <Fecha>2017-09-05T13:24:31</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3526</ID>
+      <Numero>63</Numero>
+      <Fecha>2017-09-05T10:39:11</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10802-12</Boletin>
+    <Articulo>numeral 9) del artículo único que pasaría a ser numeral 10) del texto propuesto por la Comisión de Vivienda, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>65</TotalAfirmativos>
+    <TotalNegativos>21</TotalNegativos>
+    <TotalAbstenciones>14</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26184</ID>
+    <Fecha>2017-09-05T13:23:26</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3526</ID>
+      <Numero>63</Numero>
+      <Fecha>2017-09-05T10:39:11</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10802-12</Boletin>
+    <Articulo>numeral 6) del artículo único que pasaría a ser numeral 7) del texto propuesto por la Comisión de Vivienda, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>66</TotalAfirmativos>
+    <TotalNegativos>21</TotalNegativos>
+    <TotalAbstenciones>13</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26183</ID>
+    <Fecha>2017-09-05T13:22:31</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3526</ID>
+      <Numero>63</Numero>
+      <Fecha>2017-09-05T10:39:11</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10802-12</Boletin>
+    <Articulo>numeral 5) del artículo único que pasaría a ser numeral 6) del texto propuesto por la Comisión de Vivienda, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>63</TotalAfirmativos>
+    <TotalNegativos>23</TotalNegativos>
+    <TotalAbstenciones>14</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26182</ID>
+    <Fecha>2017-09-05T13:21:14</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3526</ID>
+      <Numero>63</Numero>
+      <Fecha>2017-09-05T10:39:11</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10802-12</Boletin>
+    <Articulo>numeral 4) del artículo único que pasaría a ser numeral 5) del texto propuesto por la Comisión de Vivienda, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>19</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26181</ID>
+    <Fecha>2017-09-05T13:20:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3526</ID>
+      <Numero>63</Numero>
+      <Fecha>2017-09-05T10:39:11</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10802-12</Boletin>
+    <Articulo>nuevo numeral 3) incorporado por la Comisión de Vivienda al artículo único, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>71</TotalAfirmativos>
+    <TotalNegativos>19</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26180</ID>
+    <Fecha>2017-09-05T13:18:37</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3526</ID>
+      <Numero>63</Numero>
+      <Fecha>2017-09-05T10:39:11</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10802-12</Boletin>
+    <Articulo />
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>24615</ID>
+    <Fecha>2016-11-08T18:38:19</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3419</ID>
+      <Numero>93</Numero>
+      <Fecha>2016-11-08T16:10:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>10938-05</Boletin>
+    <Articulo>observación N° 4, que agrega un nuevo artículo 49, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="5">OBSERVACIONES P. DE LA R.</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>47</TotalAfirmativos>
+    <TotalNegativos>11</TotalNegativos>
+    <TotalAbstenciones>49</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24614</ID>
+    <Fecha>2016-11-08T18:37:42</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3419</ID>
+      <Numero>93</Numero>
+      <Fecha>2016-11-08T16:10:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>10938-05</Boletin>
+    <Articulo>observaciones N° 2 y 3, que agrega una nueva letra b) al numeral 2 del artículo 30 y que agrega un nuevo artículo 44 al proyecto</Articulo>
+    <Tramite Codigo="5">OBSERVACIONES P. DE LA R.</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>50</TotalAfirmativos>
+    <TotalNegativos>6</TotalNegativos>
+    <TotalAbstenciones>53</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24613</ID>
+    <Fecha>2016-11-08T18:35:37</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3419</ID>
+      <Numero>93</Numero>
+      <Fecha>2016-11-08T16:10:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>10938-05</Boletin>
+    <Articulo>observación N° 1, que agrega un nuevo inciso primero al artículo 1°, cuya votación separada ha sido solicitada.</Articulo>
+    <Tramite Codigo="5">OBSERVACIONES P. DE LA R.</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>28</TotalNegativos>
+    <TotalAbstenciones>37</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24565</ID>
+    <Fecha>2016-11-02T13:22:53</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3415</ID>
+      <Numero>89</Numero>
+      <Fecha>2016-11-02T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10938-05</Boletin>
+    <Articulo>Nuevo inciso primero del artículo 1° incorporado por el Senado, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>0</TotalAfirmativos>
+    <TotalNegativos>97</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24564</ID>
+    <Fecha>2016-11-02T13:20:14</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3415</ID>
+      <Numero>89</Numero>
+      <Fecha>2016-11-02T10:40:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10938-05</Boletin>
+    <Articulo>Modificaciones introducidas por el Senado, con la salvedad del nuevo inciso primero del artículo 1°, cuya votación separada ha sido solicitada
+
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>0</TotalAfirmativos>
+    <TotalNegativos>97</TotalNegativos>
+    <TotalAbstenciones>12</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24522</ID>
+    <Fecha>2016-10-26T16:05:08</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3410</ID>
+      <Numero>87</Numero>
+      <Fecha>2016-10-26T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10938-05</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>59</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>37</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>11475</ID>
+    <Fecha>2010-06-15T12:45:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>2378</ID>
+      <Numero>39</Numero>
+      <Fecha>2010-06-15T11:03:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5941-07</Boletin>
+    <Articulo>frase final "y llevará las firmas de los Presidentes del Senado y de la Cámara de Diputados".
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>79</TotalAfirmativos>
+    <TotalNegativos>18</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>11474</ID>
+    <Fecha>2010-06-15T12:44:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>2378</ID>
+      <Numero>39</Numero>
+      <Fecha>2010-06-15T11:03:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5941-07</Boletin>
+    <Articulo>texto del artículo único propuesto en el informe de la Comisión de Constitución, Legislación y Justicia, con exclusión de la frase final "y llevará las firmas de los Presidentes del Senado y de la Cámara de Diputados", cuya votación separada se solicitó.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>104</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>11473</ID>
+    <Fecha>2010-06-15T12:39:32</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>2378</ID>
+      <Numero>39</Numero>
+      <Fecha>2010-06-15T11:03:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>5941-07</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

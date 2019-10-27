@@ -1,0 +1,50 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>9941-07</boletin>
+                    <titulo>Reforma constitucional que incorpora, dentro de las inhabilidades para ser candidato a diputado o senador, la circunstancia de ser juez o secretario de los juzgados de policía local.</titulo>
+                    <fecha_ingreso>18/03/2015</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Segundo trámite constitucional (Senado)</etapa>
+                    <subetapa>Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento</subetapa>
+                    <leynro></leynro>
+                    <diariooficial></diariooficial>
+                    <estado>En tramitación </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=10364&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores><autor><PARLAMENTARIO>Coloma Alamos, Juan Antonio</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Monckeberg Bruner, Cristián</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Paulsen Kehr, Diego</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Rincón González, Ricardo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Squella Ovalle, Arturo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Trisotti Martínez, Renzo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Urrutia Soto, Osvaldo</PARLAMENTARIO></autor>
+</autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>18/03/2015</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>5/363</SESION><FECHA>19/03/2015</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación y Justicia</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>04/05/2016</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>19/364</SESION><FECHA>10/05/2016</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>27/364</SESION><FECHA>01/06/2016</FECHA><DESCRIPCIONTRAMITE>Discusión general . Aprobado en general y particular a la vez  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>01/06/2016</FECHA><DESCRIPCIONTRAMITE>Oficio de ley a Cámara Revisora .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>21/364</SESION><FECHA>07/06/2016</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias></urgencias>
+<informes><informe><FECHAINFORME>06/05/2016</FECHAINFORME><TRAMITE>Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=18545&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios><oficio><NUMERO>12.587</NUMERO><FECHA>01/06/2016</FECHA><TRAMITE>Oficio de ley a Cámara Revisora</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Ley</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=21187&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+</oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>CANDIDATO A DIPUTADO</DESCRIPCION></materia>
+<materia><DESCRIPCION>CANDIDATO A SENADOR</DESCRIPCION></materia>
+<materia><DESCRIPCION>INHABILIDADES PARLAMENTARIAS</DESCRIPCION></materia>
+<materia><DESCRIPCION>JUECES DE POLICÍA LOCAL</DESCRIPCION></materia>
+<materia><DESCRIPCION>JUZGADOS DE POLICÍA LOCAL</DESCRIPCION></materia>
+<materia><DESCRIPCION>REFORMA CONSTITUCIONAL</DESCRIPCION></materia>
+<materia><DESCRIPCION>SECRETARIOS DE POLICÍA LOCAL</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>

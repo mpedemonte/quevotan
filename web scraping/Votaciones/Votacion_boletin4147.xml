@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>5146</ID>
+    <Fecha>2006-04-18T14:29:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>704</ID>
+      <Numero>14</Numero>
+      <Fecha>2006-04-18T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4147-21</Boletin>
+    <Articulo>único propuesto por la Comisión.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>108</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5145</ID>
+    <Fecha>2006-04-18T14:28:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>704</ID>
+      <Numero>14</Numero>
+      <Fecha>2006-04-18T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4147-21</Boletin>
+    <Articulo>Indicaciones al artículo único:
+1) Indicación sustitutiva del Ejecutivo, del siguiente tenor: "Artículo único.- Suspéndese la vigencia del artículo 50 A de la Ley General de Pesca y Acuicultura, que establece el reemplazo de inscripciones en el Registro Pesquero Artesanal, hasta el 30 de abril de 2007, inclusive.  Suspéndese, asimismo, la tramitación de las solicitudes de reemplazo presentadas entre la fecha de publicación de la ley N°19.849 y la de esta Ley."
+2) Indicación de los señores Fernando Meza, Jaime Quintana, Eduardo Díaz y Mario Venegas, para agregar el siguiente inciso segundo: "Lo anterior no será aplicable a la Novena Región de la Araucanía".</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>13</TotalAfirmativos>
+    <TotalNegativos>80</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>5144</ID>
+    <Fecha>2006-04-18T14:27:09</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>704</ID>
+      <Numero>14</Numero>
+      <Fecha>2006-04-18T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>4147-21</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>109</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

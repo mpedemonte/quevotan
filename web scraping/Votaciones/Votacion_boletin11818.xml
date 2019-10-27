@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>31022</ID>
+    <Fecha>2019-05-29T13:33:15</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3776</ID>
+      <Numero>31</Numero>
+      <Fecha>2019-05-29T10:33:58</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11818-25</Boletin>
+    <Articulo>nuevo artículo 6 incorporado por el Senado.</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>116</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>16</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>31021</ID>
+    <Fecha>2019-05-29T13:32:29</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3776</ID>
+      <Numero>31</Numero>
+      <Fecha>2019-05-29T10:33:58</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11818-25</Boletin>
+    <Articulo>modificaciones incorporadas por el Senado en el proyecto de ley, iniciado mensaje, que modifica el tratamiento de las penas de los delitos de robo y receptación de vehículos motorizados o de los bienes que se encuentran al interior de estos, con la salvedad del nuevo artículo 6 incorporado por el Senado, por tratar una materia propia de ley orgánica constitucional.
+</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>115</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>16</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29831</ID>
+    <Fecha>2018-11-07T13:26:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3686</ID>
+      <Numero>95</Numero>
+      <Fecha>2018-11-07T10:36:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11818-25</Boletin>
+    <Articulo>indicación renovada del diputado Raúl Leiva, de cuyo tenor dará lectura el señor Secretario: 
+Para sustituir el artículo 2 por el siguiente:
+&amp;quot;Art. 2º.- Modifíquese el D.F.L. Nº 1 de 2007 que fijo el texto refundido, coordinado y sistematizado de la ley de tránsito en el siguiente sentido:
+1) Sustitúyase el inciso final en el artículo 39 por los siguientes incisos quinto, sexto y séptimo nuevos:
+&amp;apos;Asimismo, deberá anotarse la denuncia por la apropiación de un vehículo motorizado, especificando si hubiere sido objeto de robo o hurto, a requerimiento de la autoridad policial, judicial o del Ministerio Público.
+La denuncia deberá ser incorporada dentro de las cuatro horas siguientes de efectuado el requerimiento a que se refiere el inciso precedente. La referida anotación deberá constar en los certificados de inscripciones y anotaciones vigentes del vehículo respectivo.
+La información sobre las denuncias incorporadas al registro nacional de vehículos motorizados se encontrará permanentemente a disposición del público, en las páginas web institucionales de Carabineros de Chile, de la Policía de Investigaciones de Chile o del Ministerio Público, especificando, entre otros datos, la placa patente única, el número de motor, número de chasis, color, año y las circunstancias en que fue apropiado.&amp;apos;.
+2) Incorpórese en el inciso cuarto del artículo 53 el siguiente ordinal 7) nuevo:
+&amp;apos;7. La anotación sobre denuncias por la apropiación de vehículos a que se refiere el artículo 39.&amp;apos;.&amp;quot;.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>135</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29830</ID>
+    <Fecha>2018-11-07T13:24:06</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3686</ID>
+      <Numero>95</Numero>
+      <Fecha>2018-11-07T10:36:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11818-25</Boletin>
+    <Articulo>numeral 2) del artículo 1 en los términos propuestos por la Comisión de Seguridad Ciudadana.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>42</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29829</ID>
+    <Fecha>2018-11-07T13:23:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3686</ID>
+      <Numero>95</Numero>
+      <Fecha>2018-11-07T10:36:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11818-25</Boletin>
+    <Articulo>indicación renovada de las diputadas Camila Vallejo y Gael Yeomas y del diputado Raúl Leiva, de cuyo tenor dará lectura el señor Secretario: 
+Para sustituir el numeral 2) del artículo 1 por el siguiente:
+2) Incorpórese al artículo 439 la siguiente frase tras el punto final (.), que pasa a ser seguido:
+“Por su parte, se podrá presumir intimidación al que para apropiarse u obtener la entrega o manifestación de un vehículo motorizado o las cosas ubicadas dentro del mismo, fracture sus vidrios, encontrándose personas en su interior.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>54</TotalAfirmativos>
+    <TotalNegativos>76</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29828</ID>
+    <Fecha>2018-11-07T13:21:45</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3686</ID>
+      <Numero>95</Numero>
+      <Fecha>2018-11-07T10:36:19</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11818-25</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>111</TotalAfirmativos>
+    <TotalNegativos>19</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

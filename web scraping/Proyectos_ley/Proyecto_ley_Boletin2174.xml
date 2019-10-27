@@ -1,0 +1,41 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>2174-07</boletin>
+                    <titulo>Proyecto de Ley que modifica el Código de Justicia Militar derogando, conforme a la Constitución, la integración de la Corte Suprema por el Auditor General del Ejército.</titulo>
+                    <fecha_ingreso>20/05/1998</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Tramitación terminada</etapa>
+                    <subetapa> /  </subetapa>
+                    <leynro></leynro>
+                    <diariooficial></diariooficial>
+                    <estado>Rechazado </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=342&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores><autor><PARLAMENTARIO>Aguiló Melo, Sergio</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Bustos Ramírez, Juan</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Elgueta Barrientos, Sergio</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Hales Dib, Patricio</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Letelier Morel, Juan Pablo</PARLAMENTARIO></autor>
+</autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>20/05/1998</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>25/337</SESION><FECHA>20/05/1998</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación y Justicia</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>18/06/1998</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>12/338</SESION><FECHA>01/07/1998</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>22/338</SESION><FECHA>04/08/1998</FECHA><DESCRIPCIONTRAMITE>Discusión general . Rechazado </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias></urgencias>
+<informes><informe><FECHAINFORME>18/06/1998</FECHAINFORME><TRAMITE>Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=481&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios><oficio><NUMERO>1963</NUMERO><FECHA>20/05/1998</FECHA><TRAMITE>Cuenta de primer informe de comisión</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Consulta a la Corte Suprema</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=544&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+<oficio><NUMERO>1366</NUMERO><FECHA>30/07/1998</FECHA><TRAMITE>Discusión general</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Respuesta de la Corte Suprema</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=752&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+</oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>CÓDIGO DE JUSTICIA MILITAR</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>
