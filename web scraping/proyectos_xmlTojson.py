@@ -1,31 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
-import xml.etree.ElementTree as ET
 import json
+import codecs
 import os.path
+import xmltodict
 
-for num in range(1,40):
-    a=[]
-    b=[]
+for num in range(1,12830):
     if os.path.exists("Proyectos_ley/Proyecto_ley_Boletin"+str(num)+".xml") == True:
-        arbol = ET.parse("Proyectos_ley/Proyecto_ley_Boletin"+str(num)+".xml")
-        raiz = arbol.getroot()
-        print num
-
-        for i in raiz:
-            proyectos={}
-            for j in i:
-                print "-------"
-                print j.tag
-                sub={}
-                for k in j:
-                    print k.text
-                    for m in k:
-                        print m.tag
-                    if k.text == None:
-                        sub[k.tag] = ""
-                    else:
-                        texto = k.text.encode("utf8")
-                        sub[k.tag] = texto
-                print sub
+        with open("Proyectos_ley/Proyecto_ley_Boletin"+str(num)+".xml") as fd:
+            doc = xmltodict.parse(fd.read())
+        with codecs.open("Jsons/Nproyecto_ley/Proyecto_ley_Boletin"+str(num)+".json", 'w',encoding='utf-8') as file:
+            json.dump(doc, file, ensure_ascii=False)     
