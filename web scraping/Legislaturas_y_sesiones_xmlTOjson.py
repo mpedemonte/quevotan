@@ -27,11 +27,11 @@ for i in raiz:
                         lsesion.append(n)
                 sesiones["ID_Legislatura"] = j.text.encode("UTF-8")        
                 with open('Sesiones/Sesion_'+n+'.json', 'w') as file:
-                    json.dump(sesiones, file)
+                    json.dump(sesiones, file, ensure_ascii=False)
         print lsesion
         legislaturas["Sesiones"] = lsesion 
 
 
     with open('Legislaturas/Legislatura_'+c+'.json', 'w') as file:
-        json.dump(legislaturas, file)      
+        json.dump(legislaturas, file, ensure_ascii=False)      
     
