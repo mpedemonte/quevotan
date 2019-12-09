@@ -1,59 +1,44 @@
-#!flask/bin/python
-from flask import Flask, jsonify, abort, make_response, url_for
-from pymongo import MongoClient
+# mongo.py
 
-# connect to mongo database hosted on AWS
-# the script expects the host name to be in  /etc/hosts file
-
-'''
-Set up global variables here
-'''
-mongo_server = "mongo_api"
-mongo_port = "27017"
-mongo_user = "admin"
-mongo_passwd = ":mysecretpassword@"
-connect_string = "mongodb://"+ mongo_user 
-                             + mongo_passwd 
-                             + mongo_server 
-                             + ":" 
-                             + mongo_port
+from flask import Flask
+from flask import jsonify
+from flask import request
+from flask_pymongo import PyMongo
 
 app = Flask(__name__)
 
-@app.errorhandler(404)
-def not_found(error):
-    return make_response(jsonify( { 'error': 'Notfound' } ), 404)
+app.config['MONGO_DBNAME'] = 'restdb'
+app.config['MONGO_URI'] = 'mongodb://localhost:27017/restdb'
 
+mongo = PyMongo(app)
 
-def make_public_page(page):
-    new_page = {}
-    for field in page:
-        if field == 'id':
-            new_page['uri'] = url_for('get_page', page_id = page['id'], _external = True)
-        else:
-            new_page[field] = page[field]
-    return new_page
+@app.route('/star', methods=['GET'])
+def get_all_stars():
+  star = mongo.db.stars
+  output = []
+  for s in star.find():
+    output.append({'name' : s['name'], 'distance' : s['distance']})
+  return jsonify({'result' : output})
 
+@app.route('/star/', methods=['GET'])
+def get_one_star(name):
+  star = mongo.db.stars
+  s = star.find_one({'name' : name})
+  if s:
+    output = {'name' : s['name'], 'distance' : s['distance']}
+  else:
+    output = "No such name"
+  return jsonify({'result' : output})
 
-
-@app.route('/api/v1.0/pages/<int:page_id>',methods = ['GET'])
-def get_page(page_id):
-    '''
-    Can connect otherwise exit with message
-    '''
-    try:
-        connection = MongoClient(connect_string)    # equal to > show dbs
-    except:
-        exit("Error: Unable to connect to the database") # exit with an error
-    '''
-    connect to database and pull back collections
-    '''
-    db = connection.test_database # equal to > use test_database                
-    pages = db.pages
-    page = pages.find_one({"id": int(page_id)})   <------ this pulls back a document
-    if page == None:  <---- if a null set comes back then this works great
-        abort(404)
-    return jsonify( { 'page' : make_public_page(page[0])} ) <- error says its not json
+@app.route('/star', methods=['POST'])
+def add_star():
+  star = mongo.db.stars
+  name = request.json['name']
+  distance = request.json['distance']
+  star_id = star.insert({'name': name, 'distance': distance})
+  new_star = star.find_one({'_id': star_id })
+  output = {'name' : new_star['name'], 'distance' : new_star['distance']}
+  return jsonify({'result' : output})
 
 if __name__ == '__main__':
-    app.run(debug = True)
+    app.run(debug=True)
