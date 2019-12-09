@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import Sets
 import os.path
+from fuzzywuzzy import fuzz
 
 dict1 = [Sets.Economia_fomento_y_turismo ,"Economia_fomento_y_turismo"]
 dict2 = [Sets.Desarrollo_social,"Desarrollo_social"]
@@ -22,35 +23,31 @@ dict16 = [Sets.Hacienda_y_relaciones_exteriores,"Hacienda_y_relaciones_exteriore
 diccionarios=[dict1,dict2,dict3,dict4,dict5,dict6,dict7,dict8,dict9,dict10,dict11,dict12,dict13,dict14,dict15,dict16]
 cantidad = []
 contador = 0
-for k in range(1,24):
+
+
+
+for num in range(1,24):
         for z in range(1,17):
-                if os.path.exists("palabras/boletin_sesion_"+str(k)+"-"+str(z)+".txt") == True:        
-                        archivo = open("palabras/boletin_sesion_"+str(k)+"-"+str(z)+".txt","r")
+                if os.path.exists("palabras/boletin_sesion_"+str(num)+"-"+str(z)+".txt") == True:        
+                        archivo = open("palabras/boletin_sesion_"+str(num)+"-"+str(z)+".txt","r")
                         palabras =[]
                         
                       
                         for i in archivo:
                             x = i.split("\n")
                             palabras.append(x[0])
-
                         for j in diccionarios:
                             palabras1=[]
-                            for i in palabras:
-                                cantidad=[]
-                                if i in j[0]:
-                                    if i not in palabras1:
-                                        palabras1.append(i)
-                                        contador =0
-                                        for x in palabras:
-                                            if i == x:
-                                                contador=contador+1
-                                cantidad.append(contador)
+                            for k in palabras:
+                                for l in j[0]:
+                                    if fuzz.token_sort_ratio(k,l) >= 78:
+                                        if k not in palabras1:
+                                            palabras1.append(k) 
                             if len(palabras1) >= 3 :
-                                print k,z
+                                print num,z
                                 print j[1]
                                 print palabras1
-                                print cantidad
-                        
+                            
                         
                         
                        
