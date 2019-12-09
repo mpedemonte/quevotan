@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """
 LINKS DE AYUDA PARA CREAR LA API
 
