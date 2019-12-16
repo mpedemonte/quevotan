@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>14647</ID>
+    <Fecha>2011-12-21T13:28:52</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2748</ID>
+      <Numero>124</Numero>
+      <Fecha>2011-12-21T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8010-03</Boletin>
+    <Articulo>Inciso segundo del artículo Segundo Transitorio.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>63</TotalAfirmativos>
+    <TotalNegativos>41</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>14646</ID>
+    <Fecha>2011-12-21T13:28:24</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2748</ID>
+      <Numero>124</Numero>
+      <Fecha>2011-12-21T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8010-03</Boletin>
+    <Articulo>Artículo 6° permanente.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>59</TotalAfirmativos>
+    <TotalNegativos>43</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>14645</ID>
+    <Fecha>2011-12-21T13:27:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>2748</ID>
+      <Numero>124</Numero>
+      <Fecha>2011-12-21T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8010-03</Boletin>
+    <Articulo>Del número 29) propuesto por la letra b) del numeral 1); la letra b) del inciso tercero del artículo 9° bis contenido en el numeral 2); el inciso segundo del artículo 50 A contenido en el numeral 4); el inciso primero del artículo 98, los incisos primero y segundo del artículo 99, el inciso segundo del artículo 100, el inciso primero del artículo 101 y el artículo 102, propuestos por el numeral 6), todos del artículo 5° permanente, y artículos Primero y Tercero transitorios
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>98</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>14644</ID>
+    <Fecha>2011-12-21T13:26:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2748</ID>
+      <Numero>124</Numero>
+      <Fecha>2011-12-21T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8010-03</Boletin>
+    <Articulo>El texto del proyecto, con las enmiendas introducidas por la Comisión de Pesca, Acuicultura e Intereses Marítimos, que se explicitan en el anexo del certificado emitido, con excepción de la letra b) del numeral 1); la letra b) del inciso tercero del artículo 9° bis contenido en el numeral 2); el inciso segundo del artículo 50 A contenido en el numeral 4); el inciso primero del artículo 98, los incisos primero y segundo del artículo 99, el inciso segundo del artículo 100, el inciso primero del artículo 101 y el artículo 102, propuestos por el numeral 6), todos del artículo 5° permanente, y artículos Primero y Tercero transitorios, y artículos 6° permanente y el inciso segundo del artículo segundo transitorio.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>100</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>14643</ID>
+    <Fecha>2011-12-21T13:25:34</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>2748</ID>
+      <Numero>124</Numero>
+      <Fecha>2011-12-21T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8010-03</Boletin>
+    <Articulo>Del número 29) propuesto por la letra la letra b) del numeral 1); la letra b) del inciso tercero del artículo 9° bis contenido en el numeral 2); el inciso segundo del artículo 50 A contenido en el numeral 4); el inciso primero del artículo 98, los incisos primero y segundo del artículo 99, el inciso segundo del artículo 100, el inciso primero del artículo 101 y el artículo 102, propuestos por el numeral 6), todos del artículo 5° permanente y artículos Primero y Tercero transitorios
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>14642</ID>
+    <Fecha>2011-12-21T13:24:30</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2748</ID>
+      <Numero>124</Numero>
+      <Fecha>2011-12-21T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8010-03</Boletin>
+    <Articulo>Votación general el texto del proyecto con excepción del número 29) propuesto por la letra b) del numeral 1); la letra b) del inciso tercero del artículo 9° bis contenido en el numeral 2); el inciso segundo del artículo 50 A contenido en el numeral 4); el inciso primero del artículo 98, los incisos primero y segundo del artículo 99, el inciso segundo del artículo 100, el inciso primero del artículo 101 y el artículo 102, propuestos por el numeral 6), todos del artículo 5° permanente, y artículos Primero y Tercero transitorios, por tratarse de normas de quórum calificado
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>104</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

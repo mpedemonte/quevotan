@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>24058</ID>
+    <Fecha>2016-08-10T13:35:31</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3377</ID>
+      <Numero>53</Numero>
+      <Fecha>2016-08-10T10:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>modificaciones introducidas por el Senado en los incisos sexto, séptimo, octavo y noveno del artículo 104 B contenido en el número 10) del artículo 1°, cuya votación separada ha sido solicitada</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>86</TotalAfirmativos>
+    <TotalNegativos>9</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24057</ID>
+    <Fecha>2016-08-10T13:34:51</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3377</ID>
+      <Numero>53</Numero>
+      <Fecha>2016-08-10T10:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>nuevo inciso quinto del artículo 104 B contenido en el número 10) del artículo 1°, incorporado por el Senado, cuya votación separada ha sido solicitada</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>9</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24056</ID>
+    <Fecha>2016-08-10T13:34:21</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3377</ID>
+      <Numero>53</Numero>
+      <Fecha>2016-08-10T10:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>enmiendas incorporadas por el Senado en el inciso segundo del artículo 104 B contenido en el número 10) del artículo 1°, cuya votación separada ha sido solicitada</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>12</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24055</ID>
+    <Fecha>2016-08-10T13:33:47</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3377</ID>
+      <Numero>53</Numero>
+      <Fecha>2016-08-10T10:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>Modificaciones introducidas por el Senado en el inciso primero del artículo 104 B contenido en el número 10) del artículo 1°, cuya votación separada ha sido solicitada</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>86</TotalAfirmativos>
+    <TotalNegativos>12</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24054</ID>
+    <Fecha>2016-08-10T13:33:09</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3377</ID>
+      <Numero>53</Numero>
+      <Fecha>2016-08-10T10:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>Enmiendas introducidas por el Senado en los  números 1), 2), 3), 4), 6), 7), 8), 9) y 10), con la salvedad  de las modificaciones incorporadas por el Senado en los incisos primero, segundo, nuevo inciso quinto, sexto, séptimo, octavo y noveno del artículo 104 B contenido en este número, todos del artículo 1°</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>98</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24053</ID>
+    <Fecha>2016-08-10T13:32:11</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3377</ID>
+      <Numero>53</Numero>
+      <Fecha>2016-08-10T10:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>con la salvedad de las normas que requieren quorum especial para su aprobación, las que se votarán a continuación y de las enmiendas incorporadas por el Senado en los incisos primero, segundo, nuevo inciso quinto, sexto, séptimo, octavo y noveno del artículo 104 B contenido en el número 10) del artículo 1°, cuya votación separada ha sido solicitada</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>102</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20733</ID>
+    <Fecha>2015-03-04T13:04:26</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3183</ID>
+      <Numero>124</Numero>
+      <Fecha>2015-03-04T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>Votación particular del número 1; de la letra b) del número 2; del número 4; del número 5; de la letra a) del número 6 y de los números 7, 8, 9 y 10, todos del artículo 1°
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20732</ID>
+    <Fecha>2015-03-04T13:03:54</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3183</ID>
+      <Numero>124</Numero>
+      <Fecha>2015-03-04T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>Votación particular del articulado del proyecto, con la salvedad del número 1; de la letra b) del número 2; del número 4; del número 5; de la letra a) del número 6 y de los números 7, 8, 9 y 10, todos del artículo 1°, por tratar materias propias de ley orgánica constitucional.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20731</ID>
+    <Fecha>2015-03-04T13:03:17</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3183</ID>
+      <Numero>124</Numero>
+      <Fecha>2015-03-04T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>Indicación del Ejecutivo: Para modificar el numeral 10), en el siguiente sentido: 
+
+a)	Agrégase, en la letra c) del  artículo 104 B, nuevo, después del vocablo “policial”, la expresión “territorial”.
+b) 	Incorpórase, en la letra a) del artículo 104 E, nuevo, a continuación de la palabra “información”, la frase “global y pertinente”.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20730</ID>
+    <Fecha>2015-03-04T13:02:11</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3183</ID>
+      <Numero>124</Numero>
+      <Fecha>2015-03-04T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>votación general del número 1; de la letra b) del número 2; del número 4; del número 5; de la letra a) del número 6 y de los números 7, 8, 9 y 10, todos del artículo 1°
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>20729</ID>
+    <Fecha>2015-03-04T13:01:33</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3183</ID>
+      <Numero>124</Numero>
+      <Fecha>2015-03-04T10:44:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9601-25</Boletin>
+    <Articulo>votación general del proyecto, con la salvedad del número 1; de la letra b) del número 2; del número 4; del número 5; de la letra a) del número 6 y de los números 7, 8, 9 y 10, todos del artículo 1°, por tratar materias propias de ley orgánica constitucional
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>7</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

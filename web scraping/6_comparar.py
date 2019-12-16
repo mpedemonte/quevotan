@@ -22,7 +22,6 @@ dict15 = [Sets.Defensa,"Defensa"]
 dict16 = [Sets.Hacienda_y_relaciones_exteriores,"Hacienda_y_relaciones_exteriores"]
 diccionarios=[dict1,dict2,dict3,dict4,dict5,dict6,dict7,dict8,dict9,dict10,dict11,dict12,dict13,dict14,dict15,dict16]
 cantidad = []
-contador = 0
 
 
 
@@ -38,15 +37,25 @@ for num in range(1,24):
                             palabras.append(x[0])
                         for j in diccionarios:
                             palabras1=[]
+                            contar=[]
+                            palabras2=[]
                             for k in palabras:
                                 for l in j[0]:
-                                    if fuzz.token_sort_ratio(k,l) >= 78:
+                                    contador = 0
+                                    if fuzz.token_sort_ratio(k,l) >= 75:
                                         if k not in palabras1:
-                                            palabras1.append(k) 
-                            if len(palabras1) >= 3 :
+                                            for palabra in palabras:
+                                                if k == palabra:
+                                                    contador=contador+1
+                                            if contador >=4:
+                                                palabras1.append(k)
+                                                contar.append(contador)
+                                                palabras2.append((k,contador))
+                            if len(palabras1) >= 1 :
                                 print num,z
                                 print j[1]
-                                print palabras1
+                                print contar
+                                print palabras2
                             
                         
                         

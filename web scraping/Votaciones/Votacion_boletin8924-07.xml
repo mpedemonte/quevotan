@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>29578</ID>
+    <Fecha>2018-09-12T14:17:09</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3662</ID>
+      <Numero>72</Numero>
+      <Fecha>2018-09-12T10:35:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Propuesta N° 2, que consta en las páginas 321 y 322 del informe de la Comisión Mixta.</Articulo>
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>66</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29577</ID>
+    <Fecha>2018-09-12T14:14:10</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3662</ID>
+      <Numero>72</Numero>
+      <Fecha>2018-09-12T10:35:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Propuesta N° 1, que consta en las páginas 306 a 321 del informe de la Comisión Mixta.</Articulo>
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>95</TotalAfirmativos>
+    <TotalNegativos>46</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>27005</ID>
+    <Fecha>2018-01-23T14:54:46</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>nuevo artículo 16, incorporado por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>59</TotalAfirmativos>
+    <TotalNegativos>38</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>27004</ID>
+    <Fecha>2018-01-23T14:54:05</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Resto del artículo 10 que pasaría a ser 12 en los términos propuestos por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>39</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>27003</ID>
+    <Fecha>2018-01-23T14:53:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>inciso primero del artículo 10 que pasaría a ser 12 en los términos propuestos por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>58</TotalAfirmativos>
+    <TotalNegativos>40</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>27002</ID>
+    <Fecha>2018-01-23T14:51:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Indicación renovada del diputado Jaime Bellolio para suprimir en el inciso primero del artículo 3° la siguiente frase:
+	“El ejercicio de este derecho deberá sujetarse a la cobertura del respectivo sistema de previsión de salud, conforme a lo establecido por el decreto con fuerza de ley N° 1, del Ministerio de Salud, promulgado el año 2005 y publicado el año 2006, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, y a las garantías de salud consagradas en la ley N° 19.966.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>11</TotalAfirmativos>
+    <TotalNegativos>85</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>27001</ID>
+    <Fecha>2018-01-23T14:48:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>artículo 3, que la Comisión de Derechos Humanos propone rechazar.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>38</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>27000</ID>
+    <Fecha>2018-01-23T14:27:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Indicación renovada del diputado señor Jaime Bellolio para agregar en el inciso tercero del artículo 2 que pasaría a ser 3, la siguiente frase después del punto que pasa a ser coma: “salvo que ello afecte derechos de terceros, caso en el cual el posible afectado deberá consentir en la rectificación de los documentos.”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>43</TotalAfirmativos>
+    <TotalNegativos>54</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26999</ID>
+    <Fecha>2018-01-23T14:26:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Indicación renovada del diputado señor Jaime Bellolio para suprimir en el inciso primero del artículo 2 que pasaría a ser 3, la frase “, en sus documentos de identificación y en cualquier otro instrumento público o privado, cuando éstos no coincidan con su identidad de género.”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26998</ID>
+    <Fecha>2018-01-23T14:25:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Indicación renovada del diputado señor Jaime Bellolio para agregar en el inciso primero del artículo 2 que pasaría a ser 3, a continuación de la expresión “nacimiento” pasando la coma a ser punto seguido, la siguiente frase: “Luego de que se haya llevado a cabo la rectificación, sus documentos de identificación y cualquier instrumento público o privado deberán respetar el nuevo nombre y sexo coincidente con la identidad de género.”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>100</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26997</ID>
+    <Fecha>2018-01-23T14:24:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Expresión “ mayor de edad” que la Comisión de Derechos Humanos propone suprimir en el inciso primero del artículo 2 que pasaría a ser 3.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>68</TotalAfirmativos>
+    <TotalNegativos>28</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26996</ID>
+    <Fecha>2018-01-23T14:22:48</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>resto del nuevo artículo 2 bis, incorporado por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>69</TotalAfirmativos>
+    <TotalNegativos>15</TotalNegativos>
+    <TotalAbstenciones>19</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26995</ID>
+    <Fecha>2018-01-23T14:22:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>letra a) del nuevo artículo 2 bis, incorporado por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>61</TotalAfirmativos>
+    <TotalNegativos>40</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26994</ID>
+    <Fecha>2018-01-23T14:21:31</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>resto del nuevo artículo 2, incorporado por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>69</TotalAfirmativos>
+    <TotalNegativos>32</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26993</ID>
+    <Fecha>2018-01-23T14:20:46</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Frase “Ninguna norma o procedimiento podrá limitar, restringir, excluir, suprimir o imponer otros requisitos que los contemplados por esta ley para el ejercicio de este derecho” contenida en el inciso final del nuevo artículo 2, incorporado por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>39</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26992</ID>
+    <Fecha>2018-01-23T14:19:33</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Frase “y expresión” contenida en la letra a) del inciso primero del nuevo artículo 2, incorporado por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>59</TotalAfirmativos>
+    <TotalNegativos>40</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26991</ID>
+    <Fecha>2018-01-23T14:18:47</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Frase “Se entenderá por expresión de género la manifestación externa de los rasgos culturales que permiten identificar a una persona como masculina o femenina conforme a los patrones considerados propios de cada género por una determinada sociedad en un momento histórico determinado.”, contenida en la letra a) del inciso primero del nuevo artículo 2, incorporado por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>53</TotalAfirmativos>
+    <TotalNegativos>42</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26990</ID>
+    <Fecha>2018-01-23T14:17:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Indicación renovada del diputado señor Juan Antonio Coloma, para agregar el siguiente inciso final en el artículo 2° nuevo: ”lo anterior es sin perjuicio del ejercicio legítimo de los derechos fundamentales reconocidos en la Constitución Política de la República y los tratados internacionales de derechos humanos ratificados por Chile.” </Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>59</TotalAfirmativos>
+    <TotalNegativos>29</TotalNegativos>
+    <TotalAbstenciones>15</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26989</ID>
+    <Fecha>2018-01-23T14:16:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Indicación renovada del diputado señor Jaime Bellolio para intercalar el siguiente artículo 2°, pasando los demás a ordenarse correlativamente:
+	“Artículo 2°.- Garantía derivada de la identidad de género. Toda persona tiene derecho: 
+	A ser reconocida e identificada conforme a su identidad de género, una vez realizada la rectificación que regula esta ley, en los instrumentos públicos y privados que acrediten su identidad respecto del nombre y sexo, en conformidad con lo dispuesto en esta ley. Asimismo, las imágenes, fotografías, soportes digitales, datos informáticos o cualquier otro instrumento con los que las personas figuren en los registros oficiales deberán ser coincidentes con dicha identidad. 
+	Ninguna norma o procedimiento podrá limitar, restringir, excluir, suprimir o imponer otros requisitos que los contemplados por esta ley para el ejercicio de este derecho. No será condición para ejercer el derecho a la rectificación del nombre y sexo haberse sometido a algún tipo de intervención o tratamiento modificatorio de la apariencia. Lo anterior es sin perjuicio del ejercicio legítimo de derechos fundamentales.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>86</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>13</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26988</ID>
+    <Fecha>2018-01-23T14:14:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>Indicación renovada del diputado señor José Antonio Kast: para intercalar el siguiente inciso segundo al artículo 1°:
+	“Se entenderá por identidad sexual, aquella que ha sido determinada biológicamente por los cromosomas, genitales, hormonas y cualquier otro elemento que permita reconocer la identidad biológica de una persona.  La identidad sexual puede ser hombre o mujer y será asignada al nacer.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>19</TotalAfirmativos>
+    <TotalNegativos>68</TotalNegativos>
+    <TotalAbstenciones>15</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26987</ID>
+    <Fecha>2018-01-23T14:13:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>artículo 1°, en los términos propuestos por la Comisión de Derechos Humanos.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>74</TotalAfirmativos>
+    <TotalNegativos>11</TotalNegativos>
+    <TotalAbstenciones>18</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26986</ID>
+    <Fecha>2018-01-23T14:09:48</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>inciso segundo del artículo 4 del proyecto, el artículo 6 que pasaría a ser 7 y los nuevos artículos 8 y 17 incorporados en este trámite constitucional.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>37</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26985</ID>
+    <Fecha>2018-01-23T14:08:25</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>incisos tercero, sexto y séptimo del artículo 8 que pasaría a ser 10 y el artículo 11 que pasaría a ser 13.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>37</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>26984</ID>
+    <Fecha>2018-01-23T14:07:31</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3579</ID>
+      <Numero>116</Numero>
+      <Fecha>2018-01-23T10:41:13</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>8924-07</Boletin>
+    <Articulo>con la salvedad de las normas que requieren quorum especial para su aprobación.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>68</TotalAfirmativos>
+    <TotalNegativos>35</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

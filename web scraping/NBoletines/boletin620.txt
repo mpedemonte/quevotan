@@ -1,3 +1,7 @@
-3751-10;-Informe de la Comisión de Relaciones Exteriores, sesión 69ª, en 3 de mayo de 2005. Documentos de la Cuenta Nº 14.
-3243-07;Informes de las Comisiones de Constitu-ción, Legislación y Justicia, y Especial de Seguridad Ciudadana, sesión 72ª, en 10 de mayo de 2005. Documentos de la Cuenta Nºs 9 y 10, respectivamente
-3824-13;-Informes de las Comisiones de Trabajo y Seguridad Social, y de la de Hacienda. Documentos de la Cuenta Nºs 11 y 12, de esta sesión.
+InformesdelasComisionesdeConstitu-ciónLegislación
+Justicia
+EspecialdeSeguridadCiudadanasesión72ªen10demaode2005DocumentosdelaCuentaNºs9
+10respectivamente
+SeguridadSocial
+deladeHaciendaDocumentosdelaCuentaNºs11
+12deestasesión

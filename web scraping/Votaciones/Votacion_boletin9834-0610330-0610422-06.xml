@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>25101</ID>
+    <Fecha>2016-12-21T13:24:40</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="3">REFORMA CONSTITUCIONAL 2/3</Quorum>
+    <Sesion>
+      <ID>3439</ID>
+      <Numero>113</Numero>
+      <Fecha>2016-12-21T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>13</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24608</ID>
+    <Fecha>2016-11-08T13:36:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>3418</ID>
+      <Numero>92</Numero>
+      <Fecha>2016-11-08T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo>modificación propuesta por la Comisión de Gobierno Interior para incorporar en todo el texto del proyecto, después de las expresiones “secretarios regionales” y “secretarios provinciales”, la palabra “presidenciales”,  que requiere para su aprobación del voto favorable de 71 señoras y señores diputados.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>111</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24607</ID>
+    <Fecha>2016-11-08T13:35:03</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>3418</ID>
+      <Numero>92</Numero>
+      <Fecha>2016-11-08T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo>número 15) del artículo único que pasaría a ser número 14) con las modificaciones propuestas por la Comisión de Constitución y de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>111</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24606</ID>
+    <Fecha>2016-11-08T13:33:47</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>3418</ID>
+      <Numero>92</Numero>
+      <Fecha>2016-11-08T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo>número 8) del artículo único, en los términos propuestos por el Senado y que la Comisión de Constitución propone rechazar.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>109</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24605</ID>
+    <Fecha>2016-11-08T13:30:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>3418</ID>
+      <Numero>92</Numero>
+      <Fecha>2016-11-08T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo>resto del número 5) del artículo único con las modificaciones propuestas por la Comisión de Constitución y de Gobierno Interior.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>113</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24604</ID>
+    <Fecha>2016-11-08T13:29:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>3418</ID>
+      <Numero>92</Numero>
+      <Fecha>2016-11-08T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo>letra a) del número 5) del artículo único con las modificaciones propuestas por la Comisión de Constitución, cuya votación separada ha sido solicitada.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>112</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24603</ID>
+    <Fecha>2016-11-08T13:24:44</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="3">REFORMA CONSTITUCIONAL 2/3</Quorum>
+    <Sesion>
+      <ID>3418</ID>
+      <Numero>92</Numero>
+      <Fecha>2016-11-08T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo>número 4) del artículo único, en los términos propuestos por el Senado y que la Comisión de Constitución propone rechazar.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>32</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24602</ID>
+    <Fecha>2016-11-08T13:22:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>3418</ID>
+      <Numero>92</Numero>
+      <Fecha>2016-11-08T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo>números 6), 13) que pasaría a ser 12) y 14) que pasaría a ser 13) del artículo único en los términos propuestos por el Senado y los números 1), 2), nuevo número 3), 3) que pasaría a ser 4), 7), 9) que pasaría a ser 8), 10) que pasaría a ser 9), 11) que pasaría a ser 10) y 12) que pasaría a ser 11), con las modificaciones propuestas por la Comisión de Constitución.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>4</TotalNegativos>
+    <TotalAbstenciones>26</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24601</ID>
+    <Fecha>2016-11-08T13:20:57</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="3">REFORMA CONSTITUCIONAL 2/3</Quorum>
+    <Sesion>
+      <ID>3418</ID>
+      <Numero>92</Numero>
+      <Fecha>2016-11-08T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo>número 4) del artículo único</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>111</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>24600</ID>
+    <Fecha>2016-11-08T13:20:09</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="4">REFORMA CONSTITUCIONAL 3/5</Quorum>
+    <Sesion>
+      <ID>3418</ID>
+      <Numero>92</Numero>
+      <Fecha>2016-11-08T10:42:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9834-06</Boletin>
+    <Articulo>con la salvedad del número 4) del artículo único, que requiere para su aprobación de los 2/3 de los diputados en ejercicio</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>7</TotalNegativos>
+    <TotalAbstenciones>22</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

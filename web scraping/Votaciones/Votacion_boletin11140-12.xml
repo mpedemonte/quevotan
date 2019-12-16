@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>29769</ID>
+    <Fecha>2018-10-18T12:53:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3679</ID>
+      <Numero>89</Numero>
+      <Fecha>2018-10-18T10:06:51</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11140-12</Boletin>
+    <Articulo>Indicación renovada de las diputadas Cristina Girardi y Catalina Pérez y de los diputados Félix González (Felix), y Amaro Labra:
+Para reemplazar el artículo único por el siguiente:
+“Artículo único.- Incorpórase el siguiente inciso segundo en el artículo 46 de la ley N° 19.300, sobre Bases Generales del Medio Ambiente:
+“En zonas declaradas como latentes o saturadas por contaminación, mientras no se dicten los respectivos planes de prevención y/o descontaminación, los proyectos nuevos y ampliaciones de proyectos existentes que ingresen al Sistema de Evaluación de Impacto Ambiental deberán cumplir las siguientes condiciones:
+a) Todo proyecto requerirá de la elaboración de un Estudio de Impacto Ambiental.
+b) Los proyectos que generen emisiones que representen un aporte superior al 1% de los contaminantes, en consideración a la norma ambiental establecida y a la declaración de zona correspondiente, no podrán ser admitidos a tramitación.
+c) Los proyectos comprendidos en el artículo 10, literal c), que generen energía a base de combustibles fósiles, no podrán ser admitidos a tramitación.
+d) Los organismos del Estado a cargo de la evaluación y coordinación de los procesos de evaluación de impacto ambiental deberán promover medidas y propuestas dirigidas a prevenir el detrimento de la calidad del aire.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>60</TotalAfirmativos>
+    <TotalNegativos>36</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29337</ID>
+    <Fecha>2018-07-19T12:52:11</Fecha>
+    <Tipo Codigo="3">GENERAL Y PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3640</ID>
+      <Numero>50</Numero>
+      <Fecha>2018-07-19T10:08:12</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11140-12</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>121</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

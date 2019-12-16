@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>8124</ID>
+    <Fecha>2008-05-06T12:37:43</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Capítulo segundo original (artículos 5°, 6° y 7°), contenido en el informe de la Comisión de Economía.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>48</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>23</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8123</ID>
+    <Fecha>2008-05-06T12:37:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Supresión del capítulo segundo "De los derechos y deberes de los alumnos", que comprende los artículos 5°, 6° y 7°, propuesta por la Comisión de Educación, que se encuentran reproducidos en las páginas 2 y 3 de su segundo informe.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>6</TotalAfirmativos>
+    <TotalNegativos>55</TotalNegativos>
+    <TotalAbstenciones>26</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8122</ID>
+    <Fecha>2008-05-06T12:36:11</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Inciso cuarto en la forma propuesta por la Comisión de Economía, que dice como sigue:
+"El prestador de servicios educacionales tendrá derecho al pago de los aranceles de matrícula y colegiaturas y al pago de otros ítemes libremente acordados por las partes."
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>45</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>25</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8121</ID>
+    <Fecha>2008-05-06T12:35:44</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Indicaciones de la Comisión de Educación al inciso cuarto del artículo 4° (que pasa a ser 5°), para suprimir las palabras "los aranceles de"; para sustituir la expresión "colegiaturas" por "mensualidades" y para suprimir la expresión "al pago", la segunda vez que aparece; y para agregar, a continuación del punto final que pasa ser seguido, lo siguiente:
+"En todo caso, dichos pagos serán exigibles solamente si han sido explícitamente aceptados por los apoderados, si tienen como finalidad el proceso educativo y si está definida en forma clara la utilización que se le dará a los recursos obtenidos con dichos pagos.".
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>1</TotalAfirmativos>
+    <TotalNegativos>50</TotalNegativos>
+    <TotalAbstenciones>29</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8120</ID>
+    <Fecha>2008-05-06T12:34:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Inciso primero del artículo 4° (que pasa a ser 5°) en la forma propuesta por la Comisión de Economía, del siguiente tenor:
+"Artículo 4º.- Los alumnos tendrán derecho a recibir de manera completa los servicios educacionales por los cuales han pagado, entre ellos, la realización de las actividades lectivas programadas al inicio del año escolar de manera íntegra. Siempre que por causas ajenas a la voluntad de los alumnos no se realizare una clase, ésta deberá ser recuperada dentro del horario normal de actividades educacionales."
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>24</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8119</ID>
+    <Fecha>2008-05-06T12:33:52</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Indicación de la Comisión de Educación al inciso primero del artículo 4° (que pasa a ser 5°), para eliminar la frase “Siempre que por causas ajenas a la voluntad de los alumnos no se realizare una clase, ésta deberá ser recuperada dentro del horario normal de actividades educacionales.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>1</TotalAfirmativos>
+    <TotalNegativos>50</TotalNegativos>
+    <TotalAbstenciones>33</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8118</ID>
+    <Fecha>2008-05-06T12:32:48</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Inciso primero del artículo 3°, que pasa a ser 4°, en los términos propuestos por la Comisión de Economía, del siguiente tenor:
+"En el contrato se consignará el precio por cada período anual o semestral, sin perjuicio de las cláusulas de reajustabilidad, y regirá hasta que el estudiante complete todos los cursos o asignaturas que comprende su formación. Si el prestador de servicios educacionales supeditara la permanencia de un estudiante para un nuevo año o para un nuevo semestre a la suscripción de un nuevo contrato, éste se tendrá íntegramente por no escrito, manteniéndose vigente el primer contrato que hayan acordado las partes, aún cuando en el nuevo contrato el estudiante aparezca resciliando el contrato primitivo."
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>48</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>33</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8117</ID>
+    <Fecha>2008-05-06T12:32:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Indicación de la Comisión de Educación para sustituir el inciso primero del artículo 3° de la Comisión de Economía (que pasaría a ser 4°) por el siguiente:
+"En el contrato deberá consignarse el monto del derecho de matrícula y de las colegiaturas o aranceles, así como las cláusulas de reajustabilidad, que regirán hasta el término o renovación del respectivo contrato.".
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>4</TotalAfirmativos>
+    <TotalNegativos>48</TotalNegativos>
+    <TotalAbstenciones>27</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8116</ID>
+    <Fecha>2008-05-06T12:30:54</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Inciso final del artículo 2° propuesto por la Comisión de Economía:
+"Las disposiciones contenidas en el reglamento interno de cada establecimiento educacional, formarán parte integrante del contrato de prestación de servicios educacionales que se suscriba, en todo lo que no contradiga lo dispuesto en el capítulo II de esta ley."
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>50</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>26</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8115</ID>
+    <Fecha>2008-05-06T12:30:15</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Supresión del inciso final del artículo 2°, que es del siguiente tenor:
+“Las disposiciones contenidas en el reglamento interno de cada establecimiento educacional, formarán parte integrante del contrato de prestación de servicios educacionales que se suscriba, en todo lo que no contradiga lo dispuesto en el capítulo II de esta ley.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>1</TotalAfirmativos>
+    <TotalNegativos>47</TotalNegativos>
+    <TotalAbstenciones>35</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8114</ID>
+    <Fecha>2008-05-06T12:29:02</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Inciso segundo del artículo 1° en la forma propuesta por la Comisión de Economía, que es del siguiente tenor:
+“La prestación de servicios educacionales a que hace referencia el inciso precedente consiste en la aplicación de un programa progresivo de enseñanza de conformidad a los objetivos fundamentales y contenidos mínimos obligatorios establecidos en los planes y programas oficiales de estudio o propios aprobados por el Ministerio de Educación o en la malla curricular respectiva en el caso de instituciones de educación superior, en condiciones de seguridad y bienestar para los alumnos.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>47</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>31</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8113</ID>
+    <Fecha>2008-05-06T12:28:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Indicación de la Comisión de Educación que tiene por finalidad eliminar en el inciso segundo del artículo 1°, la frase final que dice “en condiciones de seguridad y bienestar para los alumnos”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>10</TotalAfirmativos>
+    <TotalNegativos>47</TotalNegativos>
+    <TotalAbstenciones>22</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>8112</ID>
+    <Fecha>2008-05-06T12:27:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2045</ID>
+      <Numero>24</Numero>
+      <Fecha>2008-05-06T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo>Modificaciones introducidas por la Comisión de Educación, con excepción de las recaídas en la frase final del inciso segundo del artículo 1°, en el inciso final del artículo 2°, en el inciso primero del artículo 3°, en el inciso primero del artículo 4°, en el inciso cuarto del mismo artículo y en los artículos 5°, 6° y 7°.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>52</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>23</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>7358</ID>
+    <Fecha>2007-10-16T13:22:24</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>1964</ID>
+      <Numero>90</Numero>
+      <Fecha>2007-10-16T11:08:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>2862-04</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>60</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>28</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

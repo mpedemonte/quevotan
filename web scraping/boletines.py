@@ -24,7 +24,7 @@ for i in range(1,3816):
             text = text.replace("\n","")
             text = text.replace("BOLETINES NOS ","")
             text = text.replace("NOS ","")
-            text = text.replace("BOLETÍN N° ","")
+            text = text.replace("BOLETÝN N° ","")
             text = text.replace("N° ","")
             text = text.replace("° ","")
             text = text.replace("Nº ","")
@@ -40,7 +40,7 @@ for i in range(1,3816):
                 if len(a[0])>5:
                     a[0]=""
                 if a[0] != "":
-                    b.append(a[0])
+                    b.append(j)
      
         print b
         if len(b)!=0:

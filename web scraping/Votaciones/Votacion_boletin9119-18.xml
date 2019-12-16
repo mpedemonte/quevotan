@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>30953</ID>
+    <Fecha>2019-05-08T15:52:11</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para reemplazar el artículo 3° transitorio por el siguiente:
+“Artículo 3º transitorio.- Organismos acreditados nacionales y autorizados extranjeros. Se entenderá concedida la acreditación o autorización indicadas en los artículos 6° y 7° de esta ley, a los organismos nacionales o extranjeros que a la fecha de su entrada en vigencia, ejecuten programas de adopción o actúen como intermediarios en materia de adopción internacional de niñas, niños y adolescentes, en su caso.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>81</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30952</ID>
+    <Fecha>2019-05-08T15:50:54</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para sustituir el artículo 74, que ha pasado a ser 75, por el siguiente:
+“Artículo 75.- Reglamento. Un reglamento dictado por el Ministerio de Justicia y Derechos Humanos establecerá:
+a) La regulación de los subprogramas de adopción en conformidad a lo establecido en el artículo 5° inciso segundo de la presente ley. 
+b) El procedimiento para la concesión, denegación, suspensión, revocación, y renovación de la acreditación o autorización de los organismos acreditados nacionales y de los organismos autorizados extranjeros. 
+Sin perjuicio de lo anterior, los actos de concesión, denegación, suspensión, revocación, o renovación señalados precedentemente, se dispondrán por resolución fundada del Director o Directora Nacional del Servicio.
+c) Las características y funcionamiento de los Registros actualizados que debe mantener el Servicio en conformidad al artículo 9° de esta ley.
+d) El procedimiento de certificación de poseer las condiciones generales para la adopción de un niño, niña o adolescente a que se refiere el artículo 39, así como la reclamación en caso de disconformidad con los resultados de la evaluación efectuada en el mismo. 
+Además, deberá regular la forma de emisión y la vigencia de los certificados otorgados en el procedimiento precedentemente señalado.
+e) Las actividades que considera el proceso de búsqueda de orígenes en conformidad al artículo 69.
+f) Cualquier otro aspecto necesario para la correcta aplicación de la presente ley.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>86</TotalAfirmativos>
+    <TotalNegativos>55</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30951</ID>
+    <Fecha>2019-05-08T15:48:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>inciso tercero del artículo 73.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>86</TotalAfirmativos>
+    <TotalNegativos>54</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30950</ID>
+    <Fecha>2019-05-08T15:47:33</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo: para reemplazar el artículo 68, que ha pasado a ser 69, por el siguiente:
+“Artículo 69.- Búsqueda de orígenes. Las personas mayores de 14 años de edad interesadas en iniciar un proceso de vinculación con su familia de origen, deberán ser asesoradas por el organismo acreditado que intervino en la adopción, el Servicio u otro en subsidio. 
+En caso de tratarse de adopciones internacionales, también podrá intervenir la autoridad competente del Estado de recepción que actuó como intermediario.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>112</TotalAfirmativos>
+    <TotalNegativos>27</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30949</ID>
+    <Fecha>2019-05-08T15:46:16</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 67 en los términos aprobados en la Comisión de Familia y Adulto Mayor. </Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>70</TotalAfirmativos>
+    <TotalNegativos>71</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30948</ID>
+    <Fecha>2019-05-08T15:45:24</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para reemplazar el artículo 67, que ha pasado a ser 68, por el que sigue:
+“Artículo 68.- Información sobre el proceso de adopción y acceso a copias. Aquellas personas cuya filiación es adoptiva de acuerdo a lo informado por el Registro Civil, tendrán derecho a acceder al expediente de su adopción y obtener copias del mismo, de acuerdo a lo prescrito en las siguientes reglas:
+a) Respecto de los adoptados que a la fecha de solicitud sean mayores de edad, lo podrán solicitar, directamente o debidamente representados, al Registro Civil.
+b) Respecto de los adoptados que a la fecha de solicitud sean mayores de 14 años y no hayan alcanzado la mayoría de edad, lo podrán solicitar debidamente representados por el Servicio o un organismo acreditado nacional.
+Excepcionalmente, en casos que exista un interés legítimo, podrán otorgarse copias del expediente de adopción a otros ascendientes del adoptado o sus descendientes, por resolución judicial dictada en un procedimiento no contencioso ante el tribunal con competencia en materia de familia del domicilio del interesado. En este caso, se requerirá la citación del adoptado mayor de edad, a menos que por motivos calificados se establezca lo contrario.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>81</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30947</ID>
+    <Fecha>2019-05-08T15:42:50</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para reemplazar el artículo 66, que ha pasado a ser 67, por el siguiente:
+“Artículo 67.- Información sobre la adopción. Cualquier persona mayor de 14 años, actuando por sí o representada por el Servicio o un organismo nacional acreditado, podrá solicitar al Registro Civil que le informe si su filiación es resultado de una adopción. En tal caso, se le deberá indicar la individualización del proceso judicial respectivo.
+Para los efectos de lo dispuesto en el presente artículo, el Estado, a través del Registro Civil, garantizará la conservación de la información relativa a la identidad de la familia de origen y demás antecedentes vinculados a la adopción.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>79</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30946</ID>
+    <Fecha>2019-05-08T15:40:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para sustituir el artículo 62 que pasa a ser 63, por el que a continuación se indica:
+“Artículo 63.- Trámites postadoptivos. El o los adoptantes deberán cumplir con los trámites postadoptivos previstos por la legislación del Estado de origen. Serán asesorados para ello por el Servicio o el organismo acreditado patrocinante.
+Asimismo, deberán facilitar la información, documentación, entrevistas y visitas domiciliarias que se requieran para la emisión de los informes de seguimiento postadoptivo exigidos por el Estado de origen, antecedentes que deberán ponerse en conocimiento del Servicio.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>77</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30945</ID>
+    <Fecha>2019-05-08T15:39:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 61.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>140</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30944</ID>
+    <Fecha>2019-05-08T15:38:25</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 60.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>141</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30943</ID>
+    <Fecha>2019-05-08T15:37:32</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para sustituir el artículo 59, que ha pasado a ser 60, por el siguiente:
+“Artículo 60.- Solicitud de adopción de niños, niñas o adolescentes residentes en el extranjero. Las personas con residencia en Chile que deseen adoptar a un niño, niña o adolescente con residencia en el exterior, deberán presentar su solicitud ante el Servicio, o ante un organismo acreditado nacional que haya obtenido autorización para operar en el Estado de origen, con el objeto que se evalúen sus condiciones generales para la adopción y se les proporcione orientación y apoyo de acuerdo a la legislación de dicho Estado, cumpliendo las demás disposiciones del Convenio.
+Si la solicitud se realiza ante un organismo acreditado nacional, la propuesta de asignación que este haga, deberá ser previamente autorizada por la autoridad central chilena.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>80</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30942</ID>
+    <Fecha>2019-05-08T15:35:44</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 58.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>142</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30941</ID>
+    <Fecha>2019-05-08T15:34:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 57.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>138</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30940</ID>
+    <Fecha>2019-05-08T15:33:56</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 56 en los términos aprobados en la Comisión de Familia y Adulto Mayor.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>68</TotalAfirmativos>
+    <TotalNegativos>72</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30939</ID>
+    <Fecha>2019-05-08T15:32:42</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación renovada del Ejecutivo: para sustituir el artículo 56, que ha pasado a ser 57, por el siguiente:
+“Artículo 57.- Tramitación de la adopción. Una vez efectuada la asignación del niño, niña o adolescente declarado adoptable a los postulantes residentes en el extranjero que posean las condiciones generales para la adopción de un niño, niña o adolescente de acuerdo a la certificación efectuada  por el Servicio o por un organismo acreditado nacional, la adopción será tramitada ante el tribunal con competencia en materia de familia del domicilio del niño, niña o adolescente, de acuerdo al procedimiento regulado en el Título III de esta ley, con las modificaciones que a continuación se indican:
+a) En el caso de los postulantes, deberá tenerse a la vista la documentación exigida por el artículo 56 anterior.
+b) La identidad de los postulantes podrá acreditarse mediante un certificado otorgado por el Consulado de Chile en el país respectivo, sujeto, en todo caso, a ratificación ante el tribunal, una vez que éstos comparezcan personalmente a la audiencia preparatoria.
+c) La solicitud de adopción deberá ser patrocinada por el Servicio o un organismo acreditado nacional.
+d) El tribunal podrá autorizar que el niño, niña o adolescente que se pretende adoptar quede al cuidado personal de los solicitantes, de conformidad al artículo 28, sin que pueda salir del territorio nacional, salvo autorización judicial. 
+e) En caso que dos o más niños, niñas o adolescentes que se encuentren en situación de ser adoptados sean hermanos, se procurará que los adopten las mismas personas. Si ello no fuere posible, el juez intentará establecer un régimen comunicacional que permita mantener el vínculo entre ellos.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30938</ID>
+    <Fecha>2019-05-08T15:30:01</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para sustituir el artículo 55, que ha pasado a ser 56, por el siguiente:
+“Artículo 56.- De la postulación a adopción. La postulación a adopción deberá ser patrocinada por la autoridad competente del Estado de recepción.
+La postulación en Chile será presentada ante el Servicio o un organismo acreditado nacional, acompañada de los antecedentes que a continuación se señalan, debidamente apostillados, autenticados, autorizados o legalizados, según corresponda y traducidos al español, en su caso:
+a) Certificación de poseer las condiciones generales para la adopción de un niño, niña o adolescente emitido por la autoridad competente del Estado de recepción, de conformidad al Convenio y los demás tratados internacionales ratificados por Chile y que se encuentren vigentes. 
+b) Certificado de la autoridad de inmigración del Estado de recepción, en que consten los requisitos que el niño, niña o adolescente adoptado debe cumplir para ingresar al mismo.
+c) Certificado en que conste la legislación vigente respecto de la forma de adquirir la nacionalidad de los adoptantes, por parte del niño, niña o adolescente, o del actual Estado de residencia de éstos, si es que residen en un país distinto al de su origen.
+d) Copia de los documentos de identificación de los postulantes, obtenidos en su país de origen o residencia.
+e) Certificados de nacimiento de los postulantes.
+f) Informe social emitido por la autoridad competente del Estado de residencia de los postulantes.
+g) Informe psicológico otorgado por la autoridad competente del Estado de residencia de los postulantes, conforme a los lineamientos técnicos emanados del Servicio. 
+h) Certificados que comprueben la salud física de los postulantes, descartando la presencia de patologías que sean incompatibles o dificulten la crianza de un niño, niña o adolescente...</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30937</ID>
+    <Fecha>2019-05-08T15:25:04</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para sustituir el artículo 54, que ha pasado a ser 55, por el que a continuación se señala:
+“Artículo 55.- Requisitos de los postulantes. Sólo podrá otorgarse la adopción de que trata este Párrafo a las personas no residentes en Chile, sean nacionales o extranjeras, que reúnan los requisitos establecidos en el artículo 38 de esta ley.
+La certificación de poseer las condiciones generales para la adopción de un niño, niña o adolescente, deberá ser efectuada tanto por la autoridad competente del Estado de recepción, como por el Servicio u organismo acreditado nacional. Se entenderá por autoridad competente del Estado de recepción, a la autoridad central del mismo o al organismo autorizado extranjero, según lo disponga la legislación de dicho Estado.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>85</TotalAfirmativos>
+    <TotalNegativos>54</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30936</ID>
+    <Fecha>2019-05-08T15:22:38</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 53.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>141</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30935</ID>
+    <Fecha>2019-05-08T15:21:58</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 52.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>138</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30934</ID>
+    <Fecha>2019-05-08T15:21:12</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 51.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>138</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30933</ID>
+    <Fecha>2019-05-08T15:20:26</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para reemplazar el artículo 46, que ha pasado a ser 47, por el que sigue:
+“Artículo 47.- Sentencia de adopción. La sentencia que acoja la adopción ordenará: 
+1. Que se remitan los antecedentes a la Oficina del Registro Civil del domicilio de los adoptantes, a fin de que se practique una nueva inscripción de nacimiento del adoptado como hijo de los adoptantes.  Esta inscripción deberá efectuarse a requerimiento de uno o ambos adoptantes o por un tercero a su nombre. 
+La nueva inscripción de nacimiento del adoptado contendrá las indicaciones que señala el artículo 31 del artículo 3° del D.F.L. N° 1, del año 2000, del Ministerio de Justicia, que Fija el texto refundido, coordinado y sistematizado de la Ley sobre Registro Civil. 
+2. Que se cancele la antigua inscripción de nacimiento del adoptado, tomándose las medidas administrativas conducentes a mantener en reserva su anterior identidad.
+3. Que se oficie al Servicio, a fin que proceda a eliminar al adoptado y los adoptantes de los registros a que se refiere el artículo 9° letras a) y b), y proceda a inscribirlos en el registro del artículo 9° letra c).
+4. Que el Registro Civil oficie al Ministerio de Educación, una vez practicada la nueva inscripción de nacimiento, a fin de que se eliminen del registro curricular los antecedentes relativos a la filiación de origen del niño, niña o adolescente adoptado y se incorpore en su reemplazo su nueva identidad, sin que puedan vincularse ambas, atendida la reserva de la adopción.
+5. Que el Registro Civil oficie al Ministerio de Salud, una vez practicada la nueva inscripción de nacimiento, para que los antecedentes de la ficha clínica y Registro de vacunación del niño, niña o adolescente adoptado, relativos a su filiación de origen, sean remitidos a dicha Secretaría de Estado y reemplazados por aquellos correspondientes a su nueva identidad, conservando la información médica...</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>88</TotalAfirmativos>
+    <TotalNegativos>53</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30932</ID>
+    <Fecha>2019-05-08T15:15:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 45 en los términos aprobados en la Comisión de Familia y Adulto Mayor.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>50</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30931</ID>
+    <Fecha>2019-05-08T15:14:26</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Artículo 45 con la siguiente indicación parlamentaria renovada: para intercalar en el artículo 45 entre las frases “ambiente familiar” y “que le brinde afecto”, lo siguiente: “(,) preferentemente matrimonial (,)”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>54</TotalAfirmativos>
+    <TotalNegativos>85</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30930</ID>
+    <Fecha>2019-05-08T15:13:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación renovada del Ejecutivo: para reemplazar el artículo 41, que ha pasado a ser 42, por el siguiente:
+“Artículo 42.- Requisitos de la solicitud de adopción. El procedimiento se iniciará a solicitud del o los adoptantes, o del Servicio o de un organismo acreditado nacional.
+La solicitud debe contener la individualización completa de los solicitantes y un domicilio idóneo para efectos de notificación.
+Asimismo, deberán acompañarse los siguientes antecedentes:
+a) Copia auténtica de la inscripción de nacimiento del niño, niña o adolescente que se pretende adoptar.
+b) Copia autorizada de la resolución judicial ejecutoriada que declara adoptable al niño, niña o adolescente.
+c) Certificado que dé cuenta de que el o los solicitantes poseen las condiciones necesarias para la adopción del niño, niña o adolescente de que se trate, emitido por un organismo acreditado o por el Servicio, de conformidad a lo establecido en el artículo 39.
+Si los solicitantes no tienen el cuidado del niño, niña o adolescente, podrán requerirlo conjuntamente con la solicitud de adopción. Dicha solicitud será resuelta por el tribunal en la audiencia preparatoria o en la audiencia de juicio.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30929</ID>
+    <Fecha>2019-05-08T15:11:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>letra f) del artículo 38 en los términos aprobados en la Comisión de Familia y Adulto Mayor.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30928</ID>
+    <Fecha>2019-05-08T15:10:31</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación parlamentaria renovada: para reemplazar la letra f) del artículo 38 por lo siguiente: 
+	“f) Tratándose de dos postulantes relacionados entre sí, se deberá considerar la estabilidad y antigüedad de su relación, su actuar de consuno, y, especialmente, la existencia de un ambiente familiar, preferentemente matrimonial, donde se pueda ejercer adecuadamente el rol de padre y madre.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>55</TotalAfirmativos>
+    <TotalNegativos>77</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30927</ID>
+    <Fecha>2019-05-08T15:08:45</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 38 en los términos aprobados en la Comisión de Familia y Adulto Mayor, con la excepción de su letra f).</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>86</TotalAfirmativos>
+    <TotalNegativos>54</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30926</ID>
+    <Fecha>2019-05-08T15:07:39</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para reemplazar el artículo 38, que ha pasado a ser 39, por el siguiente:
+“Artículo 39.- Certificación de poseer las condiciones generales para la adopción de un niño, niña o adolescente. El procedimiento de postulación para obtener la certificación de poseer las condiciones generales para la adopción de un niño, niña o adolescente, se inicia con la solicitud del o los interesados en adoptar, ante el Servicio o ante un organismo acreditado nacional. En ningún caso la solicitud podrá hacerse por más de dos personas conjuntamente.
+Dicha certificación será efectuada por el Servicio o el organismo acreditado nacional respectivo y requerirá de la evaluación técnica y jurídica que se realice a quienes postulen a adoptar a un niño, niña o adolescente, considerando en ella sus condiciones generales para desempeñar la parentalidad adoptiva, debiendo resguardar siempre el interés superior del niño, niña o adolescente. Esta evaluación deberá ser realizada por profesionales expertos en el área de adopción y velará por el derecho del niño, niña o adolescente a vivir y desarrollarse en un ambiente familiar que le brinde afecto y protección y le procure los cuidados tendientes a satisfacer sus necesidades espirituales y materiales. La evaluación deberá tener en consideración al menos, los siguientes criterios:
+a) Condiciones de vida para el ejercicio de la parentalidad adoptiva, tales como aquellas referidas a su vida laboral, habitacional, socio-económica, previsional.
+b) Vínculos que mantiene con su red sociofamiliar y redes de apoyo.
+c) Consideraciones respecto de su salud física y mental, capacidades socioafectivas e historia vincular de apego.
+d) Potencial para la parentalidad adoptiva, entendiéndose por tal el conjunto de capacidades para asumir el cuidado, protección y crianza de un niño, niña o adolescente adoptivo...</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>63</TotalAfirmativos>
+    <TotalNegativos>78</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30925</ID>
+    <Fecha>2019-05-08T15:02:55</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para sustituir el artículo 36, que ha pasado a ser 37, por el siguiente:
+“Artículo 37.- Guardadores que soliciten adopción. Dentro de las personas a que se refiere el artículo anterior, excepcionalmente deberá considerarse al guardador o guardadores de un programa de acogimiento familiar cuando solicite la adopción de un niño, niña o adolescente sujeto a su cuidado, siempre y cuando se cumplan los siguientes requisitos:
+a) Que el niño, niña o adolescente que se pretende adoptar no fuere el primero respecto de los cuales el o los guardadores solicitantes ejerciesen su guarda.
+b) Que el guardador o los guardadores solicitantes hubieren tenido al niño, niña o adolescente bajo su guarda por un plazo ininterrumpido de, a lo menos, 18 meses. 
+c) Que se efectúe, por el Servicio o un organismo acreditado nacional, una evaluación de la familia de acogida. Dicha evaluación deberá, al menos, dar cuenta de la situación legal, física, sicológica, médica y social del niño, niña o adolescente y el desempeño de la guarda por el o los guardadores solicitantes.
+d) Que se efectúe la certificación de poseer las condiciones generales para la adopción de un niño, niña o adolescente a que se refiere el artículo 39.
+Por motivos calificados, el juez podrá prescindir del requisito contemplado en la letra a) del inciso anterior, cuando así lo exigiere el interés superior del niño, niña o adolescente, de lo cual deberá dejar constancia expresa y fundada en la sentencia.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>84</TotalAfirmativos>
+    <TotalNegativos>54</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30924</ID>
+    <Fecha>2019-05-08T15:00:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>inciso primero del artículo 34 en los términos aprobados en la Comisión de Familia y Adulto Mayor.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>113</TotalAfirmativos>
+    <TotalNegativos>22</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30923</ID>
+    <Fecha>2019-05-08T14:59:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Inciso primero del artículo 34 con la siguiente indicación parlamentaria renovada: para reemplazar en el inciso primero del artículo 34 la palabra “amparar” por la palabra “restituir”.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>59</TotalAfirmativos>
+    <TotalNegativos>73</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30922</ID>
+    <Fecha>2019-05-08T14:58:32</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para reemplazar el artículo 32, que ha pasado a ser 33, por el que a continuación se indica: 
+“Artículo 33.- Audiencia de ratificación. En esta audiencia, la madre, el padre o ambos, según corresponda, podrán ratificar su voluntad de entregar al niño o niña en adopción y el tribunal resolverá con el mérito de esta declaración y del informe que haya emitido y presente en la audiencia el Servicio o el organismo acreditado nacional que sea parte de la solicitud, y que dé cuenta del proceso de orientación y apoyo brindado a la madre, padre o ambos, a fin de garantizar que su decisión ha sido tomada en forma libre, informada y responsable. 
+En caso de no asistir a la audiencia de ratificación la madre, padre o ambos, y constando que han sido debidamente emplazados, se les considerará rebeldes por el solo ministerio de la ley.
+Excepcionalmente, si la madre o el padre que no hubiere manifestado su voluntad en la solicitud que dio inicio a este procedimiento hubiere fallecido o estuviere imposibilitado de manifestar su voluntad, el tribunal podrá citar a la audiencia de ratificación a sus ascendientes hasta el segundo grado de consanguinidad, quienes podrán deducir oposición. Si no se deduce oposición, el tribunal resolverá en la audiencia de ratificación, en tanto cuente con el informe o los informes a que se refiere el inciso primero.
+En caso de oposición del otro padre o madre o de los ascendientes hasta el segundo grado de consanguinidad en el caso previsto en el inciso anterior, se aplicará el procedimiento contemplado en el párrafo 2° de este Título.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30921</ID>
+    <Fecha>2019-05-08T14:55:02</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para incorporar el siguiente artículo 32, nuevo, pasando el actual artículo 32 a ser 33 y así sucesivamente, adecuándose también todas las referencias numéricas cuando corresponda:
+“Artículo 32.- Manifestación previa al nacimiento. La manifestación a que se refiere el inciso primero del artículo 30 podrá ser efectuada ante el tribunal que corresponda antes del nacimiento del niño o niña. 
+Recibida la manifestación de entrega voluntaria, el tribunal ordenará la realización de la audiencia preliminar a la que se refiere el artículo anterior. Luego de efectuarse dicha audiencia, se dispondrá la suspensión del procedimiento hasta después del nacimiento del niño o niña.
+En estos casos, necesariamente uno de los manifestantes deberá ser la madre. En caso contrario, el tribunal no admitirá a tramitación solicitud alguna.
+Una vez ocurrido el nacimiento, y en un plazo no superior a diez días hábiles, el o los solicitantes deberán acompañar al tribunal un certificado de nacimiento en original del niño o niña. Acompañado dicho documento, el tribunal citará al o los solicitantes, y al padre no solicitante, si lo hubiere, a la audiencia de ratificación de que trata el artículo siguiente, en conformidad a lo dispuesto en el numeral 2) del artículo 31.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>81</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30920</ID>
+    <Fecha>2019-05-08T14:52:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada: para sustituir el artículo 30 por el siguiente: 
+Artículo 30.- Entrega voluntaria. Tratándose del niño o niña cuya madre, padre o ambos manifiesten voluntariamente su intención de entregarlo con fines de adopción, el procedimiento sólo podrá iniciarse después del nacimiento del niño o niña, con la declaración realizada ante el tribunal, en la que se manifieste su voluntad libre y espontánea en tal sentido. La madre, el padre o ambos deberán comparecer ante el tribunal, debidamente patrocinados por el Servicio o por un organismo acreditado nacional, quienes además, les brindarán la asesoría, orientación y apoyo profesional.
+Sea que la madre o el padre hayan sido asesorados por un programa de adopción, con anterioridad a su declaración de voluntad, o que sean derivados luego de ella, el Servicio o el organismo acreditado nacional que otorgó la orientación y apoyo profesional, deberá hacerse parte en la respectiva causa. Para estos efectos, el Servicio o el organismo acreditado nacional respectivo, deberá confeccionar el informe al que se refiere el inciso 1° del artículo 33, y ofrecerlo en la audiencia de ratificación.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>80</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30919</ID>
+    <Fecha>2019-05-08T14:50:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada:para reemplazar el artículo 29 por el siguiente:
+“Artículo 29.- Oportunidad para el inicio del procedimiento de adopción. Encontrándose firme y ejecutoriada la sentencia que declara la adoptabilidad del niño, niña o adolescente, el Servicio o los organismos acreditados nacionales, deberán presentar la solicitud para iniciar los procedimientos de adopción de que trata esta ley en un plazo máximo de 3 meses contados desde la fecha de aquélla, prorrogables por otros 3 por resolución judicial en base a un informe que deberá emitir el Servicio o el respectivo organismo acreditado nacional. 
+En caso que no se presente dicha solicitud dentro de la oportunidad señalada en el inciso anterior, el tribunal certificará inmediatamente ese hecho y de oficio ordenará al Servicio o al organismo nacional acreditado que hubiera sido parte en el procedimiento de adoptabilidad, que presente la solicitud a que se refiere el artículo 42 de esta ley, bajo apercibimiento de archivo de la causa de adoptabilidad.
+En el caso de lo dispuesto en el inciso anterior, el tribunal dispondrá de oficio la remisión de la resolución que ordena el archivo de la causa al Director Nacional del Servicio para los fines correspondientes, en conformidad a la ley.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>80</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30918</ID>
+    <Fecha>2019-05-08T14:48:59</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>inciso tercero del artículo 28.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>75</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30917</ID>
+    <Fecha>2019-05-08T14:48:11</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>oración “En ningún caso la solicitud podrá hacerse por más de dos personas conjuntamente”, contenida en el inciso primero del artículo 28.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>78</TotalAfirmativos>
+    <TotalNegativos>60</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30915</ID>
+    <Fecha>2019-05-08T14:47:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 28 en los términos aprobados en la Comisión de Familia y Adulto Mayor, con exclusión de la última oración del inciso primero y del inciso tercero.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>41</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30914</ID>
+    <Fecha>2019-05-08T14:46:05</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación renovada del Ejecutivo: para reemplazar el artículo 28 por el siguiente:
+Artículo 28.- Cuidado personal posterior a la sentencia que declara la adoptabilidad. Una vez ejecutoriada la sentencia de adoptabilidad, el o los solicitantes que cumplan con los requisitos legales y que hayan sido seleccionados por el Servicio o por los organismos acreditados, según corresponda, como alternativa de familia adoptiva para el niño, niña o adolescente, podrán requerir su cuidado personal. En ningún caso la solicitud podrá hacerse por más de dos personas conjuntamente.
+	Junto con la solicitud a que se refiere el inciso anterior, los solicitantes deberán acompañar un informe evacuado por el Servicio o el organismo acreditado, según corresponda, que contenga los antecedentes que permitan justificar la selección del o los solicitantes como alternativa de familia adoptiva, teniendo especialmente en consideración respecto del niño, niña o adolescente y del o los solicitantes los criterios señalados en los artículos 46 inciso segundo, y 39 inciso segundo, todos de la presente ley. 
+	Dicho informe deberá además señalar con claridad, tratándose de dos solicitantes vinculados entre sí, las consideraciones referidas a la estabilidad y antigüedad de su relación, y su actuar de consuno, que permita asegurar cumplir con los fines de la adopción previstos en esta ley.
+	Para los efectos de la selección a que se refiere el inciso primero y el informe a que se refiere el inciso segundo, se considerará especialmente la existencia de un ambiente familiar donde se pueda ejercer adecuadamente el rol de padre y madre, resguardando siempre el interés superior del niño, niña o adolescente.
+	Presentada la solicitud, el tribunal podrá acogerla de plano, o rechazarla de plano, si no se acompañaren los antecedentes señalados en los incisos anteriores. Estas resoluciones serán reponibles dentro de tercero día...
+	</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>63</TotalAfirmativos>
+    <TotalNegativos>73</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30913</ID>
+    <Fecha>2019-05-08T14:41:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>letra b) del artículo 21 con la siguiente indicación parlamentaria renovada: para agregar a la letra b) del artículo 21 el siguiente nuevo inciso final: 
+“Si el niño, niña o adolescente manifiesta su voluntad de tener un padre y una madre, el juez deberá dejar expresa constancia de ello.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>75</TotalAfirmativos>
+    <TotalNegativos>52</TotalNegativos>
+    <TotalAbstenciones>14</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30912</ID>
+    <Fecha>2019-05-08T14:38:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>frase “o con quien tenga una relación de convivencia” contenida en la letra e) del artículo 13.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>69</TotalAfirmativos>
+    <TotalNegativos>68</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30911</ID>
+    <Fecha>2019-05-08T14:37:07</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>letra e) del artículo 13, con exclusión de la frase “o con quien tenga una relación de convivencia” contenida en ella.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>139</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30910</ID>
+    <Fecha>2019-05-08T14:36:13</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación parlamentaria renovada: para agregar en el artículo 11 el siguiente inciso final:
+“Si el niño, niña o adolescente manifiesta su voluntad de tener un padre y una madre, el juez deberá considerarlo en forma preferente.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>14</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30907</ID>
+    <Fecha>2019-05-08T14:33:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación parlamentaria renovada: para sustituir el artículo 9 por el siguiente: 
+“Artículo 9.- Registros.  El Servicio deberá mantener a lo menos, los siguientes registros:
+a) Registro de personas declaradas adoptables.
+b) Registro de personas que poseen certificación de contar con condiciones generales para la adopción de un niño, niña o adolescente, distinguiendo entre aquellos que tengan residencia en Chile y las que residan en el extranjero.
+c) Registro de personas a quienes se les haya rechazado previamente una solicitud de adopción, por no contar con condiciones generales para la adopción de un niño o adolecente.
+d) Registro de adopciones otorgadas.
+e) Registro de organismos acreditados nacionales y de organismos autorizados extranjeros.
+Los Registros deberán ser actualizados permanentemente.”.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>75</TotalAfirmativos>
+    <TotalNegativos>66</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30906</ID>
+    <Fecha>2019-05-08T14:31:34</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación del Ejecutivo renovada:
+Para reemplazar el artículo 8 por el siguiente:
+Artículo 8°.- Facultad de hacerse parte. El Servicio y los organismos acreditados nacionales podrán hacerse parte en todos los procedimientos judiciales de conformidad a esta ley, en defensa de los derechos del niño, niña o adolescente. Esta facultad podrá ejercerse hasta que produzca efectos la adopción y, con posterioridad, sólo para intervenir en el juicio de nulidad de la misma.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>74</TotalAfirmativos>
+    <TotalNegativos>69</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30905</ID>
+    <Fecha>2019-05-08T14:30:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 7</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>142</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30904</ID>
+    <Fecha>2019-05-08T14:29:39</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 6</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>58</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30903</ID>
+    <Fecha>2019-05-08T14:28:51</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 4</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>139</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30902</ID>
+    <Fecha>2019-05-08T14:28:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 3 en los términos aprobados en la Comisión de Familia y Adulto Mayor.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>129</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30901</ID>
+    <Fecha>2019-05-08T14:26:56</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>Indicación parlamentaria renovada: Para sustituir el artículo 3º por el siguiente: 
+“Artículo 3°.- Características y legislación aplicable. La adopción es una institución de orden público, pura y simple e irrevocable. Los niños, niñas o adolescentes son titulares del derecho a ser adoptados por una familia, preferentemente matrimonial. 
+En su constitución y efectos se tendrán en consideración las normas de esta ley, los derechos y garantías reconocidos por la Constitución Política de la República y leyes nacionales, la Convención Sobre los Derechos del Niño, el Convenio de la Haya, de 1993, relativo a la Protección del Niño y a la Cooperación en Materia de Adopción Internacional y demás tratados internacionales ratificados por Chile y que se encuentren vigentes.
+En lo relativo a la ley procesal aplicable, además se estará a lo dispuesto en los Títulos II, III, IV y V de esta ley. En subsidio de las normas referidas, serán aplicables las disposiciones contenidas en los Títulos I y III de la ley N° 19.968, que Crea los Tribunales de Familia.”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>55</TotalAfirmativos>
+    <TotalNegativos>82</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30900</ID>
+    <Fecha>2019-05-08T14:24:59</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 1</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>101</TotalAfirmativos>
+    <TotalNegativos>34</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30899</ID>
+    <Fecha>2019-05-08T14:22:51</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículos 15, 16 letra a), 26, 40, 49, 56, 67 y segundo transitorio.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>104</TotalAfirmativos>
+    <TotalNegativos>34</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30898</ID>
+    <Fecha>2019-05-08T14:21:53</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>artículo 10</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>100</TotalAfirmativos>
+    <TotalNegativos>35</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30897</ID>
+    <Fecha>2019-05-08T14:20:59</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3767</ID>
+      <Numero>22</Numero>
+      <Fecha>2019-05-08T16:27:04</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9119-18</Boletin>
+    <Articulo>con la salvedad del artículo 10, por tratar una materia propia de ley de quorum calificado y de los artículos 15, 16 letra a), 26, 40, 49, 56, 67 y segundo transitorio, por tratar materias propias de ley orgánica constitucional.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>104</TotalAfirmativos>
+    <TotalNegativos>35</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+</Votaciones>

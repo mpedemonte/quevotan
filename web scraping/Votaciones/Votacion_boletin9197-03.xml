@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>23974</ID>
+    <Fecha>2016-08-03T13:33:04</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>3374</ID>
+      <Numero>50</Numero>
+      <Fecha>2016-08-03T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9197-03</Boletin>
+    <Articulo>número 1) y la letra b) del número 2, ambos numerales del nuevo artículo 13 incorporado por el Senado</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>74</TotalAfirmativos>
+    <TotalNegativos>26</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23973</ID>
+    <Fecha>2016-08-03T13:32:10</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3374</ID>
+      <Numero>50</Numero>
+      <Fecha>2016-08-03T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9197-03</Boletin>
+    <Articulo>nuevo artículo 3° incorporado por el Senado y las modificaciones introducidas por el Senado en los números 1, en lo que respecta al inciso cuarto que propone, y 2 del artículo 7° que pasaría a ser 9°; el número 1 del artículo 9° que pasaría a ser 11 y el número 3, en lo relativo a los incisos primero y segundo del artículo 2° bis que contiene, del nuevo artículo 13 incorporado por el Senado</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>107</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23972</ID>
+    <Fecha>2016-08-03T13:31:22</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3374</ID>
+      <Numero>50</Numero>
+      <Fecha>2016-08-03T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9197-03</Boletin>
+    <Articulo>con la salvedad de las normas que requieren quorum especial para su aprobación</Articulo>
+    <Tramite Codigo="3">TERCER TRÁMITE</Tramite>
+    <Informe Codigo="8">INFORME ENMIENDAS DEL SENADO</Informe>
+    <TotalAfirmativos>110</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21422</ID>
+    <Fecha>2015-08-11T13:35:24</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3244</ID>
+      <Numero>57</Numero>
+      <Fecha>2015-08-11T11:10:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9197-03</Boletin>
+    <Articulo>artículos 2°; 5° inciso tercero; 6°, inciso primero; 8° literal a), en lo que respecta al inciso tercero que agrega, literal b),  literal c) y artículo 10, literal a)
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>102</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21421</ID>
+    <Fecha>2015-08-11T13:34:11</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3244</ID>
+      <Numero>57</Numero>
+      <Fecha>2015-08-11T11:10:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9197-03</Boletin>
+    <Articulo>3°
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>65</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>40</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21420</ID>
+    <Fecha>2015-08-11T13:33:37</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3244</ID>
+      <Numero>57</Numero>
+      <Fecha>2015-08-11T11:10:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9197-03</Boletin>
+    <Articulo>Indicación de los diputados señores Silva, Macaya y Melero: para reemplazar el artículo 3° del proyecto de ley por el siguiente:
+“Artículo 3°.- Las empresas no bancarias emisoras u operadoras de medios de pago con provisión de fondos se constituirán en el país de conformidad con el Título XIII de la ley N°18.046 y se sujetarán a las normas que dice el Banco Central de Chile de conformidad con el artículo 35 N°7 de su Ley Orgánica Constitucional, las que podrán referirse especialmente a las exigencias de capital pagado y reservas mínimas, objeto social exclusivo, requisitos de liquidez, relación deuda capital, clase de activos en que podrá efectuarse la inversión de los fondos captados según corresponda, políticas de gestión y control de riesgos, transparencia y entrega de información”
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>39</TotalAfirmativos>
+    <TotalNegativos>65</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21419</ID>
+    <Fecha>2015-08-11T13:31:31</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3244</ID>
+      <Numero>57</Numero>
+      <Fecha>2015-08-11T11:10:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9197-03</Boletin>
+    <Articulo>artículos 2°; 3°; 5° inciso tercero; 6°, inciso primero; 8° literal a), en lo que respecta al inciso tercero que agrega, literal b) y literal c), y artículo 10, literal a)
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>101</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>21418</ID>
+    <Fecha>2015-08-11T13:30:29</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3244</ID>
+      <Numero>57</Numero>
+      <Fecha>2015-08-11T11:10:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>9197-03</Boletin>
+    <Articulo>con la salvedad de los artículos 2°; 3°; 5° inciso tercero; 6°, inciso primero; 8° literal a), en lo que respecta al inciso tercero que agrega, literal b) y literal c), y artículo 10, literal a), por tratar materias propias de ley orgánica constitucional
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>98</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

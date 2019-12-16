@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>30321</ID>
+    <Fecha>2018-12-19T14:01:47</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3708</ID>
+      <Numero>117</Numero>
+      <Fecha>2018-12-19T10:36:01</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10785-03</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>110</TotalAfirmativos>
+    <TotalNegativos>26</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29468</ID>
+    <Fecha>2018-08-22T13:55:25</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3652</ID>
+      <Numero>62</Numero>
+      <Fecha>2018-08-22T10:30:54</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10785-03</Boletin>
+    <Articulo>artículo segundo transitorio, que consta en las páginas 27 y 28 del comparado, cuya votación separada ha sido solicitada por los diputados Jaime Naranjo y Alexis Sepúlveda.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>71</TotalAfirmativos>
+    <TotalNegativos>72</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29467</ID>
+    <Fecha>2018-08-22T13:54:32</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3652</ID>
+      <Numero>62</Numero>
+      <Fecha>2018-08-22T10:30:54</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10785-03</Boletin>
+    <Articulo>nuevo artículo 2 ter contenido en el numeral 2) que pasaría a ser 3) del artículo 1 del proyecto, que consta en las páginas 7 a 10 del comparado, cuya votación separada ha sido solicitada por los diputados Jaime Naranjo y Alexis Sepúlveda.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>71</TotalAfirmativos>
+    <TotalNegativos>72</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29466</ID>
+    <Fecha>2018-08-22T13:53:06</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3652</ID>
+      <Numero>62</Numero>
+      <Fecha>2018-08-22T10:30:54</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10785-03</Boletin>
+    <Articulo>supresión del artículo 2 ter contenida en el numeral 2) que pasaría a ser 3) del artículo 1, propuesta por la Comisión de Economía en su segundo informe, que consta en las páginas 6 y 7 del comparado, cuya votación separada ha sido solicitada por el diputado Marcelo Díaz.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>69</TotalAfirmativos>
+    <TotalNegativos>74</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29465</ID>
+    <Fecha>2018-08-22T13:50:40</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3652</ID>
+      <Numero>62</Numero>
+      <Fecha>2018-08-22T10:30:54</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10785-03</Boletin>
+    <Articulo>indicación renovada por el diputado señor Jaime Naranjo:  para reemplazar el inciso primero del artículo 2 incorporado por el numeral 1) que pasaría a ser 2) del artículo 1 del proyecto, de cuyo tenor dará lectura el señor Secretario: 
+&amp;quot;Artículo 2°.- La obligación de pago del saldo insoluto contenido en la factura deberá ser cumplida en el plazo máximo de treinta días contado desde la recepción de la factura. Sin perjuicio de lo anterior, durante los veinticuatro primeros meses de vigencia de la presente disposición, el plazo máximo de pago será de sesenta días corridos contado desde la recepción de la factura.”.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>70</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29464</ID>
+    <Fecha>2018-08-22T13:46:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3652</ID>
+      <Numero>62</Numero>
+      <Fecha>2018-08-22T10:30:54</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10785-03</Boletin>
+    <Articulo>Texto propuesto por la Comisión de Economía en su segundo informe, con la salvedad del inciso primero del artículo 2 incorporado por el numeral 1) que pasaría a ser 2) del artículo 1;  de la supresión del artículo 2 ter contenida en el numeral 2) que pasaría a ser 3) del artículo 1; del nuevo artículo 2 ter contenido en el numeral 2) que pasaría a ser 3) del artículo 1 y del artículo segundo transitorio, cuyas votaciones separadas han sido solicitadas.
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>142</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>29379</ID>
+    <Fecha>2018-08-02T13:07:31</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3643</ID>
+      <Numero>53</Numero>
+      <Fecha>2018-08-02T10:06:14</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10785-03</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>132</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+</Votaciones>

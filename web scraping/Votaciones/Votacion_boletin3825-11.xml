@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>5005</ID>
+    <Fecha>2006-03-14T12:51:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>693</ID>
+      <Numero>2</Numero>
+      <Fecha>2006-03-14T11:45:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Informe de Comisión MIxta</Articulo>
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>89</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4952</ID>
+    <Fecha>2006-01-17T14:26:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Artículos del proyecto que no fueron objeto de indicaciones (números 4, 6, 7, 12, 13, 14, 15 y 16 del artículo 1º, artículo 2º y artículo 3º).</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4951</ID>
+    <Fecha>2006-01-17T14:25:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, para agregar el siguiente artículo 17, nuevo:
+"Artículo 17.- Se concede acción popular para denunciar las infracciones a la presente ley."
+</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>26</TotalAfirmativos>
+    <TotalNegativos>50</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4950</ID>
+    <Fecha>2006-01-17T14:24:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación del Presidente de la República para intercalar, en el artículo 1º, un numeral nuevo con el siguiente artículo 15, nuevo, pasando los actuales artículos 15 y 16 a ser 16 y 17, respectivamente:
+"Artículo 15.- La Autoridad Sanitaria competente fiscalizará el cumplimiento de la presente ley 
+En caso de incumplimiento, aplicará lo dispuesto en el Libro X del Código Sanitario. La resolución de la Autoridad Sanitaria será impugnable ante el Juez de Letras correspondiente, mediante el recurso de reclamación establecido en el artículo 171 del mismo Código, no siendo exigible, para dar curso a dicha reclamación, que el infractor acompañe el comprobante de pago de la multa. 
+Carabineros de Chile estará también facultado para fiscalizar el cumplimiento de esta ley, para lo cual podrá denunciar ante la Secretaría Regional Ministerial de Salud que corresponda las infracciones que detecte, a fin de que ésta instruya el sumario correspondiente y aplique las sanciones que, en su caso, correspondan.
+En el caso de productos de tabaco producidos en el extranjero, para su importación será necesario la autorización previa de la Autoridad Sanitaria Regional que corresponda. Para cursar la destinación aduanera de importación, el Servicio Nacional de Aduanas deberá exigir el certificado de autorización de dicha Autoridad, en que se acredite el cumplimiento de las obligaciones impuestas en virtud de esta ley.".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>51</TotalAfirmativos>
+    <TotalNegativos>26</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4948</ID>
+    <Fecha>2006-01-17T14:22:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>12.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>64</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4947</ID>
+    <Fecha>2006-01-17T14:21:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>11.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>70</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4949</ID>
+    <Fecha>2006-01-17T14:21:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, al artículo 12, contenido en el número 11 del artículo 1º, para reemplazar, en los incisos primero y segundo, los guarismos "100" por "80".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>33</TotalAfirmativos>
+    <TotalNegativos>47</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4946</ID>
+    <Fecha>2006-01-17T14:20:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, al artículo 11, para eliminar los incisos segundo, tercero y cuarto.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>18</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4945</ID>
+    <Fecha>2006-01-17T14:18:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, al artículo 11, para agregar, después de la letra g), la siguiente letra, nueva:
+"Hoteles, residenciales, moteles y establecimientos análogos".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>14</TotalAfirmativos>
+    <TotalNegativos>53</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4944</ID>
+    <Fecha>2006-01-17T14:17:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, al artículo 11, para agregar en la letra f), después de la palabra "deportivos" la frase "salvo que sean al aire libre".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>22</TotalAfirmativos>
+    <TotalNegativos>35</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4943</ID>
+    <Fecha>2006-01-17T14:16:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, al artículo 11, para agregar, en la letra e), después de la palabra "musicales", la frase "salvo que sean al aire libre".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>41</TotalAfirmativos>
+    <TotalNegativos>28</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4942</ID>
+    <Fecha>2006-01-17T14:15:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, al artículo 11, para agregar, después de la letra d), una letra nueva con el siguiente contenido: "centros de trabajo públicos y privados".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>26</TotalAfirmativos>
+    <TotalNegativos>49</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4941</ID>
+    <Fecha>2006-01-17T14:13:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, al artículo 11, para agregar en su encabezado, después de las palabras "sus patios abiertos" la expresión "al aire libre".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>25</TotalAfirmativos>
+    <TotalNegativos>51</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4940</ID>
+    <Fecha>2006-01-17T14:11:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>10.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>63</TotalAfirmativos>
+    <TotalNegativos>4</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4939</ID>
+    <Fecha>2006-01-17T14:10:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación del Diputado Robles al artículo 10, para incorporar la siguiente letra f), nueva:
+"f) Establecimientos de salud públicos y privados".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>36</TotalAfirmativos>
+    <TotalNegativos>26</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4938</ID>
+    <Fecha>2006-01-17T14:09:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los Diputados Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, al artículo 10, contenido en el número 9 del artículo 1º, para agregar, después de la letra e), la siguiente letra f), nueva:
+"f) Cabinas telefónicas y cajeros automáticos."</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>5</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4937</ID>
+    <Fecha>2006-01-17T14:08:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>9º.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>75</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4936</ID>
+    <Fecha>2006-01-17T14:08:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, al artículo 9º, para reemplazar, en el inciso cuarto, la expresión "podrá prohibir" por la palabra "prohibirá".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>46</TotalAfirmativos>
+    <TotalNegativos>30</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4935</ID>
+    <Fecha>2006-01-17T14:07:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, para eliminar el inciso tercero del artículo 9º, contenido en el número 8 del artículo 1º del proyecto de ley.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>36</TotalAfirmativos>
+    <TotalNegativos>45</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4934</ID>
+    <Fecha>2006-01-17T14:04:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Rossi, Accorsi, Longton, Salas, Aguiló, Ortiz, Palma,  Robles y Cornejo para agregar, a continuación del artículo 8º, el siguiente artículo 8º bis, nuevo:
+"El fabricante y el importador de los productos hechos con tabaco deberán, a su costa, publicitar los efectos dañinos derivados del hábito de fumar, en conformidad al reglamento correspondiente.".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>34</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4933</ID>
+    <Fecha>2006-01-17T14:03:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>6º.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>69</TotalAfirmativos>
+    <TotalNegativos>4</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4932</ID>
+    <Fecha>2006-01-17T14:03:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación del señor Robles para eliminar el inciso final del artículo 6°, contenido en el número 5 del artículo 1º del proyecto de ley.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>27</TotalAfirmativos>
+    <TotalNegativos>48</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4931</ID>
+    <Fecha>2006-01-17T14:00:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>4º.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>74</TotalAfirmativos>
+    <TotalNegativos>8</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4930</ID>
+    <Fecha>2006-01-17T14:00:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicaciones de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma, y señora Tohá, doña Carolina, para introducir las siguientes modificaciones en el artículo 4º, contenido en el número 3 del artículo 1º:
+a) En el inciso primero, para eliminar la frase "Las máquinas expendedoras automáticas sólo podrán instalarse en establecimientos, lugares o recintos a las cuales, por disposición de la ley, no tengan acceso los menores de edad."
+b) En el inciso segundo, para agregar, después del vocablo "publicidad", la expresión "y venta".
+c) En el inciso segundo, para eliminar la frase "salvo lo relativo a los avisos indicados en el artículo anterior".
+d) En el inciso segundo, para intercalar, entre los términos "artículo anterior" y "La distancia", la siguiente oración: "Se prohíbe, asimismo, la venta y publicidad de estos productos en aquellos lugares que se encuentren a menos de 300 metros de distancia de dichos establecimientos.".
+e) En el inciso tercero, para reemplazar la frase "En ningún caso podrán venderse" por la expresión "Queda prohibida la venta de".
+f) Para agregar el siguiente inciso cuarto, nuevo: "Las máquinas expendedoras automáticas de productos hechos con tabaco quedan prohibidas.".</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>27</TotalAfirmativos>
+    <TotalNegativos>53</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4929</ID>
+    <Fecha>2006-01-17T13:57:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los señores Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma, y señora Tohá, doña Carolina, para sustituir el artículo 3º, contenido en el número 2 del artículo 1º del proyecto, por el siguiente:
+"Se prohíbe totalmente la publicidad del tabaco o de elementos de la marca relacionados con dicho producto.
+Se prohíbe, asimismo, la publicidad transfronteriza de productos hechos con tabaco o de marcas relacionadas con dichos productos, así como la publicidad en las señales internacionales de los medios de comunicación chilenos o de páginas de internet cuyos dominios correspondan a la terminación "punto cl" o que pertenezcan a personas naturales o jurídicas que desarrollen actividades de cualquier índole dentro del territorio nacional.
+Asimismo, no podrá desarrollarse ningún tipo de publicidad encubierta, por medios indirectos, entendiendo por tal la promoción a través del consumo realizado por actores de televisión, cine o teatro, a modo meramente ejemplar."</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>45</TotalAfirmativos>
+    <TotalNegativos>37</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4928</ID>
+    <Fecha>2006-01-17T13:56:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>Indicación de los Diputados Accorsi, Girardi, Rossi, Ojeda, Cornejo, Longton, Palma y señora Tohá, doña Carolina, para agregar, en el artículo 2º, contenido en el número 1 del artículo 1º, las siguientes definiciones:
+"Patrocinio: cualquier tipo de contribución, pública o privada, a un acontecimiento, una actividad o un individuo cuyo objetivo o efecto directo o indirecto sea la promoción de un producto del tabaco o el uso del tabaco.
+Promoción: todo estímulo de la demanda de productos del tabaco, como anuncios, publicidad y actos especiales, entre otros, destinados a atraer la atención y suscitar el interés de los consumidores."</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>54</TotalAfirmativos>
+    <TotalNegativos>30</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4927</ID>
+    <Fecha>2006-01-17T13:53:00</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>1º, Nº6.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>81</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>4926</ID>
+    <Fecha>2006-01-17T13:52:00</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>683</ID>
+      <Numero>68</Numero>
+      <Fecha>2006-01-17T11:00:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>3825-11</Boletin>
+    <Articulo>con excepción del Nº6 del artículo 1º.</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>
