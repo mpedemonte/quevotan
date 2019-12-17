@@ -53,7 +53,7 @@ sesion = db.Sesion
 votacion = db.Votaciones
 proyecto = db.Proyecto_ley
 
-InsertarLegislaturas()
-InsertarSesiones()
+#InsertarLegislaturas()
+#InsertarSesiones()
 InsertarVotaciones()
-InsertarProyecto_ley()
+#InsertarProyecto_ley()

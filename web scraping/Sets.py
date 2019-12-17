@@ -30,7 +30,7 @@ Justicia_y_derechos_humanos = {'nacionalidad','derecho','derechos','humano','hum
 'libertad','humanitarias','humanitarios','humanitaria','humanitario','privacion','privativas','registro','revoca',
 'procedimiento','articulos','comunidades','justicia', 'tribunales', 'ejecutivo', 'judicial', 'jueces', 'fiscalizacion',
 'fiscalía', 'documentos', 'fisco', 'legislacion', 'contraloría', 'tribunales', 'imputado', 'prision', 'inhumanos',
-'tortura', 'INDH', 'humanos', 'seguridad'}
+'tortura', 'INDH', 'humanos', 'seguridad', 'homicidio', 'femicidio'}
 
 Trabajo_y_prevision_social ={'beneficio','social','normas','laborales','laboral','beneficios','sociales','biodiversidad',
 'sindicato','sindicatos','sindicales','estatuto','estatutos','codigo','trabajo','isapre','tutela','consejo',
