@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import requests
-import requests
 import os.path
 import xml.etree.ElementTree as ET
 
