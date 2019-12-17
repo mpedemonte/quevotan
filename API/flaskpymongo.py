@@ -4,6 +4,7 @@ from flask import Flask
 from flask import jsonify
 from flask import request
 from flask_pymongo import PyMongo
+import insertar
 
 app = Flask(__name__)
 
@@ -72,7 +73,7 @@ def get_all_votaciones():
   votaciones = mongo.db.Votaciones
   output = []
   for s in votaciones.find():
-    output.append({'ID' : s['ID'], 'TotalAbstenciones' : s['TotalAbstenciones'], 'Resultado' : s['Resultado'], 'Quorum' : s['Quorum'], 'Tipo' : s['Tipo'], 'Informe' : s['Informe'], 'Fecha' : s['Fecha'], 'TotalAfirmativos' : s['TotalAfirmativos'], 'TotalNegativos' : s['TotalNegativos'], 'Articulo' : s['Articulo'], 'Boletin' : s['Boletin'], 'Sesion' : s['Sesion'], 'Tramite' : s['Tramite'], 'TotalDispensados' : s['TotalDispensados']})
+    output.append({'ID' : s['ID'], 'TotalAbstenciones' : s['TotalAbstenciones'], 'Resultado' : s['Resultado'], 'Quorum' : s['Quorum'], 'Tipo' : s['Tipo'], 'Informe' : s['Informe'], 'Fecha' : s['Fecha'], 'TotalAfirmativos' : s['TotalAfirmativos'], 'TotalNegativos' : s['TotalNegativos'], 'Temas' : s['Temas'], 'Articulo' : s['Articulo'], 'Boletin' : s['Boletin'], 'Sesion' : s['Sesion'], 'Tramite' : s['Tramite'], 'TotalDispensados' : s['TotalDispensados']})
   return jsonify({'result' : output})
 
 @app.route('/votaciones/<id>', methods=['GET'])
@@ -80,7 +81,7 @@ def get_one_votacion(id):
   votacion = mongo.db.Votaciones
   s = votacion.find_one({'ID' : id})
   if s:
-    output = {'ID' : s['ID'], 'TotalAbstenciones' : s['TotalAbstenciones'], 'Resultado' : s['Resultado'], 'Quorum' : s['Quorum'], 'Tipo' : s['Tipo'], 'Informe' : s['Informe'], 'Fecha' : s['Fecha'], 'TotalAfirmativos' : s['TotalAfirmativos'], 'TotalNegativos' : s['TotalNegativos'], 'Articulo' : s['Articulo'], 'Boletin' : s['Boletin'], 'Sesion' : s['Sesion'], 'Tramite' : s['Tramite'], 'TotalDispensados' : s['TotalDispensados']}
+    output = {'ID' : s['ID'], 'TotalAbstenciones' : s['TotalAbstenciones'], 'Resultado' : s['Resultado'], 'Quorum' : s['Quorum'], 'Tipo' : s['Tipo'], 'Informe' : s['Informe'], 'Fecha' : s['Fecha'], 'TotalAfirmativos' : s['TotalAfirmativos'], 'TotalNegativos' : s['TotalNegativos'], 'Temas' : s['Temas'], 'Articulo' : s['Articulo'], 'Boletin' : s['Boletin'], 'Sesion' : s['Sesion'], 'Tramite' : s['Tramite'], 'TotalDispensados' : s['TotalDispensados']}
   else:
     output = "No se ha encontrado la votacion"
   return jsonify({'result' : output})
@@ -89,11 +90,9 @@ def get_one_votacion(id):
 
 
 
-
-"""
-
-@app.route('/update', methods=['POST'])
+@app.route('/update', methods=['GET'])
 def update():
+  """
   star = mongo.db.stars
   name = request.json['name']
   distance = request.json['distance']
@@ -101,8 +100,13 @@ def update():
   new_star = star.find_one({'_id': star_id })
   output = {'name' : new_star['name'], 'distance' : new_star['distance']}
   return jsonify({'result' : output})
+  """
 
-"""
+  #return jsonify(insertar.InsertarLegislaturas())
+  #return jsonify(insertar.InsertarSesiones())
+  #return jsonify(insertar.InsertarVotaciones())
+  #return jsonify(insertar.InsertarProyecto_ley())
+
 
 if __name__ == '__main__':
     app.run(debug=True)
