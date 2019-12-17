@@ -90,10 +90,10 @@ def get_one_votacion(id):
 
 
 
-
 """
-@app.route('/star', methods=['POST'])
-def add_star():
+
+@app.route('/update', methods=['POST'])
+def update():
   star = mongo.db.stars
   name = request.json['name']
   distance = request.json['distance']
@@ -101,6 +101,8 @@ def add_star():
   new_star = star.find_one({'_id': star_id })
   output = {'name' : new_star['name'], 'distance' : new_star['distance']}
   return jsonify({'result' : output})
+
 """
+
 if __name__ == '__main__':
     app.run(debug=True)
