@@ -47,13 +47,13 @@ def InsertarProyecto_ley():
 
 coneccion = pymongo.MongoClient("localhost", 27017)
 
-db = coneccion.taller3
+db = coneccion.quevotan
 legislaturas = db.Legislaturas
 sesion = db.Sesion
 votacion = db.Votaciones
 proyecto = db.Proyecto_ley
 
-#InsertarLegislaturas()
-#InsertarSesiones()
+InsertarLegislaturas()
+InsertarSesiones()
 InsertarVotaciones()
-#InsertarProyecto_ley()
+InsertarProyecto_ley()
