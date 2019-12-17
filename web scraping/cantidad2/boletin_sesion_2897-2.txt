@@ -1,7 +1,0 @@
-(1, 'tramite')
-(1, 'tercer')
-(1, 'sanciones')
-(1, 'responsables')
-(1, 'incendios')
-(1, 'forestales')
-(1, 'constitucional')

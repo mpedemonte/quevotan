@@ -1,7 +1,0 @@
-(1, 'tramite')
-(1, 'segundo')
-(1, 'publicidad')
-(1, 'nutricional')
-(1, 'constitucional')
-(1, 'composicion')
-(1, 'alimentos')

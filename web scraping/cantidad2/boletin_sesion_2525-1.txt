@@ -1,7 +1,0 @@
-(1, 'tramite')
-(1, 'segundo')
-(1, 'mineras')
-(1, 'instalaciones')
-(1, 'faenas')
-(1, 'constitucional')
-(1, 'cierre')

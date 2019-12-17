@@ -1,6 +1,0 @@
-(1, 'recaudacion')
-(1, 'previsionales')
-(1, 'normas')
-(1, 'mixta')
-(1, 'informe')
-(1, 'cotizaciones')

@@ -1,6 +1,0 @@
-(1, 'votacion')
-(1, 'tramite')
-(1, 'segundo')
-(1, 'mentales')
-(1, 'discapacitados')
-(1, 'constitucional')

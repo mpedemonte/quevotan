@@ -1,4 +1,0 @@
-(1, 'proposiciones')
-(1, 'mixta')
-(1, 'deporte')
-(1, 'comision')

@@ -1,7 +1,0 @@
-(1, 'uso')
-(1, 'tributaria')
-(1, 'tramite')
-(1, 'primer')
-(1, 'franquicia')
-(1, 'constitucional')
-(1, 'capacitacion')

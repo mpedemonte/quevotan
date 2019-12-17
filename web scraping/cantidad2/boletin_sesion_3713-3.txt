@@ -1,8 +1,0 @@
-(1, 'tribunas')
-(1, 'proyectoaplausos')
-(1, 'presidenta')
-(1, 'maya')
-(1, 'manifestaciones')
-(1, 'fernandez')
-(1, 'dona')
-(1, 'despachado')

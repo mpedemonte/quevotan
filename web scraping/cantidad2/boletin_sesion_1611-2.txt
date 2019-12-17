@@ -1,7 +1,0 @@
-(1, 'votacion')
-(1, 'valores')
-(1, 'tramite')
-(1, 'tercer')
-(1, 'mercado')
-(1, 'legislacion')
-(1, 'constitucional')

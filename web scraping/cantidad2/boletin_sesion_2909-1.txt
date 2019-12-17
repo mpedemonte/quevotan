@@ -1,7 +1,0 @@
-(1, 'tramite')
-(1, 'sancion')
-(1, 'publicas')
-(1, 'primer')
-(1, 'falsas')
-(1, 'constitucional')
-(1, 'alarmas')

@@ -1,6 +1,0 @@
-(1, 'tramite')
-(1, 'tercer')
-(1, 'profesionales')
-(1, 'educacion')
-(1, 'constitucional')
-(1, 'beneficios')

@@ -1,7 +1,0 @@
-(1, 'tramite')
-(1, 'trabajadores')
-(1, 'sector')
-(1, 'publico')
-(1, 'primer')
-(1, 'ley')
-(1, 'constitucional')

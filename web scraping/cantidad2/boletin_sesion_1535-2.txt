@@ -1,7 +1,0 @@
-(1, 'tramite')
-(1, 'social')
-(1, 'seguridad')
-(1, 'primer')
-(1, 'constitucional')
-(1, 'chile')
-(1, 'canada')

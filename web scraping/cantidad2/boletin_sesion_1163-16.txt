@@ -1,7 +1,0 @@
-(1, 'votaciones')
-(1, 'tramite')
-(1, 'primer')
-(1, 'populares')
-(1, 'ley')
-(1, 'escrutinios')
-(1, 'constitucional')

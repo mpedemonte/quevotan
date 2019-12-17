@@ -1,7 +1,0 @@
-(1, 'votacion')
-(1, 'proposicion')
-(1, 'parvularia')
-(1, 'mixta')
-(1, 'educacion')
-(1, 'desarrollo')
-(1, 'comision')

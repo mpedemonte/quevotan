@@ -1,8 +1,0 @@
-(1, 'tramite')
-(1, 'profesionales')
-(1, 'primer')
-(1, 'ley')
-(1, 'funcionarios')
-(1, 'constitucional')
-(1, 'concursos')
-(1, 'cargos')

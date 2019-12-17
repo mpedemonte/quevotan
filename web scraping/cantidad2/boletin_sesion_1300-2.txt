@@ -1,3 +1,0 @@
-(1, 'terceros')
-(1, 'recursos')
-(1, 'administradoras')

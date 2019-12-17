@@ -1,5 +1,0 @@
-(1, 'tramite')
-(1, 'tercer')
-(1, 'subsidio')
-(1, 'empleo')
-(1, 'constitucional')

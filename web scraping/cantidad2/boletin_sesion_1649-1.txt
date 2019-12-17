@@ -1,8 +1,0 @@
-(1, 'votacion')
-(1, 'transporte')
-(1, 'tramite')
-(1, 'primer')
-(1, 'panama')
-(1, 'constitucional')
-(1, 'chile')
-(1, 'aereo')

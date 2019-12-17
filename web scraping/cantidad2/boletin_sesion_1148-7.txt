@@ -1,8 +1,0 @@
-(1, 'tramite')
-(1, 'subsidios')
-(1, 'primer')
-(1, 'maternales')
-(1, 'continuacion')
-(1, 'constitucional')
-(1, 'calculo')
-(1, 'base')

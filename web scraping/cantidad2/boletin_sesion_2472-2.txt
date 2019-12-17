@@ -1,7 +1,0 @@
-(1, 'tramite')
-(1, 'tercer')
-(1, 'plantas')
-(1, 'personal')
-(1, 'constitucional')
-(1, 'chile')
-(1, 'carabineros')

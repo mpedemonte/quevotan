@@ -1,8 +1,0 @@
-(1, 'tramite')
-(1, 'trabajo')
-(1, 'remuneraciones')
-(1, 'primer')
-(1, 'modificaciones')
-(1, 'continuacion')
-(1, 'constitucional')
-(1, 'codigo')

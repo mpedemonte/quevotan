@@ -1,8 +1,0 @@
-(1, 'votacion')
-(1, 'tramite')
-(1, 'suposicion')
-(1, 'segundo')
-(1, 'parto')
-(1, 'delito')
-(1, 'constitucional')
-(1, 'amnistia')

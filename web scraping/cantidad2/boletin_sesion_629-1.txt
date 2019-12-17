@@ -1,7 +1,0 @@
-(1, 'tramite')
-(1, 'primer')
-(1, 'marruecos')
-(1, 'general')
-(1, 'cooperacion')
-(1, 'constitucional')
-(1, 'chile')
