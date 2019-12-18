@@ -1,0 +1,56 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>11790-25</boletin>
+                    <titulo>Modifica el Código de Justicia Militar y la ley N° 20.285, sobre Acceso a la Información Pública, en lo que respecta al secreto relativo a las plantas o dotaciones de las Fuerzas de Orden y Seguridad Pública</titulo>
+                    <fecha_ingreso>06/06/2018</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Segundo trámite constitucional (Senado)</etapa>
+                    <subetapa>Primer informe de comisión de Seguridad Pública</subetapa>
+                    <leynro></leynro>
+                    <diariooficial></diariooficial>
+                    <estado>En tramitación </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=12310&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores><autor><PARLAMENTARIO>Auth Stewart, Pepe</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Flores García, Iván</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Hernando Pérez, Marcela</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Lorenzini Basso, Pablo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Matta Aragay, Manuel Antonio</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Mellado Pino, Cosme</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Ortiz Novoa, José Miguel</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Pérez Arriagada, José</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Pérez Olea, Joanna</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Walker Prieto, Matías</PARLAMENTARIO></autor>
+</autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>06/06/2018</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>34/366</SESION><FECHA>12/06/2018</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Seguridad Ciudadana</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>99/366</SESION><FECHA>13/11/2018</FECHA><DESCRIPCIONTRAMITE>Cuenta del Mensaje 623-366 que hace presente la urgencia Suma</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>106/366</SESION><FECHA>27/11/2018</FECHA><DESCRIPCIONTRAMITE>Cuenta del Mensaje 663-366 que retira y hace presente la urgencia Suma</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>27/11/2018</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Seguridad Ciudadana.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>109/366</SESION><FECHA>11/12/2018</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>120/366</SESION><FECHA>02/01/2019</FECHA><DESCRIPCIONTRAMITE>Cuenta del Mensaje 759-366 que hace presente la urgencia Simple</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>125/366</SESION><FECHA>15/01/2019</FECHA><DESCRIPCIONTRAMITE>Cuenta del Mensaje 829-366 que retira y hace presente la urgencia Suma</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>129/366</SESION><FECHA>22/01/2019</FECHA><DESCRIPCIONTRAMITE>Discusión general . Aprobado en general y particular a la vez .</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>22/01/2019</FECHA><DESCRIPCIONTRAMITE>Oficio de ley a Cámara Revisora .  N° 14.491, a segundo trámite constitucional.</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>91/366</SESION><FECHA>23/01/2019</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Seguridad Pública</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias><urgencia><TIPO>Suma</TIPO><FECHAINGRESO>13/11/2018</FECHAINGRESO><MENSAJEINGRESO>623-366</MENSAJEINGRESO><CAMARAINGRESO>C. Diputados</CAMARAINGRESO><FECHARETIRO>27/11/2018</FECHARETIRO><MENSAJERETIRO>663-366</MENSAJERETIRO><CAMARARETIRO>C. Diputados</CAMARARETIRO></urgencia>
+<urgencia><TIPO>Suma</TIPO><FECHAINGRESO>27/11/2018</FECHAINGRESO><MENSAJEINGRESO>663-366</MENSAJEINGRESO><CAMARAINGRESO>C. Diputados</CAMARAINGRESO><FECHARETIRO>10/03/2019</FECHARETIRO><MENSAJERETIRO>CADUCADA</MENSAJERETIRO></urgencia>
+<urgencia><TIPO>Simple</TIPO><FECHAINGRESO>02/01/2019</FECHAINGRESO><MENSAJEINGRESO>759-366</MENSAJEINGRESO><CAMARAINGRESO>C. Diputados</CAMARAINGRESO><FECHARETIRO>15/01/2019</FECHARETIRO><MENSAJERETIRO>829-366</MENSAJERETIRO><CAMARARETIRO>C. Diputados</CAMARARETIRO></urgencia>
+<urgencia><TIPO>Suma</TIPO><FECHAINGRESO>15/01/2019</FECHAINGRESO><MENSAJEINGRESO>829-366</MENSAJEINGRESO><CAMARAINGRESO>C. Diputados</CAMARAINGRESO><FECHARETIRO>10/03/2019</FECHARETIRO><MENSAJERETIRO>CADUCADA</MENSAJERETIRO></urgencia>
+</urgencias>
+<informes><informe><FECHAINFORME>03/12/2018</FECHAINFORME><TRAMITE>Primer informe de comisión de Seguridad Ciudadana </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=20939&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios><oficio><NUMERO>14.491</NUMERO><FECHA>22/01/2019</FECHA><TRAMITE>Oficio de ley a Cámara Revisora</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Ley</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=24231&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+</oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>ACCESO A LA INFORMACION PUBLICA</DESCRIPCION></materia>
+<materia><DESCRIPCION>FUERZAS DE ORDEN Y SEGURIDAD</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>

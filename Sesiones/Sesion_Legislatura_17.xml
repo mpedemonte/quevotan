@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sesiones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Sesion>
+    <ID>1384</ID>
+    <Numero>1</Numero>
+    <Fecha>1996-05-22T15:00:00</Fecha>
+    <FechaTermino>1996-05-22T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1385</ID>
+    <Numero>2</Numero>
+    <Fecha>1996-05-23T15:00:00</Fecha>
+    <FechaTermino>1996-05-23T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1386</ID>
+    <Numero>3</Numero>
+    <Fecha>1996-06-04T15:00:00</Fecha>
+    <FechaTermino>1996-06-04T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1387</ID>
+    <Numero>4</Numero>
+    <Fecha>1996-06-05T15:00:00</Fecha>
+    <FechaTermino>1996-06-05T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1388</ID>
+    <Numero>5</Numero>
+    <Fecha>1996-06-11T15:00:00</Fecha>
+    <FechaTermino>1996-06-11T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1389</ID>
+    <Numero>6</Numero>
+    <Fecha>1996-06-12T00:00:00</Fecha>
+    <FechaTermino>1996-06-12T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1390</ID>
+    <Numero>7</Numero>
+    <Fecha>1996-06-13T15:00:00</Fecha>
+    <FechaTermino>1996-06-13T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1391</ID>
+    <Numero>8</Numero>
+    <Fecha>1996-06-18T15:00:00</Fecha>
+    <FechaTermino>1996-06-18T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1392</ID>
+    <Numero>9</Numero>
+    <Fecha>1996-06-19T15:00:00</Fecha>
+    <FechaTermino>1996-06-19T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1393</ID>
+    <Numero>10</Numero>
+    <Fecha>1996-06-20T15:00:00</Fecha>
+    <FechaTermino>1996-06-20T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1394</ID>
+    <Numero>11</Numero>
+    <Fecha>1996-07-02T15:00:00</Fecha>
+    <FechaTermino>1996-07-02T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1396</ID>
+    <Numero>13</Numero>
+    <Fecha>1996-07-04T15:00:00</Fecha>
+    <FechaTermino>1996-07-04T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1397</ID>
+    <Numero>14</Numero>
+    <Fecha>1996-07-09T15:00:00</Fecha>
+    <FechaTermino>1996-07-09T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1398</ID>
+    <Numero>15</Numero>
+    <Fecha>1996-07-10T15:00:00</Fecha>
+    <FechaTermino>1996-07-10T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1400</ID>
+    <Numero>17</Numero>
+    <Fecha>1996-07-16T15:00:00</Fecha>
+    <FechaTermino>1996-07-16T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1401</ID>
+    <Numero>18</Numero>
+    <Fecha>1996-07-17T15:00:00</Fecha>
+    <FechaTermino>1996-07-17T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1402</ID>
+    <Numero>19</Numero>
+    <Fecha>1996-07-18T15:00:00</Fecha>
+    <FechaTermino>1996-07-18T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1404</ID>
+    <Numero>21</Numero>
+    <Fecha>1996-07-31T15:00:00</Fecha>
+    <FechaTermino>1996-07-31T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1405</ID>
+    <Numero>22</Numero>
+    <Fecha>1996-08-01T15:00:00</Fecha>
+    <FechaTermino>1996-08-01T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1406</ID>
+    <Numero>23</Numero>
+    <Fecha>1996-08-06T15:00:00</Fecha>
+    <FechaTermino>1996-08-06T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1408</ID>
+    <Numero>25</Numero>
+    <Fecha>1996-08-08T15:00:00</Fecha>
+    <FechaTermino>1996-08-08T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1409</ID>
+    <Numero>26</Numero>
+    <Fecha>1996-08-13T12:00:00</Fecha>
+    <FechaTermino>1996-08-13T12:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1410</ID>
+    <Numero>27</Numero>
+    <Fecha>1996-08-13T15:00:00</Fecha>
+    <FechaTermino>1996-08-13T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1412</ID>
+    <Numero>29</Numero>
+    <Fecha>1996-08-27T15:00:00</Fecha>
+    <FechaTermino>1996-08-27T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1413</ID>
+    <Numero>30</Numero>
+    <Fecha>1996-08-28T15:00:00</Fecha>
+    <FechaTermino>1996-08-28T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1414</ID>
+    <Numero>31</Numero>
+    <Fecha>1996-08-29T15:00:00</Fecha>
+    <FechaTermino>1996-08-29T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1416</ID>
+    <Numero>33</Numero>
+    <Fecha>1996-09-04T15:00:00</Fecha>
+    <FechaTermino>1996-09-04T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1417</ID>
+    <Numero>34</Numero>
+    <Fecha>1996-09-05T15:00:00</Fecha>
+    <FechaTermino>1996-09-05T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1418</ID>
+    <Numero>35</Numero>
+    <Fecha>1996-09-10T15:00:00</Fecha>
+    <FechaTermino>1996-09-10T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1395</ID>
+    <Numero>12</Numero>
+    <Fecha>1996-07-03T15:00:00</Fecha>
+    <FechaTermino>1996-07-03T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1399</ID>
+    <Numero>16</Numero>
+    <Fecha>1996-07-11T15:00:00</Fecha>
+    <FechaTermino>1996-07-11T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1403</ID>
+    <Numero>20</Numero>
+    <Fecha>1996-07-30T12:00:00</Fecha>
+    <FechaTermino>1996-07-30T12:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1407</ID>
+    <Numero>24</Numero>
+    <Fecha>1996-08-07T15:00:00</Fecha>
+    <FechaTermino>1996-08-07T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1411</ID>
+    <Numero>28</Numero>
+    <Fecha>1996-08-14T15:00:00</Fecha>
+    <FechaTermino>1996-08-14T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1415</ID>
+    <Numero>32</Numero>
+    <Fecha>1996-09-03T15:00:00</Fecha>
+    <FechaTermino>1996-09-03T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1419</ID>
+    <Numero>36</Numero>
+    <Fecha>1996-09-12T15:00:00</Fecha>
+    <FechaTermino>1996-09-12T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+</Sesiones>

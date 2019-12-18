@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>30748</ID>
+    <Fecha>2019-04-03T14:32:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>indicación renovada de la diputada señora Daniella Cicardini: Para incorporar un nuevo artículo tercero transitorio del siguiente tenor:
+“Solo podrá inscribirse en el registro de las EAT un número de automóviles equivalente al 50% de los taxis básicos inscritos en el registro de los servicios de transporte de pasajeros  en cada región del país, dentro del plazo de un año de entrada en vigencia de esta ley. Dicho porcentaje será revisado cada 2 años contados desde la entrada en vigencia de la ley, según los disponga en la reglamento.”.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>65</TotalAfirmativos>
+    <TotalNegativos>73</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30747</ID>
+    <Fecha>2019-04-03T14:27:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>indicación renovada del diputado señor Jaime Mulet: Para incorporar los siguientes incisos cuarto y quinto al artículo 15:
+“El Ministerio de Transportes y Telecomunicaciones establecerá los parámetros para la determinación de la tarifa base neta que se cobre para os vehículos particulares que presten el servicio de transporte remunerado de pasajeros mediante el uso de las aplicaciones inscritas por las EAT, que deberá regirse por el rango de precios establecidos por el panel de expertos del artículo 14 de la ley N°20.378, que crea el subsidio nacional para el transporte público de pasajeros. Tal parámetro de precios se deberá establecer de forma diferenciada por cada una de las regiones tomando en consideración la geografía y la cantidad de vehículos autorizados que prestan el servicio de transporte público de pasajeros.
+Con todo, las tarifas que se determinen y regulen para los cobros mediante el uso de estas aplicaciones no podrán ser inferiores a las que se encuentran reguladas y establecidas para los taxis en todas sus modalidades y, en aquellas regiones en que no exista regulación de tarifas, éstas no podrán ser inferiores a las tarifas exigidas para la Región Metropolitana.”. 
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>68</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30746</ID>
+    <Fecha>2019-04-03T14:24:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>inciso segundo del artículo 15 en los términos aprobados en la Comisión de Obras Públicas. 
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>133</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30745</ID>
+    <Fecha>2019-04-03T14:23:16</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>inciso segundo del artículo 15 con la siguiente indicación renovada de la diputada señora Daniella Cicardini y del diputado señor Jaime Mulet: Para incorporar en el inciso segundo del artículo 15, a continuación de la frase “tecnológicos o administrativos”, la siguiente frase:
+“Una tarifa base neta para todos los vehículos que operan en las EAT, que no puede ser inferior al 70% de la tarifa ya regulada; por su parte las EAT no podrán cobrar una comisión superior al 15% de la tarifa bruta al conductor,”</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>59</TotalAfirmativos>
+    <TotalNegativos>76</TotalNegativos>
+    <TotalAbstenciones>12</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30744</ID>
+    <Fecha>2019-04-03T14:21:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>indicación renovada del diputado señor Jaime Mulet: Para agregar un nuevo inciso segundo al artículo 7, del siguiente tenor: 
+El ministerio de Transporte y Telecomunicaciones establecerá, por resolución fundada, el número de vehículos que podrán inscribirse en el registro señalado en la letra d) del artículo 2° de esta ley por cada región. Dicho número no podrá exceder el 50% de los taxis inscritos, incluyendo sus sub - modalidades, en la región de que se trate”
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>70</TotalNegativos>
+    <TotalAbstenciones>15</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30743</ID>
+    <Fecha>2019-04-03T14:19:46</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>inciso primero del artículo 7 en los términos aprobados en la Comisión de Obras Públicas. 
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>127</TotalAfirmativos>
+    <TotalNegativos>9</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30742</ID>
+    <Fecha>2019-04-03T14:18:49</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>inciso primero del artículo 7 con la siguiente indicación renovada de la diputada señora Daniella Cicardini: Para reemplazar en el inciso primero del artículo 7 la frase “, y exhibir un distintivo que reúna las características que éste determine y cuyo uso será obligatorio” por “, y exhibir una placa patente de diferente color que reúna las características que éste determine y cuyo uso será obligatorio.”. 
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>64</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30741</ID>
+    <Fecha>2019-04-03T14:17:12</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>indicación renovada de la diputada señora Daniella Cicardini y los diputados señores Gastón Saavedra, Karim Bianchi y Jorge Sabag: Para agregar la siguiente letra nueva en el artículo 5: 
+“f) Efectuar el cobro por sus servicios solo mediante medios electrónicos.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>53</TotalAfirmativos>
+    <TotalNegativos>84</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30740</ID>
+    <Fecha>2019-04-03T14:13:34</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>indicación renovada de la diputada señora Cicardini: Para incorporar una nueva letra e) en el artículo 4, pasando la actual a ser f), del siguiente tenor:
+“e) No exceder el número de vehículos autorizados para prestar el servicio, en virtud de lo establecido en el reglamento respectivo;”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>64</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30739</ID>
+    <Fecha>2019-04-03T14:11:49</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>letra c) del artículo 4 en los términos aprobados en la Comisión de Obras Públicas. 
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>141</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30738</ID>
+    <Fecha>2019-04-03T14:07:29</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>letra c) del artículo 4 con la siguiente indicación renovada de la diputada señora Daniella Cicardini, y de los diputados señores Gastón Saavedra, Karim Bianchi y Jorge Sabag: Para  agregar en la letra c) del artículo 4, antes de punto y coma, la frase “u oficinas de atención al público.” 
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>60</TotalAfirmativos>
+    <TotalNegativos>76</TotalNegativos>
+    <TotalAbstenciones>12</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30737</ID>
+    <Fecha>2019-04-03T14:04:59</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>inciso cuarto del artículo 12.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>23</TotalNegativos>
+    <TotalAbstenciones>31</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>30736</ID>
+    <Fecha>2019-04-03T14:02:08</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3739</ID>
+      <Numero>10</Numero>
+      <Fecha>2019-04-03T10:37:02</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>11934-15</Boletin>
+    <Articulo>con la salvedad del inciso cuarto del artículo 12.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>105</TotalAfirmativos>
+    <TotalNegativos>24</TotalNegativos>
+    <TotalAbstenciones>19</TotalAbstenciones>
+    <TotalDispensados>1</TotalDispensados>
+  </Votacion>
+</Votaciones>

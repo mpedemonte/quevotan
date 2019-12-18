@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>26744</ID>
+    <Fecha>2017-12-12T13:35:14</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3563</ID>
+      <Numero>100</Numero>
+      <Fecha>2017-12-12T10:39:59</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo />
+    <Tramite Codigo="4">COMISIÓN MIXTA</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>106</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23557</ID>
+    <Fecha>2016-06-01T13:20:26</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>artículo primero transitorio con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>67</TotalAfirmativos>
+    <TotalNegativos>26</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23556</ID>
+    <Fecha>2016-06-01T13:19:54</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>nuevo artículo 6° propuesto por la Comisión de Hacienda</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>73</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>23</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23555</ID>
+    <Fecha>2016-06-01T13:19:28</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>numeral 42), que pasaría a ser 41) del artículo 1°, en los términos propuestos por el Senado</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>48</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23554</ID>
+    <Fecha>2016-06-01T13:18:47</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>numeral 42), que pasaría a ser numeral 41) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>41</TotalAfirmativos>
+    <TotalNegativos>48</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23553</ID>
+    <Fecha>2016-06-01T13:18:02</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>la letra b) del numeral 41), que pasaría a ser numeral 40) del artículo 1°, en los términos propuestos por el Senado y que la Comisión de Gobierno Interior propone rechazar</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>28</TotalAfirmativos>
+    <TotalNegativos>62</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23552</ID>
+    <Fecha>2016-06-01T13:16:56</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>letra b) del numeral 20), que pasaría a ser numeral 21) del artículo 1°, en los términos propuestos por el Senado</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>36</TotalAfirmativos>
+    <TotalNegativos>52</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23551</ID>
+    <Fecha>2016-06-01T13:16:07</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>letra b) del numeral 20), que pasaría a ser numeral 21) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>40</TotalAfirmativos>
+    <TotalNegativos>52</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23550</ID>
+    <Fecha>2016-06-01T13:15:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>letra b) del numeral 13), que pasaría a ser numeral 14) del artículo 1°, en los términos propuestos por el Senado</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>41</TotalAfirmativos>
+    <TotalNegativos>49</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23549</ID>
+    <Fecha>2016-06-01T13:14:25</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>letra b), que pasaría a ser letra c) del numeral 13), que pasaría a ser numeral 14) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>43</TotalAfirmativos>
+    <TotalNegativos>53</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23548</ID>
+    <Fecha>2016-06-01T13:13:02</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>resto del numeral 10), que pasaría a ser numeral 12) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>98</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23547</ID>
+    <Fecha>2016-06-01T13:12:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>letra b) del artículo 21 quater incorporado por el numeral 10), que pasaría a ser numeral 12) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>68</TotalAfirmativos>
+    <TotalNegativos>27</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23546</ID>
+    <Fecha>2016-06-01T13:11:30</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>nuevo numeral 11) incorporado por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>64</TotalAfirmativos>
+    <TotalNegativos>31</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23545</ID>
+    <Fecha>2016-06-01T13:10:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>resto del numeral 6), que pasaría a ser numeral 7) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23544</ID>
+    <Fecha>2016-06-01T13:10:20</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>inciso primero de la letra a) del numeral 6), que pasaría a ser numeral 7) del artículo 1°, en los términos propuestos por el Senado</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>76</TotalAfirmativos>
+    <TotalNegativos>12</TotalNegativos>
+    <TotalAbstenciones>13</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23543</ID>
+    <Fecha>2016-06-01T13:09:30</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>inciso primero de la letra a) del numeral 6), que pasaría a ser numeral 7) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>66</TotalAfirmativos>
+    <TotalNegativos>31</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23542</ID>
+    <Fecha>2016-06-01T13:08:15</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>letra c) del numeral 5), que pasaría a ser numeral 6) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>69</TotalAfirmativos>
+    <TotalNegativos>25</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23541</ID>
+    <Fecha>2016-06-01T13:05:59</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>letra b) del numeral 5), que pasaría a ser numeral 6) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>71</TotalAfirmativos>
+    <TotalNegativos>25</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23540</ID>
+    <Fecha>2016-06-01T13:05:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>numeral 3), que pasaría a ser numeral 4) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Inte</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>25</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23539</ID>
+    <Fecha>2016-06-01T13:04:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>numeral 1), que pasaría a ser numeral 2) del artículo 1°, con las modificaciones propuestas por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>99</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23538</ID>
+    <Fecha>2016-06-01T13:01:03</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>artículo 1°, con la salvedad de sus numerales 1) que pasaría a ser 2); 3) que pasaría a ser 4); letras b) y c) del numeral 5) que pasaría a ser 6); 6), que pasaría a ser 7); nuevo numeral 11) incorporado por la Comisión de Gobierno Interior; 10), que pasaría a ser 12); letra b), que pasaría a ser letra c) del numeral 13), que pasaría a ser 14); letra b) del numeral 20), que pasaría a ser 21); letra b) del numeral 41), que pasaría a ser 40); 42), que pasaría a ser 41), cuyas votaciones separadas han sido solicitadas; el numeral 4) del artículo 2°, el nuevo artículo 3° propuesto por la Comisión de Gobierno Interior, el artículo 4°, el nuevo artículo 8° propuesto por la Comisión de Gobierno Interior, el nuevo artículo 9° propuesto por la Comisión de Gobierno Interior, el artículo tercero transitorio y el nuevo artículo quinto transitorio propuesto por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>99</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23537</ID>
+    <Fecha>2016-06-01T12:59:35</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>texto propuesto por la Comisión de Gobierno Interior y de Hacienda, con la salvedad del nuevo artículo 6° y del artículo primero transitorio, cuyas votaciones separadas han sido solicitadas y de las normas que requieren quorum especial para su aprobación</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23536</ID>
+    <Fecha>2016-06-01T12:59:04</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>artículo 1°, el numeral 4) del artículo 2°, el nuevo artículo 3° propuesto por la Comisión de Gobierno Interior, el artículo 4°, el nuevo artículo 8° propuesto por la Comisión de Gobierno Interior, el nuevo artículo 9° propuesto por la Comisión de Gobierno Interior, el artículo tercero transitorio y el nuevo artículo quinto transitorio propuesto por la Comisión de Gobierno Interior</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>100</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>23535</ID>
+    <Fecha>2016-06-01T12:58:18</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3351</ID>
+      <Numero>27</Numero>
+      <Fecha>2016-06-01T10:38:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>7963-06</Boletin>
+    <Articulo>con la salvedad de las normas que requieren quorum especial para su aprobación</Articulo>
+    <Tramite Codigo="2">SEGUNDO TRÁMITE</Tramite>
+    <Informe Codigo="5">PRIMER INFORME COMPLEMENTARIO</Informe>
+    <TotalAfirmativos>99</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>2</TotalDispensados>
+  </Votacion>
+</Votaciones>

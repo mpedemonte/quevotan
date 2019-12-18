@@ -1,0 +1,48 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>5429-07</boletin>
+                    <titulo>Reforma el artículo 51 de la Constitución Política de la República en lo referido a la elección de Diputados y Senadores.</titulo>
+                    <fecha_ingreso>30/10/2007</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Tramitación terminada</etapa>
+                    <subetapa> /  </subetapa>
+                    <leynro></leynro>
+                    <diariooficial></diariooficial>
+                    <estado>Rechazado </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=5818&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores><autor><PARLAMENTARIO>Burgos Varela, Jorge</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Bustos Ramírez, Juan</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Cardemil Herrera, Alberto</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Ceroni Fuentes, Guillermo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Eluchans Urenda, Edmundo</PARLAMENTARIO></autor>
+</autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>30/10/2007</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>93/355</SESION><FECHA>30/10/2007</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación y Justicia</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>05/12/2007</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>116/355</SESION><FECHA>13/12/2007</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>118/355</SESION><FECHA>18/12/2007</FECHA><DESCRIPCIONTRAMITE>Discusión general . Queda pendiente </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>50/357</SESION><FECHA>08/07/2009</FECHA><DESCRIPCIONTRAMITE>Cuenta del Mensaje 713-357 que hace presente la urgencia Simple</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>58/357</SESION><FECHA>04/08/2009</FECHA><DESCRIPCIONTRAMITE>Cuenta del Mensaje 841-357 que retira y hace presente la urgencia Suma</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>61/357</SESION><FECHA>11/08/2009</FECHA><DESCRIPCIONTRAMITE>Discusión general .  Pendiente discusión</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>63/357</SESION><FECHA>12/08/2009</FECHA><DESCRIPCIONTRAMITE>Proyecto es rechazado por falta de quórum constitucional.</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>63/357</SESION><FECHA>12/08/2009</FECHA><DESCRIPCIONTRAMITE>Discusión general . Rechazado </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias><urgencia><TIPO>Simple</TIPO><FECHAINGRESO>08/07/2009</FECHAINGRESO><MENSAJEINGRESO>713-357</MENSAJEINGRESO><CAMARAINGRESO>C. Diputados</CAMARAINGRESO><FECHARETIRO>04/08/2009</FECHARETIRO><MENSAJERETIRO>841-357</MENSAJERETIRO><CAMARARETIRO>C. Diputados</CAMARARETIRO></urgencia>
+<urgencia><TIPO>Suma</TIPO><FECHAINGRESO>04/08/2009</FECHAINGRESO><MENSAJEINGRESO>841-357</MENSAJEINGRESO><CAMARAINGRESO>C. Diputados</CAMARAINGRESO><FECHARETIRO>03/09/2009</FECHARETIRO><MENSAJERETIRO>CADUCADA</MENSAJERETIRO></urgencia>
+</urgencias>
+<informes><informe><FECHAINFORME>05/12/2007</FECHAINFORME><TRAMITE>Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=11185&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios></oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>ELECCIONES</DESCRIPCION></materia>
+<materia><DESCRIPCION>PARLAMENTARIOS</DESCRIPCION></materia>
+<materia><DESCRIPCION>REFORMA CONSTITUCIONAL</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>

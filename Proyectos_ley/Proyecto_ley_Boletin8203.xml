@@ -1,0 +1,46 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>8203-24</boletin>
+                    <titulo>Establece el Día Nacional de la Diversidad.</titulo>
+                    <fecha_ingreso>20/03/2012</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Segundo trámite constitucional (Senado)</etapa>
+                    <subetapa>Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía</subetapa>
+                    <leynro></leynro>
+                    <diariooficial></diariooficial>
+                    <estado>En tramitación </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=8607&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores><autor><PARLAMENTARIO>Ascencio Mansilla, Gabriel</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Cornejo González, Aldo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>León Ramírez, Roberto</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Lorenzini Basso, Pablo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Ojeda Uribe, Sergio</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Saffirio Espinoza, René</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Silber Romo, Gabriel</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Vallespín López, Patricio</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Walker Prieto, Matías</PARLAMENTARIO></autor>
+</autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>20/03/2012</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>4/360</SESION><FECHA>20/03/2012</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de la Cultura y las Artes</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>04/08/2017</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Cultura, Artes y Comunicaciones.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>55/365</SESION><FECHA>08/08/2017</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>18/366</SESION><FECHA>03/05/2018</FECHA><DESCRIPCIONTRAMITE>Discusión general . Aprobado en general y particular a la vez </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>03/05/2018</FECHA><DESCRIPCIONTRAMITE>Oficio de ley a Cámara Revisora .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>13/366</SESION><FECHA>08/05/2018</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias></urgencias>
+<informes><informe><FECHAINFORME>08/08/2017</FECHAINFORME><TRAMITE>Primer informe de comisión de Cultura, Artes y Comunicaciones </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=19811&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios><oficio><NUMERO>13904</NUMERO><FECHA>03/05/2018</FECHA><TRAMITE>Oficio de ley a Cámara Revisora</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Ley</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=23413&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+</oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>DIA NACIONAL DE LA DIVERSIDAD</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>

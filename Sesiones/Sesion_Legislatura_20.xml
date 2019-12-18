@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sesiones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Sesion>
+    <ID>1522</ID>
+    <Numero>1</Numero>
+    <Fecha>1997-09-30T15:00:00</Fecha>
+    <FechaTermino>1997-09-30T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1523</ID>
+    <Numero>2</Numero>
+    <Fecha>1997-10-01T15:00:00</Fecha>
+    <FechaTermino>1997-10-01T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1524</ID>
+    <Numero>3</Numero>
+    <Fecha>1997-10-07T15:00:00</Fecha>
+    <FechaTermino>1997-10-07T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1525</ID>
+    <Numero>5</Numero>
+    <Fecha>1997-10-08T15:00:00</Fecha>
+    <FechaTermino>1997-10-08T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1526</ID>
+    <Numero>6</Numero>
+    <Fecha>1997-10-14T15:00:00</Fecha>
+    <FechaTermino>1997-10-14T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1528</ID>
+    <Numero>9</Numero>
+    <Fecha>1997-10-21T15:00:00</Fecha>
+    <FechaTermino>1997-10-21T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1529</ID>
+    <Numero>11</Numero>
+    <Fecha>1997-10-22T15:00:00</Fecha>
+    <FechaTermino>1997-10-22T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1530</ID>
+    <Numero>12</Numero>
+    <Fecha>1997-11-04T15:00:00</Fecha>
+    <FechaTermino>1997-11-04T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1532</ID>
+    <Numero>14</Numero>
+    <Fecha>1997-11-17T15:00:00</Fecha>
+    <FechaTermino>1997-11-17T15:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1533</ID>
+    <Numero>15</Numero>
+    <Fecha>1997-11-18T15:00:00</Fecha>
+    <FechaTermino>1997-11-18T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1534</ID>
+    <Numero>17</Numero>
+    <Fecha>1997-11-25T15:00:00</Fecha>
+    <FechaTermino>1997-11-25T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1536</ID>
+    <Numero>20</Numero>
+    <Fecha>1997-12-17T15:00:00</Fecha>
+    <FechaTermino>1997-12-17T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1537</ID>
+    <Numero>21</Numero>
+    <Fecha>1998-01-06T15:00:00</Fecha>
+    <FechaTermino>1998-01-06T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1538</ID>
+    <Numero>22</Numero>
+    <Fecha>1998-01-07T15:00:00</Fecha>
+    <FechaTermino>1998-01-07T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1540</ID>
+    <Numero>25</Numero>
+    <Fecha>1998-01-14T15:00:00</Fecha>
+    <FechaTermino>1998-01-14T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1541</ID>
+    <Numero>27</Numero>
+    <Fecha>1998-01-20T15:00:00</Fecha>
+    <FechaTermino>1998-01-20T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1542</ID>
+    <Numero>29</Numero>
+    <Fecha>1998-01-21T15:00:00</Fecha>
+    <FechaTermino>1998-01-21T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1544</ID>
+    <Numero>33</Numero>
+    <Fecha>1998-03-10T15:00:00</Fecha>
+    <FechaTermino>1998-03-10T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1527</ID>
+    <Numero>8</Numero>
+    <Fecha>1997-10-15T15:00:00</Fecha>
+    <FechaTermino>1997-10-15T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1531</ID>
+    <Numero>13</Numero>
+    <Fecha>1997-11-05T15:00:00</Fecha>
+    <FechaTermino>1997-11-05T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1535</ID>
+    <Numero>19</Numero>
+    <Fecha>1997-12-16T15:00:00</Fecha>
+    <FechaTermino>1997-12-16T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1539</ID>
+    <Numero>23</Numero>
+    <Fecha>1998-01-13T15:00:00</Fecha>
+    <FechaTermino>1998-01-13T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1543</ID>
+    <Numero>31</Numero>
+    <Fecha>1998-03-03T15:00:00</Fecha>
+    <FechaTermino>1998-03-03T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2601</ID>
+    <Numero>4</Numero>
+    <Fecha>1997-10-07T18:06:00</Fecha>
+    <FechaTermino>1997-10-07T20:52:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2602</ID>
+    <Numero>7</Numero>
+    <Fecha>1997-10-14T18:10:00</Fecha>
+    <FechaTermino>1997-10-14T21:28:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2603</ID>
+    <Numero>10</Numero>
+    <Fecha>1997-10-21T18:13:00</Fecha>
+    <FechaTermino>1997-10-21T20:35:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2604</ID>
+    <Numero>16</Numero>
+    <Fecha>1997-11-18T18:13:00</Fecha>
+    <FechaTermino>1997-11-18T20:03:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2605</ID>
+    <Numero>18</Numero>
+    <Fecha>1997-11-25T17:25:00</Fecha>
+    <FechaTermino>1997-11-25T19:41:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2606</ID>
+    <Numero>24</Numero>
+    <Fecha>1998-01-13T18:42:00</Fecha>
+    <FechaTermino>1998-01-13T21:10:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2607</ID>
+    <Numero>26</Numero>
+    <Fecha>1998-01-14T16:04:00</Fecha>
+    <FechaTermino>1998-01-14T18:29:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2608</ID>
+    <Numero>28</Numero>
+    <Fecha>1998-01-20T16:12:00</Fecha>
+    <FechaTermino>1998-01-20T18:31:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2609</ID>
+    <Numero>30</Numero>
+    <Fecha>1998-01-21T16:07:00</Fecha>
+    <FechaTermino>1998-01-21T17:23:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2610</ID>
+    <Numero>32</Numero>
+    <Fecha>1998-03-03T17:15:00</Fecha>
+    <FechaTermino>1998-03-03T18:37:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+</Sesiones>

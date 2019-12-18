@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>25624</ID>
+    <Fecha>2017-05-02T14:27:27</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>segundo transitorio en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>99</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25623</ID>
+    <Fecha>2017-05-02T14:26:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>53 que pasaría a ser 54, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por el diputado señor Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>46</TotalAfirmativos>
+    <TotalNegativos>25</TotalNegativos>
+    <TotalAbstenciones>33</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25622</ID>
+    <Fecha>2017-05-02T14:25:44</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>52 que pasaría a ser 53, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por el diputado señor Jackson.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>45</TotalAfirmativos>
+    <TotalNegativos>43</TotalNegativos>
+    <TotalAbstenciones>16</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25621</ID>
+    <Fecha>2017-05-02T14:25:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>51 que pasaría a ser 52, que en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>60</TotalAfirmativos>
+    <TotalNegativos>8</TotalNegativos>
+    <TotalAbstenciones>36</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25620</ID>
+    <Fecha>2017-05-02T14:24:42</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>artículo 51 que pasaría a ser 52, con la siguiente indicación renovada por el Ejecutivo:
+para intercalar en el inciso primero, a continuación de las palabras “por parte de los niños” y antes de la coma, la expresión “conforme a lo establecido en el artículo 23 de esta ley”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>45</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25619</ID>
+    <Fecha>2017-05-02T14:24:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>50 que pasaría a ser 51, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>46</TotalAfirmativos>
+    <TotalNegativos>48</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25618</ID>
+    <Fecha>2017-05-02T14:23:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>49 que pasaría a ser 50, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>49</TotalAfirmativos>
+    <TotalNegativos>22</TotalNegativos>
+    <TotalAbstenciones>33</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25617</ID>
+    <Fecha>2017-05-02T14:22:42</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>48 que pasaría a ser 49, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>45</TotalAfirmativos>
+    <TotalNegativos>23</TotalNegativos>
+    <TotalAbstenciones>36</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25616</ID>
+    <Fecha>2017-05-02T14:22:11</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>47 que pasaría a ser 48, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>46</TotalAfirmativos>
+    <TotalNegativos>26</TotalNegativos>
+    <TotalAbstenciones>32</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25615</ID>
+    <Fecha>2017-05-02T14:21:39</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>46 que pasaría a ser 47, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>25</TotalNegativos>
+    <TotalAbstenciones>33</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25614</ID>
+    <Fecha>2017-05-02T14:21:07</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>45 que pasaría a ser 46, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>45</TotalAfirmativos>
+    <TotalNegativos>25</TotalNegativos>
+    <TotalAbstenciones>34</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25613</ID>
+    <Fecha>2017-05-02T14:20:30</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>44 que pasaría a ser 45, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón. </Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>24</TotalNegativos>
+    <TotalAbstenciones>36</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25612</ID>
+    <Fecha>2017-05-02T14:19:51</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>41 que pasaría a ser 42, en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>62</TotalAfirmativos>
+    <TotalNegativos>4</TotalNegativos>
+    <TotalAbstenciones>38</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25611</ID>
+    <Fecha>2017-05-02T14:19:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>41 que pasaría a ser 42, con la modificación propuesta por la Comisión de Hacienda, que la Comisión de Familia propone rechazar en su segundo informe y cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>37</TotalAfirmativos>
+    <TotalNegativos>44</TotalNegativos>
+    <TotalAbstenciones>23</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25610</ID>
+    <Fecha>2017-05-02T14:18:39</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>40 que pasaría a ser 41, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>57</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25609</ID>
+    <Fecha>2017-05-02T14:18:03</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>39 que pasaría a ser 40, en los términos propuestos por la Comisión de Familia en su segunda informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira y por los diputados señores Jackson y Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>40</TotalAfirmativos>
+    <TotalNegativos>23</TotalNegativos>
+    <TotalAbstenciones>41</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25608</ID>
+    <Fecha>2017-05-02T14:17:16</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>Indicación: para reemplazar el artículo 38 que pasaría a ser 39, “Asistencia Jurídica”, por el siguiente texto:
+“Artículo 39. Defensa jurídica. Todo niño, tiene derecho a contar con la debida defensa jurídica especializada y autónoma ante los Tribunales de Justicia y entidades administrativas, para el ejercicio de sus derechos en conformidad a la ley.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>70</TotalAfirmativos>
+    <TotalNegativos>28</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25607</ID>
+    <Fecha>2017-05-02T14:16:35</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>Declaración de inadmisibilidad respecto de la siguiente indicación: para reemplazar el artículo 38 que pasaría a ser 39, “Asistencia Jurídica”, por el siguiente texto:
+“Artículo 39. Defensa jurídica. Todo niño, tiene derecho a contar con la debida defensa jurídica especializada y autónoma ante los Tribunales de Justicia y entidades administrativas, para el ejercicio de sus derechos en conformidad a la ley.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>35</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25606</ID>
+    <Fecha>2017-05-02T14:15:19</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>37 que pasaría a ser 38, 42 que pasaría a ser 43 y 43 que pasaría a ser 44, en los términos propuestos por la Comisión de Familia en su segundo informe, cuyas votaciones separadas han sido solicitadas por la diputada señora Nogueira y por el diputado señor Jackson.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>43</TotalAfirmativos>
+    <TotalNegativos>22</TotalNegativos>
+    <TotalAbstenciones>39</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25605</ID>
+    <Fecha>2017-05-02T14:14:32</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>el inciso segundo del artículo 36 que pasaría a ser 37 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>98</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25604</ID>
+    <Fecha>2017-05-02T14:13:50</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>34 que pasaría a ser 35 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>98</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25603</ID>
+    <Fecha>2017-05-02T14:13:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>34 que pasaría a ser 35, con la siguiente indicación renovada por el Ejecutivo: para modificar el inciso primero en el siguiente sentido:
+a) Sustitúyese, en el epígrafe del artículo, la expresión “Debido proceso, tutela judicial efectiva y especialización” por “Debido proceso y especialización”.
+
+
+b) Suprímese la expresión “el derecho de tutela judicial,”.
+c) Intercálase, a continuación de la frase “representación judicial especializada” la frase “de conformidad a lo establecido en el artículo 38”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>45</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25602</ID>
+    <Fecha>2017-05-02T14:11:42</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>inciso segundo del artículo 31 que pasaría a ser 32, en los términos propuestos por la Comisión de Familia en su segundo informe, respecto del cual el Ejecutivo ha renovado una indicación para suprimirlo.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>75</TotalAfirmativos>
+    <TotalNegativos>18</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25601</ID>
+    <Fecha>2017-05-02T14:10:59</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>Declaración de inadmisibilidad de la siguiente indicación:
+Para agregar un artículo 30 bis del siguiente tenor:
+“Artículo 30 bis.- Derecho a la seguridad social. Los niños tienen derecho a los beneficios de la seguridad social como personas diferentes de sus padres o representantes legales. La titularidad de tales derechos corresponde a los niños directamente, con independencia de que se entreguen a sus padres, representantes legales o cuidadores en su representación. Las asignaciones, prestaciones, bonos y demás beneficios que los programas de seguridad social entreguen a los niños no pueden ser utilizados sino por quienes legalmente lo tengan a su cuidado, con los fines para los cuales fueron entregados y en beneficio directo de los niños titulares de los derechos.
+
+
+
+
+
+Las leyes que entreguen beneficios de seguridad social a los niños establecerán sanciones penales y civiles especiales, según corresponda, para quienes, sin tener al niño a su cuidado, se apropien de recursos o para quienes, detentando el mismo, hagan mal uso de beneficios destinados a ellos, sin perjuicio de ser responsables de apropiación indebida de recursos y fraude al Fisco.”.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>68</TotalAfirmativos>
+    <TotalNegativos>25</TotalNegativos>
+    <TotalAbstenciones>9</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25600</ID>
+    <Fecha>2017-05-02T14:06:38</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>resto del artículo 30 que pasaría a ser 31 en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por el diputado señor Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>98</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25599</ID>
+    <Fecha>2017-05-02T14:06:06</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>inciso quinto del artículo 30 que pasaría a ser 31 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25598</ID>
+    <Fecha>2017-05-02T14:05:30</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>29 que pasaría a ser 30 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>99</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25597</ID>
+    <Fecha>2017-05-02T14:04:55</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>29 que pasaría a ser 30, con la siguiente indicación renovada por el Ejecutivo: para modificar el inciso primero en el siguiente sentido:
+a)	Intercálase a continuación de la expresión “dentro de su ámbito de competencia” y antes de las palabras “, las medidas” la expresión “y sus recursos”.
+b)	Suprímese la frase “, sea que las padezcan tanto en su desarrollo intrauterino como extrauterino”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>59</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25596</ID>
+    <Fecha>2017-05-02T14:04:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>28 que pasaría a ser 29 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>100</TotalAfirmativos>
+    <TotalNegativos>0</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25595</ID>
+    <Fecha>2017-05-02T14:03:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>28 que pasaría a ser 29, con la siguiente indicación renovada por el Ejecutivo: para suprimir en el inciso segundo la expresión “, incluido el maltrato prenatal,”.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>44</TotalAfirmativos>
+    <TotalNegativos>59</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25594</ID>
+    <Fecha>2017-05-02T14:02:43</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>incisos cuarto y quinto del artículo 25 que pasaría a ser 26 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>83</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>19</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25593</ID>
+    <Fecha>2017-05-02T14:01:53</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>17 que pasaría a ser 18 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25592</ID>
+    <Fecha>2017-05-02T14:01:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>17 que pasaría a ser 18, con la modificación propuesta por la Comisión de Hacienda y que la Comisión de Familia propone rechazar en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>2</TotalAfirmativos>
+    <TotalNegativos>101</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25591</ID>
+    <Fecha>2017-05-02T14:00:51</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>16 que pasaría a ser 17 en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitado por el diputado señor Rincón.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>100</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25590</ID>
+    <Fecha>2017-05-02T14:00:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>15 que pasaría a ser 16 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>99</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>4</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25589</ID>
+    <Fecha>2017-05-02T13:59:41</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>15 que pasaría a ser 16, con la siguiente indicación renovada:para agregar los siguientes incisos segundo y tercero:
+“En virtud del principio de progresividad, los órganos del Estado importa hacer efectivos y restablecer los derechos de la niñez así como garantizar y facilitar los mecanismos de exigibilidad de los mismos siempre en mayor medida a la existente al momento de adoptar sus decisiones. 
+De conformidad con el principio de no regresividad se prohíbe sancionar normas jurídicas o adoptar políticas, programas y acciones de gobierno que empeoren la situación de los derechos sociales de los que goza la población infantil al momento de adoptado el tratado internacional respectivo o dictada la legislación de mayor previsión o ejecución de ejercicios anteriores. Ambos principios obligan a dichos órganos a comprobar si la nueva norma política, programa, acción o decisión suprime o restringe derechos, beneficios o mecanismos de exigibilidad, acordados por la anterior, y a actuar en consecuencia”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>24</TotalAfirmativos>
+    <TotalNegativos>38</TotalNegativos>
+    <TotalAbstenciones>42</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25588</ID>
+    <Fecha>2017-05-02T13:58:04</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>14 que pasaría a ser 15 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>92</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25587</ID>
+    <Fecha>2017-05-02T13:57:33</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>14 que pasaría a ser 15, con la modificación propuesta por la Comisión de Hacienda y que la Comisión de Familia propone rechazar en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>3</TotalAfirmativos>
+    <TotalNegativos>100</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25586</ID>
+    <Fecha>2017-05-02T13:57:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>13 que pasaría a ser 14 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25585</ID>
+    <Fecha>2017-05-02T13:56:25</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>13 que pasaría a ser 14 con la modificación propuesta por la Comisión de Hacienda y que la Comisión de Familia propone rechazar en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>36</TotalAfirmativos>
+    <TotalNegativos>57</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25584</ID>
+    <Fecha>2017-05-02T13:55:46</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>9 que pasaría a ser 10 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25583</ID>
+    <Fecha>2017-05-02T13:55:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>9 que pasaría a ser 10, con la modificación propuesta por la Comisión de Hacienda y que la Comisión de Familia propone rechazar en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>1</TotalAfirmativos>
+    <TotalNegativos>100</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25582</ID>
+    <Fecha>2017-05-02T13:54:34</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>inciso tercero del artículo 8 que pasaría a ser 9 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25581</ID>
+    <Fecha>2017-05-02T13:53:58</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>inciso tercero del artículo 8 que pasaría a ser 9, con la modificación propuesta por la Comisión de Hacienda y que la Comisión de Familia propone rechazar en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>1</TotalAfirmativos>
+    <TotalNegativos>100</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25580</ID>
+    <Fecha>2017-05-02T13:53:21</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>inciso segundo del artículo 8 que pasaría a ser 9 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>63</TotalAfirmativos>
+    <TotalNegativos>39</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25579</ID>
+    <Fecha>2017-05-02T13:52:33</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>inciso segundo del artículo 8 que pasaría a ser 9, con la siguiente indicación renovada por el Ejecutivo:
+Para modificar el artículo 8 en el siguiente sentido:
+a)	Sustitúyese en el inciso segundo la expresión “, de maternidad o paternidad” por la frase “; su condición de padre o madre”.
+b)	Suprímese la expresión “desarrollo intrauterino,”.
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>43</TotalAfirmativos>
+    <TotalNegativos>56</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25578</ID>
+    <Fecha>2017-05-02T13:51:29</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>nuevo artículo 8 incorporado en el segundo informe de la Comisión de Familia.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>91</TotalAfirmativos>
+    <TotalNegativos>8</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25577</ID>
+    <Fecha>2017-05-02T13:50:49</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>5 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>93</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25576</ID>
+    <Fecha>2017-05-02T13:50:10</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>5 con la modificación propuesta por la Comisión de Hacienda y que la Comisión de Familia propone rechazar en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>1</TotalAfirmativos>
+    <TotalNegativos>98</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25575</ID>
+    <Fecha>2017-05-02T13:49:41</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>3 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>93</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>8</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25574</ID>
+    <Fecha>2017-05-02T13:49:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>3 con las siguientes indicaciones renovadas:
+- Para agregar al final del inciso segundo del artículo 3, a continuación del punto final que pasa a ser seguido,  la siguiente frase: “En particular, se  deberán respetar los principios de interpretación no restrictiva, y evolutiva”
+- Para agregar un nuevo inciso tercero en el artículo 3, pasando el actual tercero a ser cuarto y así sucesivamente, del siguiente tenor: “Conforme al principio de interpretación no restrictiva se prohíbe suprimir derechos reconocidos y limitar su goce o ejercicio en mayor medida a la prevista en las normas señaladas en el inciso primero precedente, en razón de otras normas internas o de otro tratado ratificado y vigente en Chile. No podrán excluirse otros derechos inherentes al ser humano. Tampoco se podrá excluir ni limitar el efecto que en las interpretaciones puedan producir la jurisprudencia, 
+
+
+opiniones consultivas, interpretaciones y otros instrumentos emanados de la Comisión Americana de Derechos Humanos, la Corte Interamericana de Derechos Humanos, el Comité de los Derechos del Niño y otros órganos internacionales de igual naturaleza”.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>25</TotalAfirmativos>
+    <TotalNegativos>73</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25573</ID>
+    <Fecha>2017-05-02T13:47:17</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>Declaración de inadmisibilidad de la siguiente indicación: para agregar un artículo 2° bis nuevo: Artículo 2° bis. Principios Presupuestarios del sistema de Protección de la Infancia. En materia presupuestaria, la acción del estado está regida por los siguientes principios:
+1. Maximización de recursos nacionales y recursos provenientes de la cooperación internacional. Importa el uso del máximo de los recursos disponibles en el país para la realización de los derechos reconocidos en la Convención sobre los derechos del niño y en caso de no ser suficientes, recurrir el Estado a la cooperación internacional.
+2.Previsión Presupuestaria: Significa prever una proporción de los presupuestos nacionales y de otros presupuestos locales que sean afectados en forma tanto directa como indirecta a garantizar la vigencia de esos derechos. 
+3.Interés superior del Niño. En esta materia específica importa adoptar las decisiones presupuestarias teniendo como consideración primordial el interés superior del niño, y en especial el de los grupos de niños y niñas más desfavorecidos y en situación de mayor vulnerabilidad.
+4.Progresividad, no regresividad e intangibilidad presupuestaria. Significa reconocer expresamente estos principios en la Ley de Presupuestos de la Nación así como en las leyes presupuestarias sectoriales. 
+5.Destinación específica de recursos sectoriales: Importa la  definición de porcentajes explícitos del presupuesto y/o fondos específicos y autónomos de recursos para garantizar la instalación y sostenimiento del sistema a nivel nacional y local.
+6.Rendición de Cuentas. Implica el establecimiento de un sistema por el cual las autoridades nacionales y locales rindan cuentas debidamente, de forma abierta y transparente, del uso de los fondos como de la provisión presupuestada para el ejercicio siguiente conforme a los principios de progresión, no regresividad e intangibilidad.
+7.Participación de Niños y de la comunidad. Importa la generación de los mecanismos regulares..</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>75</TotalAfirmativos>
+    <TotalNegativos>22</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25572</ID>
+    <Fecha>2017-05-02T13:43:00</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>indicación renovada:para agregar en el artículo 2, un inciso final del siguiente tenor:
+“La omisión en la observancia de los deberes que por la presente ley corresponden a los órganos del Estado habilita a todo ciudadano a interponer las acciones administrativas y judiciales a fin de restaurar el ejercicio y goce de tales derechos, a través de los recursos y procedimientos más breves, sencillos, expeditos y eficaces que se encuentren actualmente vigentes por amenaza o vulneración de derechos fundamentales o que sean especialmente establecidos por una ley que no podrá desmejorar las garantías existentes al momento de su regulación.”
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>64</TotalAfirmativos>
+    <TotalNegativos>25</TotalNegativos>
+    <TotalAbstenciones>16</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25571</ID>
+    <Fecha>2017-05-02T13:41:40</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>inciso final del artículo 2, en los términos propuestos por la Comisión de Familia en su segundo informe, cuya votación separada ha sido solicitada por la diputada señora Nogueira.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>46</TotalAfirmativos>
+    <TotalNegativos>59</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25570</ID>
+    <Fecha>2017-05-02T13:40:57</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>inciso quinto del artículo 2, en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>72</TotalAfirmativos>
+    <TotalNegativos>30</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25569</ID>
+    <Fecha>2017-05-02T13:40:23</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>Indicación renovada: para reemplazar el texto del literal e) en el inciso cuarto del artículo 2°, por el siguiente:
+
+e)  Dar prioridad a los niños vulnerados en sus derechos, sin discriminación alguna, en el acceso y uso a todo servicio, prestación y recursos de toda naturaleza, sean públicos o privados necesarios para su completa rehabilitación, en las debidas condiciones de seguridad y dignidad. El Estado tomará las medidas pertinentes, en caso de ser necesario, para el acceso y uso de recursos particulares y comunitarios, nacionales o convenidos en el extranjero.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>6</TotalNegativos>
+    <TotalAbstenciones>12</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25568</ID>
+    <Fecha>2017-05-02T13:39:16</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>letras b), c), d) y f) del inciso cuarto del artículo 2 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25567</ID>
+    <Fecha>2017-05-02T13:38:09</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>letra a) del inciso cuarto del artículo 2, con la siguiente indicación parlamentaria: para reemplazar en el artículo 2°, inciso cuarto, literal a), el vocablo &amp;quot;Promover&amp;quot;, por &amp;quot;Garantizar&amp;quot;.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>82</TotalAfirmativos>
+    <TotalNegativos>11</TotalNegativos>
+    <TotalAbstenciones>12</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25566</ID>
+    <Fecha>2017-05-02T13:37:30</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>Declaración de inadmisibilidad de la siguiente indicación: para reemplazar en el artículo 2°, inciso cuarto, literal a), el vocablo &amp;quot;Promover&amp;quot;, por &amp;quot;Garantizar&amp;quot;.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>33</TotalAfirmativos>
+    <TotalNegativos>61</TotalNegativos>
+    <TotalAbstenciones>11</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25565</ID>
+    <Fecha>2017-05-02T13:34:26</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>encabezado del inciso cuarto del artículo 2 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>94</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25564</ID>
+    <Fecha>2017-05-02T13:33:50</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>encabezado del inciso cuarto del artículo 2, con la modificación propuesta por la Comisión de Hacienda, que la Comisión de Familia propone rechazar en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>3</TotalAfirmativos>
+    <TotalNegativos>97</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25563</ID>
+    <Fecha>2017-05-02T13:33:15</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>incisos primero, segundo y tercero del artículo 2 en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>97</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>7</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25562</ID>
+    <Fecha>2017-05-02T13:32:30</Fecha>
+    <Tipo Codigo="6">UNICA</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>Declaración de inadmisibilidad de la siguiente indicación: Para crear un nuevo artículo 1° bis del siguiente tenor:
+Artículo 1° bis. Principios Presupuestarios del Sistema. El sistema integral de protección de la infancia está protegido por los principios de progresividad, no regresividad e intangibilidad.
+El Principio de progresividad implica que  la previsión presupuestaria para la infancia en ningún caso pueda ser inferior a la mayor previsión o ejecución de ejercicios anteriores.
+El Principio de no regresividad implica no sancionar normas jurídicas o adoptar políticas, programas y acciones de gobierno que empeoren la situación de los derechos sociales de los que gozaba la población infantil al momento de adoptado el tratado internacional respectivo o dictada la legislación de mayor previsión o ejecución presupuestaria de ejercicios anteriores. Asimismo, obliga a comprobar si la nueva norma suprime o restringe derechos o beneficios acordados por la anterior.
+
+
+
+El principio de intangibilidad protege el sistema contra cualquier perturbación como crisis económicas, catástrofes naturales u otras emergencias, a fin de mantener la sostenibilidad del sistema de protección integral de la infancia obligando al Estado a la constitución de un fondo para la Infancia autónomo y diferenciado de las cuentas presupuestarias generales del país.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>69</TotalAfirmativos>
+    <TotalNegativos>26</TotalNegativos>
+    <TotalAbstenciones>10</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25561</ID>
+    <Fecha>2017-05-02T13:28:33</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>1° en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>96</TotalAfirmativos>
+    <TotalNegativos>3</TotalNegativos>
+    <TotalAbstenciones>5</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25560</ID>
+    <Fecha>2017-05-02T13:27:58</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="2">RECHAZADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>1° con la modificación propuesta por la Comisión de Hacienda, que la Comisión de Familia propone rechazar en su segundo informe. </Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>6</TotalAfirmativos>
+    <TotalNegativos>92</TotalNegativos>
+    <TotalAbstenciones>6</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25559</ID>
+    <Fecha>2017-05-02T13:26:52</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3480</ID>
+      <Numero>17</Numero>
+      <Fecha>2017-05-02T10:36:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>4, 7, inciso primero del 8 que pasaría a ser 9, 10 que pasaría a ser 11, 11 que pasaría a ser 12, 12 que pasaría a ser 13, 18 que pasaría a ser 19, 19 que pasaría a ser 20, 23 que pasaría a ser 24, 24 que pasaría a ser 25, 27 que pasaría a ser 28, inciso primero del 31 que pasaría a ser 32, 32 que pasaría a ser 33, 33 que pasaría a ser 34, 35 que pasaría a ser 36, 36 que pasaría a ser 37, con la salvedad de su inciso segundo, en los términos propuestos por la Comisión de Familia en su segundo informe.</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="2">SEGUNDO INFORME</Informe>
+    <TotalAfirmativos>61</TotalAfirmativos>
+    <TotalNegativos>41</TotalNegativos>
+    <TotalAbstenciones>2</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25328</ID>
+    <Fecha>2017-03-07T13:34:53</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="5">LEY ORGANICA CONSTITUCIONAL</Quorum>
+    <Sesion>
+      <ID>3459</ID>
+      <Numero>133</Numero>
+      <Fecha>2017-03-07T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>inciso quinto del artículo 30 y el inciso segundo del artículo 36</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>106</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25327</ID>
+    <Fecha>2017-03-07T13:34:19</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="2">QUORUM CALIFICADO</Quorum>
+    <Sesion>
+      <ID>3459</ID>
+      <Numero>133</Numero>
+      <Fecha>2017-03-07T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>incisos cuarto y quinto del artículo 25</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>105</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>25326</ID>
+    <Fecha>2017-03-07T13:33:48</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>3459</ID>
+      <Numero>133</Numero>
+      <Fecha>2017-03-07T10:30:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>10315-18</Boletin>
+    <Articulo>con la salvedad de las normas que requieren quorum especial las que se votarán a continuación</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>106</TotalAfirmativos>
+    <TotalNegativos>1</TotalNegativos>
+    <TotalAbstenciones>1</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

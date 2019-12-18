@@ -1,0 +1,49 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>5499-02</boletin>
+                    <titulo>Modifica la ley N° 18.291, que reestructura y fija la planta y grados de Carabineros de Chile.</titulo>
+                    <fecha_ingreso>21/11/2007</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Tramitación terminada</etapa>
+                    <subetapa> /  </subetapa>
+                    <leynro>Ley Nº 20.231</leynro>
+                    <diariooficial>29/11/2007</diariooficial>
+                    <estado>Publicado </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=5893&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores></autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>21/11/2007</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>109/355</SESION><FECHA>21/11/2007</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>109/355</SESION><FECHA>21/11/2007</FECHA><DESCRIPCIONTRAMITE>Cuenta del Mensaje 1084-02 que hace presente la urgencia Discusión inmediata</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>21/11/2007</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Hacienda.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>109/355</SESION><FECHA>21/11/2007</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  de Defensa y Hacienda, unidas</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>109/355</SESION><FECHA>21/11/2007</FECHA><DESCRIPCIONTRAMITE>Discusión general . Aprobado en general y particular a la vez </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>22/11/2007</FECHA><DESCRIPCIONTRAMITE>Oficio de ley a Cámara Revisora .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>70/355</SESION><FECHA>22/11/2007</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Defensa Nacional y de Hacienda, unidas</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>22/11/2007</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Hacienda y de Defensa Nacional, unidas.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+<tramite><SESION>71/355</SESION><FECHA>22/11/2007</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+<tramite><SESION>71/355</SESION><FECHA>22/11/2007</FECHA><DESCRIPCIONTRAMITE>Discusión general . Aprobado en general y particular sin modificaciones </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>22/11/2007</FECHA><DESCRIPCIONTRAMITE>Oficio aprobación sin modificaciones a Cámara de Origen .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>22/11/2007</FECHA><DESCRIPCIONTRAMITE>Oficio de ley al Ejecutivo .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Trámite finalización en Cámara de Origen</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>111/355</SESION><FECHA>04/12/2007</FECHA><DESCRIPCIONTRAMITE>Senado comunica que aprobó proyecto en los mismos términos que la Cámara de Diputados.</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Trámite finalización en Cámara de Origen</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones><votacion><SESION>71/355</SESION><FECHA>22/11/2007</FECHA><TEMA>Modifica la ley N° 18.291, que reestructura y fija la planta y grados de Carabineros de Chile.</TEMA><SI>19</SI><NO>0</NO><ABSTENCION>2</ABSTENCION><PAREO>1</PAREO><TIPOVOTACION>Discusión general</TIPOVOTACION><ETAPA>Segundo trámite constitucional</ETAPA><DETALLE_VOTACION><VOTO><PARLAMENTARIO>Orpis B., Jaime</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Espina O., Alberto</PARLAMENTARIO><SELECCION>Pareo</SELECCION></VOTO><VOTO><PARLAMENTARIO>Escalona M., Camilo</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>García R., José</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Zaldívar L., Adolfo</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Muñoz A., Pedro</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Longueira M., Pablo</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Núñez M., Ricardo</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Alvear V., Soledad</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Pérez V., Víctor</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Romero P., Sergio</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Sabag C., Hosaín</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Novoa V., Jovino</PARLAMENTARIO><SELECCION>Abstencion</SELECCION></VOTO><VOTO><PARLAMENTARIO>Ruiz-Esquide J., Mariano</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Flores L., Fernando</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Kuschel S., Carlos Ignacio</PARLAMENTARIO><SELECCION>Abstencion</SELECCION></VOTO><VOTO><PARLAMENTARIO>Prokurica P., Baldo</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Chadwick P., Andrés</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Ominami P., Carlos</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Larraín F., Hernán</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Navarro B., Alejandro</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO><VOTO><PARLAMENTARIO>Gazmuri M., Jaime</PARLAMENTARIO><SELECCION>Si</SELECCION></VOTO></DETALLE_VOTACION></votacion>
+</votaciones>
+<urgencias><urgencia><TIPO>Discusión inmediata</TIPO><FECHAINGRESO>21/11/2007</FECHAINGRESO><MENSAJEINGRESO>1084-02</MENSAJEINGRESO><CAMARAINGRESO>C. Diputados</CAMARAINGRESO><FECHARETIRO>21/12/2007</FECHARETIRO><MENSAJERETIRO>CADUCADA</MENSAJERETIRO></urgencia>
+</urgencias>
+<informes><informe><FECHAINFORME>21/11/2007</FECHAINFORME><TRAMITE>Primer informe de comisión de Hacienda </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=11124&amp;tipodoc=info</LINK_INFORME></informe>
+<informe><FECHAINFORME>22/11/2007</FECHAINFORME><TRAMITE>Primer informe de comisión de Hacienda </TRAMITE><ETAPA>Segundo trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=11126&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios><oficio><NUMERO>7124</NUMERO><FECHA>22/11/2007</FECHA><TRAMITE>Oficio de ley a Cámara Revisora</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Ley</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=12745&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+<oficio><NUMERO>1529/07</NUMERO><FECHA>22/11/2007</FECHA><TRAMITE>Oficio aprobación sin modificaciones a Cámara de Origen</TRAMITE><ETAPA>Segundo trámite constitucional</ETAPA><TIPO>Ley</TIPO><CAMARA>Senado</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=12749&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+<oficio><NUMERO>7126</NUMERO><FECHA>22/11/2007</FECHA><TRAMITE>Oficio de ley al Ejecutivo</TRAMITE><ETAPA>Trámite finalización en Cámara de Origen</ETAPA><TIPO>Ley</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=12758&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+</oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>CARABINEROS DE CHILE</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>

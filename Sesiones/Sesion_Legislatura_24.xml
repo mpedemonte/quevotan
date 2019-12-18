@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sesiones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Sesion>
+    <ID>1685</ID>
+    <Numero>24</Numero>
+    <Fecha>1999-08-04T15:00:00</Fecha>
+    <FechaTermino>1999-08-04T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1687</ID>
+    <Numero>27</Numero>
+    <Fecha>1999-08-10T15:00:00</Fecha>
+    <FechaTermino>1999-08-10T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1688</ID>
+    <Numero>28</Numero>
+    <Fecha>1999-08-11T15:00:00</Fecha>
+    <FechaTermino>1999-08-11T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1689</ID>
+    <Numero>31</Numero>
+    <Fecha>1999-08-17T15:00:00</Fecha>
+    <FechaTermino>1999-08-17T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1691</ID>
+    <Numero>33</Numero>
+    <Fecha>1999-08-19T15:00:00</Fecha>
+    <FechaTermino>1999-08-19T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1692</ID>
+    <Numero>34</Numero>
+    <Fecha>1999-08-31T15:00:00</Fecha>
+    <FechaTermino>1999-08-31T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1693</ID>
+    <Numero>35</Numero>
+    <Fecha>1999-09-01T15:00:00</Fecha>
+    <FechaTermino>1999-09-01T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1695</ID>
+    <Numero>37</Numero>
+    <Fecha>1999-09-07T15:00:00</Fecha>
+    <FechaTermino>1999-09-07T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1696</ID>
+    <Numero>38</Numero>
+    <Fecha>1999-09-08T15:00:00</Fecha>
+    <FechaTermino>1999-09-08T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1697</ID>
+    <Numero>39</Numero>
+    <Fecha>1999-09-09T15:00:00</Fecha>
+    <FechaTermino>1999-09-09T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1699</ID>
+    <Numero>41</Numero>
+    <Fecha>1999-09-15T15:00:00</Fecha>
+    <FechaTermino>1999-09-15T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1700</ID>
+    <Numero>42</Numero>
+    <Fecha>1999-09-16T15:00:00</Fecha>
+    <FechaTermino>1999-09-16T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1664</ID>
+    <Numero>1</Numero>
+    <Fecha>1999-06-01T15:00:00</Fecha>
+    <FechaTermino>1999-06-01T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1666</ID>
+    <Numero>4</Numero>
+    <Fecha>1999-06-08T00:00:00</Fecha>
+    <FechaTermino>1999-06-08T00:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1667</ID>
+    <Numero>5</Numero>
+    <Fecha>1999-06-09T15:00:00</Fecha>
+    <FechaTermino>1999-06-09T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1668</ID>
+    <Numero>6</Numero>
+    <Fecha>1999-06-15T15:00:00</Fecha>
+    <FechaTermino>1999-06-15T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1670</ID>
+    <Numero>8</Numero>
+    <Fecha>1999-06-16T16:00:00</Fecha>
+    <FechaTermino>1999-06-16T16:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1671</ID>
+    <Numero>9</Numero>
+    <Fecha>1999-06-17T15:00:00</Fecha>
+    <FechaTermino>1999-06-17T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1672</ID>
+    <Numero>10</Numero>
+    <Fecha>1999-06-22T15:00:00</Fecha>
+    <FechaTermino>1999-06-22T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1674</ID>
+    <Numero>12</Numero>
+    <Fecha>1999-06-23T15:00:00</Fecha>
+    <FechaTermino>1999-06-23T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1675</ID>
+    <Numero>13</Numero>
+    <Fecha>1999-06-24T15:00:00</Fecha>
+    <FechaTermino>1999-06-24T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1676</ID>
+    <Numero>14</Numero>
+    <Fecha>1999-07-06T15:00:00</Fecha>
+    <FechaTermino>1999-07-06T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1678</ID>
+    <Numero>16</Numero>
+    <Fecha>1999-07-08T15:00:00</Fecha>
+    <FechaTermino>1999-07-08T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1679</ID>
+    <Numero>17</Numero>
+    <Fecha>1999-07-13T15:00:00</Fecha>
+    <FechaTermino>1999-07-13T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1680</ID>
+    <Numero>19</Numero>
+    <Fecha>1999-07-14T15:00:00</Fecha>
+    <FechaTermino>1999-07-14T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1682</ID>
+    <Numero>21</Numero>
+    <Fecha>1999-07-20T15:00:00</Fecha>
+    <FechaTermino>1999-07-20T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1683</ID>
+    <Numero>22</Numero>
+    <Fecha>1999-07-21T15:00:00</Fecha>
+    <FechaTermino>1999-07-21T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1684</ID>
+    <Numero>23</Numero>
+    <Fecha>1999-08-03T15:00:00</Fecha>
+    <FechaTermino>1999-08-03T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1686</ID>
+    <Numero>26</Numero>
+    <Fecha>1999-08-05T15:00:00</Fecha>
+    <FechaTermino>1999-08-05T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1690</ID>
+    <Numero>32</Numero>
+    <Fecha>1999-08-18T15:00:00</Fecha>
+    <FechaTermino>1999-08-18T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1694</ID>
+    <Numero>36</Numero>
+    <Fecha>1999-09-02T15:00:00</Fecha>
+    <FechaTermino>1999-09-02T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1698</ID>
+    <Numero>40</Numero>
+    <Fecha>1999-09-14T15:00:00</Fecha>
+    <FechaTermino>1999-09-14T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1665</ID>
+    <Numero>2</Numero>
+    <Fecha>1999-06-02T15:00:00</Fecha>
+    <FechaTermino>1999-06-02T15:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1669</ID>
+    <Numero>7</Numero>
+    <Fecha>1999-06-15T16:00:00</Fecha>
+    <FechaTermino>1999-06-15T16:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1673</ID>
+    <Numero>11</Numero>
+    <Fecha>1999-06-23T11:00:00</Fecha>
+    <FechaTermino>1999-06-23T11:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1677</ID>
+    <Numero>15</Numero>
+    <Fecha>1999-07-07T11:00:00</Fecha>
+    <FechaTermino>1999-07-07T11:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>1681</ID>
+    <Numero>20</Numero>
+    <Fecha>1999-07-15T15:00:00</Fecha>
+    <FechaTermino>1999-07-15T15:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2655</ID>
+    <Numero>25</Numero>
+    <Fecha>1999-08-04T16:10:00</Fecha>
+    <FechaTermino>1999-06-16T19:28:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2656</ID>
+    <Numero>3</Numero>
+    <Fecha>1999-06-02T16:09:00</Fecha>
+    <FechaTermino>1999-06-02T19:51:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2657</ID>
+    <Numero>18</Numero>
+    <Fecha>1999-07-13T19:03:00</Fecha>
+    <FechaTermino>1999-07-13T21:01:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2658</ID>
+    <Numero>29</Numero>
+    <Fecha>1999-08-11T10:00:00</Fecha>
+    <FechaTermino>1999-08-11T14:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2659</ID>
+    <Numero>30</Numero>
+    <Fecha>1999-08-11T10:00:00</Fecha>
+    <FechaTermino>1999-08-11T14:00:00</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+</Sesiones>

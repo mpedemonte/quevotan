@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sesiones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Sesion>
+    <ID>2178</ID>
+    <Numero>3</Numero>
+    <Fecha>2009-03-17T11:06:26</Fecha>
+    <FechaTermino>2009-03-17T15:02:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2185</ID>
+    <Numero>8</Numero>
+    <Fecha>2009-04-02T10:37:00</Fecha>
+    <FechaTermino>2009-04-02T13:37:20</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2188</ID>
+    <Numero>11</Numero>
+    <Fecha>2009-04-08T10:40:31</Fecha>
+    <FechaTermino>2009-04-08T13:52:31</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2202</ID>
+    <Numero>24</Numero>
+    <Fecha>2009-05-05T15:38:37</Fecha>
+    <FechaTermino>2009-05-05T17:50:07</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2214</ID>
+    <Numero>35</Numero>
+    <Fecha>2009-06-03T10:39:27</Fecha>
+    <FechaTermino>2009-06-03T12:46:27</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2237</ID>
+    <Numero>56</Numero>
+    <Fecha>2009-07-29T10:40:09</Fecha>
+    <FechaTermino>2009-07-29T13:31:39</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2241</ID>
+    <Numero>60</Numero>
+    <Fecha>2009-08-06T10:40:22</Fecha>
+    <FechaTermino>2009-08-06T14:06:52</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2245</ID>
+    <Numero>64</Numero>
+    <Fecha>2009-08-12T16:08:00</Fecha>
+    <FechaTermino>2009-08-12T17:39:53</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2250</ID>
+    <Numero>69</Numero>
+    <Fecha>2009-08-19T10:43:00</Fecha>
+    <FechaTermino>2009-08-19T13:52:30</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2251</ID>
+    <Numero>70</Numero>
+    <Fecha>2009-08-19T15:40:17</Fecha>
+    <FechaTermino>2009-08-19T18:13:17</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2296</ID>
+    <Numero>105</Numero>
+    <Fecha>2009-11-11T15:08:01</Fecha>
+    <FechaTermino>2009-11-11T18:05:31</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2311</ID>
+    <Numero>109</Numero>
+    <Fecha>2009-12-15T11:15:33</Fecha>
+    <FechaTermino>2009-12-15T12:30:03</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2328</ID>
+    <Numero>117</Numero>
+    <Fecha>2010-01-12T11:10:18</Fecha>
+    <FechaTermino>2010-01-12T14:05:48</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2332</ID>
+    <Numero>121</Numero>
+    <Fecha>2010-01-20T10:38:43</Fecha>
+    <FechaTermino>2010-01-20T14:10:43</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2181</ID>
+    <Numero>5</Numero>
+    <Fecha>2009-03-19T10:37:50</Fecha>
+    <FechaTermino>2009-03-19T14:18:50</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2194</ID>
+    <Numero>17</Numero>
+    <Fecha>2009-04-15T15:32:55</Fecha>
+    <FechaTermino>2009-04-15T17:33:25</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2192</ID>
+    <Numero>14</Numero>
+    <Fecha>2009-04-14T11:11:29</Fecha>
+    <FechaTermino>2009-04-14T14:47:59</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2193</ID>
+    <Numero>15</Numero>
+    <Fecha>2009-04-14T16:32:54</Fecha>
+    <FechaTermino>2009-04-14T18:56:54</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2200</ID>
+    <Numero>22</Numero>
+    <Fecha>2009-04-30T10:35:53</Fecha>
+    <FechaTermino>2009-04-30T13:28:23</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2201</ID>
+    <Numero>23</Numero>
+    <Fecha>2009-05-05T11:14:10</Fecha>
+    <FechaTermino>2009-05-05T14:55:04</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2205</ID>
+    <Numero>27</Numero>
+    <Fecha>2009-05-07T10:38:14</Fecha>
+    <FechaTermino>2009-05-07T13:44:14</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2206</ID>
+    <Numero>28</Numero>
+    <Fecha>2009-05-12T11:08:50</Fecha>
+    <FechaTermino>2009-05-12T14:38:20</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2208</ID>
+    <Numero>30</Numero>
+    <Fecha>2009-05-14T10:37:54</Fecha>
+    <FechaTermino>2009-05-14T14:18:54</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2212</ID>
+    <Numero>34</Numero>
+    <Fecha>2009-06-02T11:11:27</Fecha>
+    <FechaTermino>2009-06-02T14:10:27</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2219</ID>
+    <Numero>40</Numero>
+    <Fecha>2009-06-11T10:36:38</Fecha>
+    <FechaTermino>2009-06-11T13:32:38</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2229</ID>
+    <Numero>48</Numero>
+    <Fecha>2009-07-02T10:38:37</Fecha>
+    <FechaTermino>2009-07-02T13:17:37</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2236</ID>
+    <Numero>55</Numero>
+    <Fecha>2009-07-28T11:08:21</Fecha>
+    <FechaTermino>2009-07-28T14:34:51</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2244</ID>
+    <Numero>63</Numero>
+    <Fecha>2009-08-12T10:42:22</Fecha>
+    <FechaTermino>2009-08-12T14:26:52</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2247</ID>
+    <Numero>66</Numero>
+    <Fecha>2009-08-13T10:43:22</Fecha>
+    <FechaTermino>2009-08-13T13:22:22</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2249</ID>
+    <Numero>68</Numero>
+    <Fecha>2009-08-18T16:04:04</Fecha>
+    <FechaTermino>2009-08-18T18:12:04</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2257</ID>
+    <Numero>76</Numero>
+    <Fecha>2009-09-08T11:07:31</Fecha>
+    <FechaTermino>2009-09-08T14:56:31</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2262</ID>
+    <Numero>81</Numero>
+    <Fecha>2009-09-16T10:34:40</Fecha>
+    <FechaTermino>2009-09-16T13:10:40</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2313</ID>
+    <Numero>111</Numero>
+    <Fecha>2009-12-17T10:30:00</Fecha>
+    <FechaTermino>2009-12-17T13:30:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="2">Fracasada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2325</ID>
+    <Numero>114</Numero>
+    <Fecha>2010-01-05T11:09:35</Fecha>
+    <FechaTermino>2010-01-05T13:56:05</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2222</ID>
+    <Numero>43</Numero>
+    <Fecha>2009-06-17T10:38:04</Fecha>
+    <FechaTermino>2009-06-17T13:57:04</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2195</ID>
+    <Numero>16</Numero>
+    <Fecha>2009-04-15T10:40:03</Fecha>
+    <FechaTermino>2009-04-15T13:30:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2227</ID>
+    <Numero>46</Numero>
+    <Fecha>2009-06-30T16:00:15</Fecha>
+    <FechaTermino>2009-06-30T18:29:45</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2228</ID>
+    <Numero>47</Numero>
+    <Fecha>2009-07-01T10:39:37</Fecha>
+    <FechaTermino>2009-07-01T14:11:37</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2230</ID>
+    <Numero>49</Numero>
+    <Fecha>2009-07-07T13:37:59</Fecha>
+    <FechaTermino>2009-07-07T13:37:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2232</ID>
+    <Numero>51</Numero>
+    <Fecha>2009-07-09T10:41:34</Fecha>
+    <FechaTermino>2009-07-09T12:29:34</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2235</ID>
+    <Numero>54</Numero>
+    <Fecha>2009-07-15T10:44:26</Fecha>
+    <FechaTermino>2009-07-15T15:05:26</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2240</ID>
+    <Numero>59</Numero>
+    <Fecha>2009-08-05T10:40:28</Fecha>
+    <FechaTermino>2009-08-05T13:57:58</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2253</ID>
+    <Numero>72</Numero>
+    <Fecha>2009-08-20T10:38:31</Fecha>
+    <FechaTermino>2009-08-20T12:57:31</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2258</ID>
+    <Numero>77</Numero>
+    <Fecha>2009-09-09T10:40:44</Fecha>
+    <FechaTermino>2009-09-09T13:30:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2260</ID>
+    <Numero>79</Numero>
+    <Fecha>2009-09-15T11:16:32</Fecha>
+    <FechaTermino>2009-09-15T13:53:32</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2261</ID>
+    <Numero>80</Numero>
+    <Fecha>2009-09-15T18:33:51</Fecha>
+    <FechaTermino>2009-09-15T20:37:43</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2270</ID>
+    <Numero>89</Numero>
+    <Fecha>2009-10-13T18:02:33</Fecha>
+    <FechaTermino>2009-10-13T20:02:33</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2276</ID>
+    <Numero>95</Numero>
+    <Fecha>2009-10-28T15:07:28</Fecha>
+    <FechaTermino>2009-10-28T17:16:58</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2278</ID>
+    <Numero>97</Numero>
+    <Fecha>2009-11-03T18:04:07</Fecha>
+    <FechaTermino>2009-11-03T20:07:37</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2289</ID>
+    <Numero>99</Numero>
+    <Fecha>2009-11-04T15:06:12</Fecha>
+    <FechaTermino>2009-11-04T17:08:12</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2294</ID>
+    <Numero>104</Numero>
+    <Fecha>2009-11-11T11:37:14</Fecha>
+    <FechaTermino>2009-11-11T13:58:44</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2327</ID>
+    <Numero>116</Numero>
+    <Fecha>2010-01-07T12:54:51</Fecha>
+    <FechaTermino>2010-01-07T12:56:51</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2335</ID>
+    <Numero>124</Numero>
+    <Fecha>2010-03-09T11:05:52</Fecha>
+    <FechaTermino>2010-03-09T13:31:22</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2177</ID>
+    <Numero>2</Numero>
+    <Fecha>2009-03-12T10:37:19</Fecha>
+    <FechaTermino>2009-03-12T13:29:49</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2182</ID>
+    <Numero>6</Numero>
+    <Fecha>2009-03-31T11:11:03</Fecha>
+    <FechaTermino>2009-03-31T14:31:33</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2186</ID>
+    <Numero>9</Numero>
+    <Fecha>2009-04-07T10:10:18</Fecha>
+    <FechaTermino>2009-04-07T14:39:48</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2191</ID>
+    <Numero>13</Numero>
+    <Fecha>2009-04-09T10:38:16</Fecha>
+    <FechaTermino>2009-04-09T13:27:16</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2197</ID>
+    <Numero>19</Numero>
+    <Fecha>2009-04-16T10:37:14</Fecha>
+    <FechaTermino>2009-04-16T13:26:44</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2198</ID>
+    <Numero>20</Numero>
+    <Fecha>2009-04-28T11:07:07</Fecha>
+    <FechaTermino>2009-04-28T14:34:37</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2207</ID>
+    <Numero>29</Numero>
+    <Fecha>2009-05-13T10:38:43</Fecha>
+    <FechaTermino>2009-05-13T14:13:13</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2209</ID>
+    <Numero>31</Numero>
+    <Fecha>2009-05-19T11:12:17</Fecha>
+    <FechaTermino>2009-05-19T14:43:17</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2217</ID>
+    <Numero>38</Numero>
+    <Fecha>2009-06-10T10:40:20</Fecha>
+    <FechaTermino>2009-06-10T13:50:50</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2231</ID>
+    <Numero>50</Numero>
+    <Fecha>2009-07-08T10:40:30</Fecha>
+    <FechaTermino>2009-07-08T14:11:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2233</ID>
+    <Numero>52</Numero>
+    <Fecha>2009-07-14T11:10:16</Fecha>
+    <FechaTermino>2009-07-14T14:31:16</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2242</ID>
+    <Numero>61</Numero>
+    <Fecha>2009-08-11T11:09:43</Fecha>
+    <FechaTermino>2009-08-11T14:05:43</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2243</ID>
+    <Numero>62</Numero>
+    <Fecha>2009-08-11T18:11:41</Fecha>
+    <FechaTermino>2009-08-11T18:12:41</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2254</ID>
+    <Numero>73</Numero>
+    <Fecha>2009-09-01T11:09:52</Fecha>
+    <FechaTermino>2009-09-01T14:27:52</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2266</ID>
+    <Numero>85</Numero>
+    <Fecha>2009-10-06T11:07:49</Fecha>
+    <FechaTermino>2009-10-06T13:47:49</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2268</ID>
+    <Numero>87</Numero>
+    <Fecha>2009-10-08T10:37:04</Fecha>
+    <FechaTermino>2009-10-08T13:01:33</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2275</ID>
+    <Numero>94</Numero>
+    <Fecha>2009-10-28T10:42:13</Fecha>
+    <FechaTermino>2009-10-28T13:23:43</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2277</ID>
+    <Numero>96</Numero>
+    <Fecha>2009-11-03T11:09:15</Fecha>
+    <FechaTermino>2009-11-03T13:47:43</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2292</ID>
+    <Numero>102</Numero>
+    <Fecha>2009-11-10T18:20:57</Fecha>
+    <FechaTermino>2009-11-10T19:58:27</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2293</ID>
+    <Numero>103</Numero>
+    <Fecha>2009-11-10T20:28:00</Fecha>
+    <FechaTermino>2009-11-11T01:10:30</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2329</ID>
+    <Numero>118</Numero>
+    <Fecha>2010-01-13T10:40:47</Fecha>
+    <FechaTermino>2010-01-13T13:13:47</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2331</ID>
+    <Numero>120</Numero>
+    <Fecha>2010-01-19T11:09:16</Fecha>
+    <FechaTermino>2010-01-19T13:32:46</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2179</ID>
+    <Numero>4</Numero>
+    <Fecha>2009-03-18T10:32:24</Fecha>
+    <FechaTermino>2009-03-18T14:35:24</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2187</ID>
+    <Numero>10</Numero>
+    <Fecha>2009-04-07T16:32:17</Fecha>
+    <FechaTermino>2009-04-07T18:51:17</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2199</ID>
+    <Numero>21</Numero>
+    <Fecha>2009-04-29T14:33:27</Fecha>
+    <FechaTermino>2009-04-29T14:33:57</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2204</ID>
+    <Numero>26</Numero>
+    <Fecha>2009-05-06T18:02:17</Fecha>
+    <FechaTermino>2009-05-06T19:56:17</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2239</ID>
+    <Numero>58</Numero>
+    <Fecha>2009-08-04T11:00:00</Fecha>
+    <FechaTermino>2009-08-04T14:41:54</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2246</ID>
+    <Numero>65</Numero>
+    <Fecha>2009-08-12T18:03:04</Fecha>
+    <FechaTermino>2009-08-12T20:14:34</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2263</ID>
+    <Numero>82</Numero>
+    <Fecha>2009-09-29T11:06:23</Fecha>
+    <FechaTermino>2009-09-29T14:16:23</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2288</ID>
+    <Numero>98</Numero>
+    <Fecha>2009-11-04T10:42:14</Fecha>
+    <FechaTermino>2009-11-04T13:37:14</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2333</ID>
+    <Numero>122</Numero>
+    <Fecha>2010-01-21T10:36:15</Fecha>
+    <FechaTermino>2010-01-21T12:24:15</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2334</ID>
+    <Numero>123</Numero>
+    <Fecha>2010-03-08T18:04:26</Fecha>
+    <FechaTermino>2010-03-08T19:04:56</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2210</ID>
+    <Numero>32</Numero>
+    <Fecha>2009-05-20T10:36:15</Fecha>
+    <FechaTermino>2009-05-20T15:05:45</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2203</ID>
+    <Numero>25</Numero>
+    <Fecha>2009-05-06T10:39:32</Fecha>
+    <FechaTermino>2009-05-06T14:28:32</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2211</ID>
+    <Numero>33</Numero>
+    <Fecha>2009-05-20T15:38:21</Fecha>
+    <FechaTermino>2009-05-20T17:48:21</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2215</ID>
+    <Numero>36</Numero>
+    <Fecha>2009-06-04T10:34:19</Fecha>
+    <FechaTermino>2009-06-04T13:45:49</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2216</ID>
+    <Numero>37</Numero>
+    <Fecha>2009-06-09T11:06:18</Fecha>
+    <FechaTermino>2009-06-09T14:59:18</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2218</ID>
+    <Numero>39</Numero>
+    <Fecha>2009-06-10T16:04:06</Fecha>
+    <FechaTermino>2009-06-10T18:41:06</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2220</ID>
+    <Numero>41</Numero>
+    <Fecha>2009-06-16T11:07:28</Fecha>
+    <FechaTermino>2009-06-16T14:02:58</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2221</ID>
+    <Numero>42</Numero>
+    <Fecha>2009-06-16T17:11:02</Fecha>
+    <FechaTermino>2009-06-16T19:50:02</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2224</ID>
+    <Numero>44</Numero>
+    <Fecha>2009-06-18T10:40:22</Fecha>
+    <FechaTermino>2009-06-18T13:20:22</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2234</ID>
+    <Numero>53</Numero>
+    <Fecha>2009-07-14T18:45:08</Fecha>
+    <FechaTermino>2009-07-14T18:45:38</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2252</ID>
+    <Numero>71</Numero>
+    <Fecha>2009-08-19T18:16:20</Fecha>
+    <FechaTermino>2009-08-19T20:04:50</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2259</ID>
+    <Numero>78</Numero>
+    <Fecha>2009-09-10T10:30:00</Fecha>
+    <FechaTermino>2009-09-10T13:12:57</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2264</ID>
+    <Numero>83</Numero>
+    <Fecha>2009-09-30T10:39:14</Fecha>
+    <FechaTermino>2009-09-30T13:39:44</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2267</ID>
+    <Numero>86</Numero>
+    <Fecha>2009-10-07T10:40:04</Fecha>
+    <FechaTermino>2009-10-07T13:42:04</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2269</ID>
+    <Numero>88</Numero>
+    <Fecha>2009-10-13T11:06:21</Fecha>
+    <FechaTermino>2009-10-13T14:21:21</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2271</ID>
+    <Numero>90</Numero>
+    <Fecha>2009-10-14T10:36:56</Fecha>
+    <FechaTermino>2009-10-14T13:36:26</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2272</ID>
+    <Numero>91</Numero>
+    <Fecha>2009-10-14T15:04:04</Fecha>
+    <FechaTermino>2009-10-14T17:03:04</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2273</ID>
+    <Numero>92</Numero>
+    <Fecha>2009-10-27T11:08:32</Fecha>
+    <FechaTermino>2009-10-27T13:58:02</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2274</ID>
+    <Numero>93</Numero>
+    <Fecha>2009-10-27T18:05:02</Fecha>
+    <FechaTermino>2009-10-27T19:40:02</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2298</ID>
+    <Numero>106</Numero>
+    <Fecha>2009-11-18T11:11:18</Fecha>
+    <FechaTermino>2009-11-18T13:06:18</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2301</ID>
+    <Numero>108</Numero>
+    <Fecha>2009-11-25T11:07:34</Fecha>
+    <FechaTermino>2009-11-25T12:49:04</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2312</ID>
+    <Numero>110</Numero>
+    <Fecha>2009-12-16T10:43:22</Fecha>
+    <FechaTermino>2009-12-16T13:36:22</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2315</ID>
+    <Numero>113</Numero>
+    <Fecha>2009-12-22T11:06:34</Fecha>
+    <FechaTermino>2009-12-22T14:00:34</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2176</ID>
+    <Numero>1</Numero>
+    <Fecha>2009-03-11T10:41:41</Fecha>
+    <FechaTermino>2009-03-11T13:58:11</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2190</ID>
+    <Numero>12</Numero>
+    <Fecha>2009-04-08T16:33:22</Fecha>
+    <FechaTermino>2009-04-08T19:05:52</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2196</ID>
+    <Numero>18</Numero>
+    <Fecha>2009-04-15T18:04:31</Fecha>
+    <FechaTermino>2009-04-15T20:04:01</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2238</ID>
+    <Numero>57</Numero>
+    <Fecha>2009-07-30T10:41:14</Fecha>
+    <FechaTermino>2009-07-30T13:32:14</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2248</ID>
+    <Numero>67</Numero>
+    <Fecha>2009-08-18T11:13:00</Fecha>
+    <FechaTermino>2009-08-18T13:32:53</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2255</ID>
+    <Numero>74</Numero>
+    <Fecha>2009-09-02T10:41:01</Fecha>
+    <FechaTermino>2009-09-02T13:38:01</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2256</ID>
+    <Numero>75</Numero>
+    <Fecha>2009-09-03T10:42:00</Fecha>
+    <FechaTermino>2009-09-03T12:44:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2290</ID>
+    <Numero>100</Numero>
+    <Fecha>2009-11-10T14:52:33</Fecha>
+    <FechaTermino>2009-11-10T14:52:33</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2291</ID>
+    <Numero>101</Numero>
+    <Fecha>2009-11-10T16:07:29</Fecha>
+    <FechaTermino>2009-11-10T17:59:59</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2326</ID>
+    <Numero>115</Numero>
+    <Fecha>2010-01-06T10:41:18</Fecha>
+    <FechaTermino>2010-01-06T13:30:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2314</ID>
+    <Numero>112</Numero>
+    <Fecha>2009-12-21T17:03:29</Fecha>
+    <FechaTermino>2009-12-21T19:36:59</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2299</ID>
+    <Numero>107</Numero>
+    <Fecha>2009-11-18T14:13:40</Fecha>
+    <FechaTermino>2009-11-18T16:39:10</FechaTermino>
+    <Tipo Codigo="61">Especial</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2330</ID>
+    <Numero>119</Numero>
+    <Fecha>2010-01-14T10:33:15</Fecha>
+    <FechaTermino>2010-01-14T12:29:15</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2183</ID>
+    <Numero>7</Numero>
+    <Fecha>2009-04-01T10:42:40</Fecha>
+    <FechaTermino>2009-04-01T15:36:10</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2226</ID>
+    <Numero>45</Numero>
+    <Fecha>2009-06-30T11:11:24</Fecha>
+    <FechaTermino>2009-06-30T15:30:54</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2265</ID>
+    <Numero>84</Numero>
+    <Fecha>2009-10-01T10:39:20</Fecha>
+    <FechaTermino>2009-10-01T13:01:20</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+  <Sesion>
+    <ID>2336</ID>
+    <Numero>125</Numero>
+    <Fecha>2010-03-10T11:21:34</Fecha>
+    <FechaTermino>2010-03-10T11:00:00</FechaTermino>
+    <Tipo Codigo="60">Ordinaria</Tipo>
+    <Estado Codigo="1">Celebrada</Estado>
+  </Sesion>
+</Sesiones>

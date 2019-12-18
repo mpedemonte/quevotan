@@ -1,0 +1,43 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>3032-06</boletin>
+                    <titulo>Declara feriado legal el día 20 de septiembre del año 2002.</titulo>
+                    <fecha_ingreso>21/08/2002</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Tramitación terminada</etapa>
+                    <subetapa> /  </subetapa>
+                    <leynro></leynro>
+                    <diariooficial></diariooficial>
+                    <estado>Rechazado </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=3332&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores><autor><PARLAMENTARIO>Becker Alvear, Germán</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Caraball Martínez, Eliana</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Cardemil Herrera, Alberto</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Letelier Morel, Juan Pablo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Muñoz Aburto, Pedro</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Pérez Arriagada, José</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Rebolledo González, Víctor Manuel</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Riveros Marín, Edgardo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Valenzuela Van Treek, Esteban</PARLAMENTARIO></autor>
+</autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>21/08/2002</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>32/347</SESION><FECHA>21/08/2002</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>21/08/2002</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>34/347</SESION><FECHA>21/08/2002</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>36/347</SESION><FECHA>03/09/2002</FECHA><DESCRIPCIONTRAMITE>Discusión general . Rechazado </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias></urgencias>
+<informes><informe><FECHAINFORME>21/08/2002</FECHAINFORME><TRAMITE>Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=4871&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios></oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>FERIADOS</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>

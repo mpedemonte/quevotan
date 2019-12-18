@@ -1,0 +1,49 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>7041-07</boletin>
+                    <titulo>Modifica el Código Civil en materia de nombramiento de curador especial.</titulo>
+                    <fecha_ingreso>06/07/2010</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Primer trámite constitucional (C.Diputados)</etapa>
+                    <subetapa>Discusión general </subetapa>
+                    <leynro></leynro>
+                    <diariooficial></diariooficial>
+                    <estado>En tramitación </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=7443&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores><autor><PARLAMENTARIO>Baltolu Rasera, Nino</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Barros Montero, Ramón</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Calderón Bassi, Giovanni</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Cristi Marfil, María Angélica</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Eluchans Urenda, Edmundo</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Macaya Danús, Javier</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Sabat Fernández, Marcela</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Silva Méndez, Ernesto</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Ward Edwards, Felipe</PARLAMENTARIO></autor>
+<autor><PARLAMENTARIO>Zalaquett Said, Mónica</PARLAMENTARIO></autor>
+</autores>
+<tramitacion><tramite><SESION>/</SESION><FECHA>06/07/2010</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>47/358</SESION><FECHA>06/07/2010</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Constitución, Legislación y Justicia</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>31/08/2010</FECHA><DESCRIPCIONTRAMITE>Oficio de la Comisión de Familia, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Acordado.</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>30/09/2010</FECHA><DESCRIPCIONTRAMITE>Oficio Comisión de Constitución, Legislación y Justicia para remitir el proyecto a la Comisión de Familia.</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>30/09/2010</FECHA><DESCRIPCIONTRAMITE>Oficio N° 1. Remite el proyecto a la Comisión de Familia</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>02/11/2010</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Familia.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>95/358</SESION><FECHA>03/11/2010</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>96/358</SESION><FECHA>04/11/2010</FECHA><DESCRIPCIONTRAMITE>Discusión general . Queda pendiente . Por acuerdo de los Comités Parlamentarios, luego de la discusión en general del Informe de la Comisión de Familia, el proyecto pasa a la Comisión de Constitución, Legislación y Justicia, por dos semanas.</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias></urgencias>
+<informes><informe><FECHAINFORME>30/09/2010</FECHAINFORME><TRAMITE>Primer informe de comisión de Familia </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=13682&amp;tipodoc=info</LINK_INFORME></informe>
+</informes>
+<comparados></comparados>
+<oficios><oficio><NUMERO>1</NUMERO><FECHA>30/09/2010</FECHA><TRAMITE>Primer informe de comisión</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Otros oficios</TIPO><CAMARA>C. Diputados</CAMARA><DESCRIPCION>Remite el proyecto a la Comisión de Familia</DESCRIPCION><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=15420&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+</oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias><materia><DESCRIPCION>MATRIMONIO CIVIL</DESCRIPCION></materia>
+<materia><DESCRIPCION>TUTORES O CURADORES</DESCRIPCION></materia>
+</materias>
+</proyecto>
+</proyectos>

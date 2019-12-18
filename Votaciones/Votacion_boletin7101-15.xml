@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>12174</ID>
+    <Fecha>2010-09-29T19:47:12</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2426</ID>
+      <Numero>81</Numero>
+      <Fecha>2010-09-29T17:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>7101-15</Boletin>
+    <Articulo>Indicación de la Comisión de Hacienda para sustituir la letra c) del artículo único propuesto por la Comisión de Transportes por la siguiente:
+c) Reemplázase el inciso primero del artículo cuarto transitorio, por el siguiente:
+
+"Otórgase a los Gobiernos Regionales, hasta el año 2016, un aporte especial para el transporte y la conectividad por un monto total de $721.347.780 miles. Para ello, se constituirá una provisión especial con su correspondiente glosa en el presupuesto anual de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior, la que para los años 2011 al 2016, ambos inclusive, será de $120.224.630 miles cada año. Estos montos se reajustarán anualmente considerando la variación que experimente el Índice de Precios al Consumidor.".
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>88</TotalAfirmativos>
+    <TotalNegativos>5</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>12173</ID>
+    <Fecha>2010-09-29T19:46:22</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2426</ID>
+      <Numero>81</Numero>
+      <Fecha>2010-09-29T17:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>7101-15</Boletin>
+    <Articulo>Indicación de la Comisión de Hacienda para incorporar una nueva letra a) en el artículo único del proyecto, mediante el cual se agrega un inciso segundo en el artículo 6° de la ley N°20.378, del siguiente tenor:
+“Asimismo, el Ministerio de Transportes y Telecomunicaciones deberá informar trimestralmente a la Comisión de Obras Públicas, Transportes y Telecomunicaciones de la Cámara de Diputados respecto del estado de funcionamiento del sistema de transporte público licitado de la provincia de Santiago y las comunas de San Bernardo y Puente Alto, en materias tales como: caducidad, cobro de garantías, multas y modificaciones en contratos de concesión de uso de vías y de servicios complementarios, grado de cumplimiento de los contratos señalados, modificación y creación de nuevo servicios de transporte público,  frecuencia y regularidad de los servicios de transportes público, porcentajes de evasión en el pago de la tarifa, reclamos de los usuarios, cumplimiento de la legislación laboral y peticiones de municipios y organizaciones ciudadanas o locales. El referido informe deberá contener todos los antecedentes que respalden la información contenida en el mismo.".
+
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>88</TotalAfirmativos>
+    <TotalNegativos>5</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>12172</ID>
+    <Fecha>2010-09-29T19:45:18</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2426</ID>
+      <Numero>81</Numero>
+      <Fecha>2010-09-29T17:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>7101-15</Boletin>
+    <Articulo>letras a) y b) del artículo único del proyecto propuesto por la Comisión de Transportes y Telecomunicaciones.
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>87</TotalAfirmativos>
+    <TotalNegativos>6</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>12171</ID>
+    <Fecha>2010-09-29T19:44:20</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2426</ID>
+      <Numero>81</Numero>
+      <Fecha>2010-09-29T17:34:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="61">Especial</Tipo>
+    </Sesion>
+    <Boletin>7101-15</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>88</TotalAfirmativos>
+    <TotalNegativos>5</TotalNegativos>
+    <TotalAbstenciones>3</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>

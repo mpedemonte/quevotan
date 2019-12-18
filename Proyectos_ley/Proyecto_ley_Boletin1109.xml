@@ -1,0 +1,41 @@
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>1109-13</boletin>
+                    <titulo>Introduce modificaciones a la ley Nº 19.250.</titulo>
+                    <fecha_ingreso>20/10/1993</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Tramitación terminada</etapa>
+                    <subetapa> /  </subetapa>
+                    <leynro>Ley Nº 19.272</leynro>
+                    <diariooficial>09/12/1993</diariooficial>
+                    <estado>Publicado </estado>
+                    <refundidos></refundidos>
+                    <link_mensaje_mocion>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=2300&amp;tipodoc=mensaje_mocion</link_mensaje_mocion>
+                 </descripcion><autores></autores>
+<tramitacion><tramite><SESION>10/327</SESION><FECHA>20/10/1993</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Pasa a Comisión de Trabajo y Seguridad Social</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>20/10/1993</FECHA><DESCRIPCIONTRAMITE>Ingreso de proyecto .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>03/11/1993</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Trabajo y Seguridad Social.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>09/11/1993</FECHA><DESCRIPCIONTRAMITE>Primer informe de comisión de Hacienda.  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>15/327</SESION><FECHA>10/11/1993</FECHA><DESCRIPCIONTRAMITE>Cuenta de primer informe de comisión .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>17/327</SESION><FECHA>16/11/1993</FECHA><DESCRIPCIONTRAMITE>Discusión general . Aprobado en general y particular a la vez </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>16/11/1993</FECHA><DESCRIPCIONTRAMITE>Oficio de ley a Cámara Revisora .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Primer trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+<tramite><SESION>15/327</SESION><FECHA>17/11/1993</FECHA><DESCRIPCIONTRAMITE>Cuenta de proyecto . Queda para tabla . Aprobado en general y particular, a la vez. Se oficia a la Cámara de Diputados.</DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Segundo trámite constitucional</ETAPDESCRIPCION><CAMARATRAMITE>Senado</CAMARATRAMITE></tramite>
+<tramite><SESION>/</SESION><FECHA>22/11/1993</FECHA><DESCRIPCIONTRAMITE>Oficio de ley al Ejecutivo .  </DESCRIPCIONTRAMITE><ETAPDESCRIPCION>Trámite finalización en Cámara de Origen</ETAPDESCRIPCION><CAMARATRAMITE>C.Diputados</CAMARATRAMITE></tramite>
+</tramitacion>
+<votaciones></votaciones>
+<urgencias><urgencia><TIPO>Suma</TIPO><FECHAINGRESO>20/10/1993</FECHAINGRESO><FECHARETIRO>19/11/1993</FECHARETIRO><MENSAJERETIRO>CADUCADA</MENSAJERETIRO></urgencia>
+</urgencias>
+<informes><informe><FECHAINFORME>03/11/1993</FECHAINFORME><TRAMITE>Primer informe de comisión de Trabajo y Seguridad Social </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><LINK_INFORME>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=9202&amp;tipodoc=info</LINK_INFORME></informe>
+<informe><FECHAINFORME>09/11/1993</FECHAINFORME><TRAMITE>Primer informe de comisión de Hacienda </TRAMITE><ETAPA>Primer trámite constitucional</ETAPA></informe>
+</informes>
+<comparados></comparados>
+<oficios><oficio><NUMERO>1468</NUMERO><FECHA>17/11/1993</FECHA><TRAMITE>Oficio de ley a Cámara Revisora</TRAMITE><ETAPA>Primer trámite constitucional</ETAPA><TIPO>Ley</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=5891&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+<oficio><NUMERO>1480</NUMERO><FECHA>23/11/1993</FECHA><TRAMITE>Oficio de ley al Ejecutivo</TRAMITE><ETAPA>Trámite finalización en Cámara de Origen</ETAPA><TIPO>Ley</TIPO><CAMARA>C. Diputados</CAMARA><LINK_OFICIO>http://www.senado.cl/appsenado/index.php?mo=tramitacion&amp;ac=getDocto&amp;iddocto=5892&amp;tipodoc=ofic</LINK_OFICIO></oficio>
+</oficios>
+<indicaciones></indicaciones>
+<observaciones></observaciones>
+<materias></materias>
+</proyecto>
+</proyectos>

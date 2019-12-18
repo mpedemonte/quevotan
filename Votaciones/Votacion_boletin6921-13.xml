@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votaciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Votacion>
+    <ID>11343</ID>
+    <Fecha>2010-05-11T13:34:08</Fecha>
+    <Tipo Codigo="2">PARTICULAR</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2362</ID>
+      <Numero>23</Numero>
+      <Fecha>2010-05-11T11:06:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6921-13</Boletin>
+    <Articulo>Indicación renovada que tiene por objeto sustituir el artículo único del proyecto por los siguientes artículos 1° y 2°:
+
+"Artículo 1°.- Declárase interpretado el numeral 6 del artículo 159 del Código del Trabajo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, de 2002, del Ministerio del Trabajo y Previsión Social, en el siguiente sentido:
+
+El numeral 6 del artículo 159 del Código del Trabajo en cuanto señala que el contrato de trabajo terminará por caso fortuito o fuerza mayor, debe interpretarse y aplicarse en el sentido que para efectos de la procedencia de esta causal, el hecho constitutivo del caso fortuito o fuerza mayor debe causar necesaria y directamente la imposibilidad absoluta y permanente, por parte del empleador, de seguir cumpliendo con su obligación de otorgar el trabajo convenido, para lo cual deberán considerarse las funciones y el lugar en que se desempeña el trabajador despedido.
+
+Artículo 2°.- Agrégase al numeral 6 del artículo 159 del Código del Trabajo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, de 2002, del Ministerio del Trabajo y Previsión Social, la siguiente oración a continuación del punto aparte, que pasa a ser seguido:
+
+"El empleador que invoque esta causal deberá acreditar no haber contribuido al acaecimiento del hecho invocado y/o a sus efectos lesivos a través del incumplimiento de la normativa relativa a condiciones y mantenimiento del lugar de trabajo, seguridad de la infraestructura donde se prestan los servicios u otras disposiciones de similar naturaleza."
+</Articulo>
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>54</TotalAfirmativos>
+    <TotalNegativos>52</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+  <Votacion>
+    <ID>11342</ID>
+    <Fecha>2010-05-11T13:31:13</Fecha>
+    <Tipo Codigo="1">GENERAL</Tipo>
+    <Resultado Codigo="1">APROBADO</Resultado>
+    <Quorum Codigo="1">QUORUM SIMPLE</Quorum>
+    <Sesion>
+      <ID>2362</ID>
+      <Numero>23</Numero>
+      <Fecha>2010-05-11T11:06:00</Fecha>
+      <FechaTermino>0001-01-01T00:00:00</FechaTermino>
+      <Tipo Codigo="60">Ordinaria</Tipo>
+    </Sesion>
+    <Boletin>6921-13</Boletin>
+    <Articulo />
+    <Tramite Codigo="1">PRIMER TRÁMITE</Tramite>
+    <Informe Codigo="1">PRIMER INFORME</Informe>
+    <TotalAfirmativos>103</TotalAfirmativos>
+    <TotalNegativos>2</TotalNegativos>
+    <TotalAbstenciones>0</TotalAbstenciones>
+    <TotalDispensados>0</TotalDispensados>
+  </Votacion>
+</Votaciones>
